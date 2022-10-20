@@ -1,0 +1,3045 @@
+{
+  "lastest": {
+    "release": "1.19.31.1",
+    "beta": "1.19.31.1",
+    "preview": "1.19.50.21"
+  },
+  "versions": [
+    {
+      "id": "1.19.50.21",
+      "releaseTime": "2022-10-19",
+      "type": "preview",
+      "serverId": "272173068",
+      "version": "1.19.5021.0",
+      "uuid": {
+        "x64": "ccf03008-c7a9-48dc-bb50-20bc0487b76e",
+        "x86": "c5e2c852-0e26-4072-b5f6-90a6d905c428"
+      }
+    },
+    {
+      "id": "1.19.50.20",
+      "releaseTime": "2022-10-13",
+      "type": "preview",
+      "serverId": "271965740",
+      "version": "1.19.5020.0",
+      "uuid": {
+        "x64": "25ced4d1-6039-4a74-aff5-6addb8b6e3f6",
+        "x86": "12d9e287-8258-4c4a-84f3-482bfb1941c1"
+      }
+    },
+    {
+      "id": "1.19.40.24",
+      "releaseTime": "2022-10-05",
+      "type": "preview",
+      "serverId": "271527460",
+      "version": "1.19.4024.0",
+      "uuid": {
+        "x64": "cecf5e45-71b9-44c1-b0db-ce186979b59c",
+        "x86": "0b7e37e5-d71c-443f-846d-ec4558a17aff"
+      }
+    },
+    {
+      "id": "1.19.40.23",
+      "releaseTime": "2022-09-29",
+      "type": "preview",
+      "serverId": "271147953",
+      "version": "1.19.4023.0",
+      "uuid": {
+        "x64": "45476426-838f-450a-92f5-12b4fec6c91f",
+        "x86": "9fb1f1f3-c78c-476d-abba-d9d1b74b011f"
+      }
+    },
+    {
+      "id": "1.19.40.22",
+      "releaseTime": "2022-09-21",
+      "type": "preview",
+      "serverId": "270872120",
+      "version": "1.19.4022.0",
+      "uuid": {
+        "x64": "2a0636f8-60d8-4e83-a779-5602fcfd05c9",
+        "x86": "4eb76468-4821-4495-b1f0-2fdc33168246"
+      }
+    },
+    {
+      "id": "1.19.40.21",
+      "releaseTime": "2022-09-14",
+      "type": "preview",
+      "serverId": "270348480",
+      "version": "1.19.4021.0",
+      "uuid": {
+        "x64": "aa8c606c-8ec0-4861-b23f-9234b2918ff1",
+        "x86": "98ef859d-1308-4600-8db4-d84940e5543b"
+      }
+    },
+    {
+      "id": "1.19.30.25",
+      "releaseTime": "2022-08-32",
+      "type": "preview",
+      "serverId": "269732195",
+      "version": "1.19.3025.0",
+      "uuid": {
+        "x64": "83d8715d-1c6d-48e7-938d-4f6f9be0a495",
+        "x86": "c26788ad-9a63-43dc-adcf-5b0ea89b8a06"
+      }
+    },
+    {
+      "id": "1.19.30.23",
+      "releaseTime": "2022-08-25",
+      "type": "preview",
+      "serverId": "269358564",
+      "version": "1.19.3023.0",
+      "uuid": {
+        "x64": "0eb61511-ed39-4193-9159-f1931dcf2ee3",
+        "x86": "39c393fa-670f-4b65-93cf-175c067d4742"
+      }
+    },
+    {
+      "id": "1.19.30.22",
+      "releaseTime": "2022-08-17",
+      "type": "preview",
+      "serverId": "268852794",
+      "version": "1.19.3022.0",
+      "uuid": {
+        "x64": "ea80bbdd-216c-4028-b316-ac5501550623",
+        "x86": "6b21d165-7cd7-4a76-9fc3-2130d647978e"
+      }
+    },
+    {
+      "id": "1.19.30.20",
+      "releaseTime": "2022-08-04",
+      "type": "preview",
+      "serverId": "268214786",
+      "version": "1.19.3020.0",
+      "uuid": {
+        "x64": "780cc54f-f8c1-4dfb-8af3-11ab3fd52ec5",
+        "x86": "38048bbc-8595-4e71-b405-75f18e13c404"
+      }
+    },
+    {
+      "id": "1.19.20.24",
+      "releaseTime": "2022-07-27",
+      "type": "preview",
+      "serverId": "0",
+      "version": "1.19.2024.0",
+      "uuid": {
+        "x64": "1fc60666-9d53-4595-aceb-6f38b862cc6b",
+        "x86": "cb0f326c-98a7-411e-aa25-f6b4fe936fd1"
+      }
+    },
+    {
+      "id": "1.19.20.23",
+      "releaseTime": "2022-07-20",
+      "type": "preview",
+      "serverId": "267432489",
+      "version": "1.19.2023.0",
+      "uuid": {
+        "x64": "b6940dee-d95a-4941-b688-2c04b466eba1",
+        "x86": "942a214e-159b-491e-ac99-03bb3d22fb0f"
+      }
+    },
+    {
+      "id": "1.19.20.22",
+      "releaseTime": "2022-07-13",
+      "type": "preview",
+      "serverId": "266930797",
+      "version": "1.19.2022.0",
+      "uuid": {
+        "x64": "86159803-c7f2-4227-8c8f-272f9b90964f",
+        "x86": "92c0e899-7f8e-4237-adc6-fcbd9ced01da"
+      }
+    },
+    {
+      "id": "1.19.20.20",
+      "releaseTime": "2022-06-29",
+      "type": "preview",
+      "serverId": "266257725",
+      "version": "1.19.2020.0",
+      "uuid": {
+        "x64": "171d732f-9f70-464f-919b-48d9a7295ca4",
+        "x86": "ca20126e-067b-454e-bdcc-d81551f02a83"
+      }
+    },
+    {
+      "id": "1.19.10.24",
+      "releaseTime": "2022-06-23",
+      "type": "preview",
+      "serverId": "266046611",
+      "version": "1.19.1024.0",
+      "uuid": {
+        "x64": "1897dffa-22b6-4c34-bfa1-1eeee7c072af",
+        "x86": "cbd91eb9-b873-48fe-bde2-570313d851aa"
+      }
+    },
+    {
+      "id": "1.19.10.22",
+      "releaseTime": "2022-06-08",
+      "type": "preview",
+      "serverId": "265544129",
+      "version": "1.19.1022.0",
+      "uuid": {
+        "x64": "459fb408-ed83-4af5-a9a5-c5464745f3bf",
+        "x86": "eea0d4b5-2ccf-41a6-8f3d-40373a5cae88"
+      }
+    },
+    {
+      "id": "1.19.10.21",
+      "releaseTime": "2022-05-32",
+      "type": "preview",
+      "serverId": "265333310",
+      "version": "1.19.1021.0",
+      "uuid": {
+        "x64": "fbf7b3a8-6bb1-443d-8fe1-f2153a78869f",
+        "x86": "a4ecbc0c-656a-4f3d-b8e9-8d6d4fc73fc7"
+      }
+    },
+    {
+      "id": "1.19.10.20",
+      "releaseTime": "2022-05-25",
+      "type": "preview",
+      "serverId": "265135284",
+      "version": "1.19.1020.0",
+      "uuid": {
+        "x64": "d5b0aacb-ab09-4ed7-9926-c5f96545b781",
+        "x86": "93e7af47-1b73-46db-8d45-142ed8b41ff0"
+      }
+    },
+    {
+      "id": "1.19.0.35",
+      "releaseTime": "2022-06-07",
+      "type": "preview",
+      "serverId": "264959624",
+      "version": "1.19.35.0",
+      "uuid": {
+        "x64": "7c56fb0e-fdfb-4aa8-86ba-21428b1a5ccc",
+        "x86": "3108bd82-0c1a-404a-a09c-88d21e0376a9"
+      }
+    },
+    {
+      "id": "1.19.0.33",
+      "releaseTime": "2022-06-07",
+      "type": "preview",
+      "serverId": "264754153",
+      "version": "1.19.33.0",
+      "uuid": {
+        "x64": "c43dab90-0d2a-4e3b-b0f7-99ec402f1766",
+        "x86": "98263363-319e-476e-b35e-7b089ec4cbba"
+      }
+    },
+    {
+      "id": "1.19.0.31",
+      "releaseTime": "2022-06-07",
+      "type": "preview",
+      "serverId": "264417553",
+      "version": "1.19.31.0",
+      "uuid": {
+        "x64": "346e419d-a3af-42cf-a134-5e1eb2247aba",
+        "x86": "daaddfd0-df1b-49a8-b37c-3eee7c418bd2"
+      }
+    },
+    {
+      "id": "1.19.0.29",
+      "releaseTime": "2022-06-07",
+      "type": "preview",
+      "serverId": "264201023",
+      "version": "1.19.29.0",
+      "uuid": {
+        "x64": "4f705542-7bee-4772-b556-192c13ab0263",
+        "x86": "b8ce1303-75b2-4c93-b553-f6ed76319ac1"
+      }
+    },
+    {
+      "id": "1.19.0.27",
+      "releaseTime": "2022-06-07",
+      "type": "preview",
+      "serverId": "263888277",
+      "version": "1.19.27.0",
+      "uuid": {
+        "x64": "333ef677-04eb-4875-b520-6ee27bd99acf",
+        "x86": "59d66553-3035-484a-af2c-72f7b30405f1"
+      }
+    },
+    {
+      "id": "1.19.0.25",
+      "releaseTime": "2022-06-07",
+      "type": "preview",
+      "serverId": "263639212",
+      "version": "1.19.25.0",
+      "uuid": {
+        "x64": "a3b9ab2b-a655-4143-ae89-8ef7538f795a",
+        "x86": "1ea67607-4515-4d23-99c2-5d1ab695f15e"
+      }
+    },
+    {
+      "id": "1.19.0.21",
+      "releaseTime": "2022-06-07",
+      "type": "preview",
+      "serverId": "263150208",
+      "version": "1.19.21.0",
+      "uuid": {
+        "x64": "51695290-9202-4d58-961e-19cbe81b1a13",
+        "x86": "4d3eda5a-72c7-45bd-8eee-26380b9e36ab"
+      }
+    },
+    {
+      "id": "1.18.30.31",
+      "releaseTime": "2022-04-19",
+      "type": "preview",
+      "serverId": "262624604",
+      "version": "1.18.3031.0",
+      "uuid": {
+        "x64": "7d41c86c-e066-4a30-bad4-0044ba8391be",
+        "x86": "1cd5e48d-94b2-4ef4-8771-4f98e1c0cbd9"
+      }
+    },
+    {
+      "id": "1.18.30.29",
+      "releaseTime": "2022-04-19",
+      "type": "preview",
+      "serverId": "262391792",
+      "version": "1.18.3029.0",
+      "uuid": {
+        "x64": "a5b4a9a4-6990-47a5-b71a-45271cb4027b",
+        "x86": "5964fccb-6d3e-4c43-8d2c-df18b866f5e8"
+      }
+    },
+    {
+      "id": "1.18.30.27",
+      "releaseTime": "2022-04-19",
+      "type": "preview",
+      "serverId": "262075669",
+      "version": "1.18.3027.0",
+      "uuid": {
+        "x64": "d3f0cc4a-95c6-4b07-8de1-7b1e17a471f5",
+        "x86": "944caa2f-0d09-44f1-ae17-f27abcd60a8a"
+      }
+    },
+    {
+      "id": "1.18.30.23",
+      "releaseTime": "2022-04-19",
+      "type": "preview",
+      "serverId": "261526597",
+      "version": "1.18.3023.0",
+      "uuid": {
+        "x64": "83bb9e89-16cb-4a35-9399-5c87338a74a8",
+        "x86": "3e297142-3bcf-4cf0-9b4a-29bcdd5baf9e"
+      }
+    },
+    {
+      "id": "1.18.30.21",
+      "releaseTime": "2022-04-19",
+      "type": "preview",
+      "serverId": "261240289",
+      "version": "1.18.3021.0",
+      "uuid": {
+        "x64": "6b52b0bb-9150-48b4-9af7-42812a38085f",
+        "x86": "1bfa1c4d-da97-48d9-861b-b02a85454ba7"
+      }
+    },
+    {
+      "id": "1.18.20.30",
+      "releaseTime": "2022-04-19",
+      "type": "preview",
+      "serverId": "260829159",
+      "version": "1.18.2030.0",
+      "uuid": {
+        "x64": "d6740f20-5fe2-4e5e-9a2c-1b4bd351c1e0",
+        "x86": "a323bb3b-66c1-483b-9e64-9027e5bfbfc5"
+      }
+    },
+    {
+      "id": "1.18.20.28",
+      "releaseTime": "2022-04-19",
+      "type": "preview",
+      "serverId": "260410377",
+      "version": "1.18.2028.0",
+      "uuid": {
+        "x64": "2ea9c62c-c58a-4aca-ac2a-b9ece26a7f0f",
+        "x86": "f639597d-888f-4b09-80a3-3937622ce3b1"
+      }
+    },
+    {
+      "id": "1.18.20.26",
+      "releaseTime": "2022-04-19",
+      "type": "preview",
+      "serverId": "260032454",
+      "version": "1.18.2026.0",
+      "uuid": {
+        "x64": "38726d8b-13cf-4dd0-a7f3-6e68f931a990",
+        "x86": "30445299-b79a-400a-a58c-e87bbae341d1"
+      }
+    },
+    {
+      "id": "1.19.31.1",
+      "releaseTime": "2022-10-04",
+      "type": "beta",
+      "serverId": "271393050",
+      "version": "1.19.3101.0",
+      "uuid": {
+        "arm": "26205022-2f8f-434c-93e6-9bb5a0ce1c66",
+        "x64": "65ca226e-08b0-447b-bd59-eed353f4b699",
+        "x86": "e176bdf5-5258-423f-8311-2671ec8e0545"
+      }
+    },
+    {
+      "id": "1.19.30.4",
+      "releaseTime": "2022-09-20",
+      "type": "beta",
+      "serverId": "270689908",
+      "version": "1.19.3004.0",
+      "uuid": {
+        "arm": "a25b10e8-0580-448f-919a-b407e126afbe",
+        "x64": "8b2d9707-2b2e-4f6f-bbc5-0035bf78157a",
+        "x86": "672a5f09-af9c-4285-a9c7-f305d249370f"
+      }
+    },
+    {
+      "id": "1.19.22.1",
+      "releaseTime": "2022-08-32",
+      "type": "beta",
+      "serverId": "269762069",
+      "version": "1.19.2201.0",
+      "uuid": {
+        "arm": "5ee52617-6a34-4a9c-91f3-55e9ee8d0668",
+        "x64": "8d7b01b1-1999-4dc6-b350-5aa7fe7754fb",
+        "x86": "0b55260e-8fcd-4964-b683-0c54b0401233"
+      }
+    },
+    {
+      "id": "1.19.21.1",
+      "releaseTime": "2022-08-23",
+      "type": "beta",
+      "serverId": "269213534",
+      "version": "1.19.2101.0",
+      "uuid": {
+        "arm": "cc30b47f-837f-442b-8fb1-21b8503ded02",
+        "x64": "90ad4ffd-eea2-4983-bc5d-071f546955a1",
+        "x86": "495bd9be-c16f-477f-918f-8f16e746a9ff"
+      }
+    },
+    {
+      "id": "1.19.20.2",
+      "releaseTime": "2022-08-09",
+      "type": "beta",
+      "serverId": "268373234",
+      "version": "1.19.2002.0",
+      "uuid": {
+        "arm": "3cc7d089-d868-4579-b590-451a2054bdad",
+        "x64": "dc129834-049b-4de0-8063-044f356efa5f",
+        "x86": "1d720eea-ff21-4dab-8d1d-f1483491e518"
+      }
+    },
+    {
+      "id": "1.19.11.1",
+      "releaseTime": "2022-07-26",
+      "type": "beta",
+      "serverId": "267688768",
+      "version": "1.19.1101.0",
+      "uuid": {
+        "arm": "30ea28fd-335b-4052-b395-c9901ce5b7a9",
+        "x64": "eaf5ca00-5db4-4fda-ba11-d94536d5b6e4",
+        "x86": "2410a038-ada3-44b8-b223-5b9fa288be69"
+      }
+    },
+    {
+      "id": "1.19.10.3",
+      "releaseTime": "2022-07-12",
+      "type": "beta",
+      "serverId": "266849057",
+      "version": "1.19.1003.0",
+      "uuid": {
+        "arm": "c320a2b7-3354-4bfc-8876-fed8a2025ca0",
+        "x64": "ffe1a0a3-73d4-4bbf-8cf5-cb5514a1665a",
+        "x86": "09a0a456-f863-4322-934d-68b48127aa1e"
+      }
+    },
+    {
+      "id": "1.19.2.2",
+      "releaseTime": "2022-06-22",
+      "type": "beta",
+      "serverId": "266010735",
+      "version": "1.19.202.0",
+      "uuid": {
+        "arm": "e41eaf79-6997-4d51-a8fc-ebae9863d7a7",
+        "x64": "63fac18d-e4f9-427b-832c-a3ea4965b077",
+        "x86": "9300d21c-eea6-47f1-8e1c-86bfef95e2f8"
+      }
+    },
+    {
+      "id": "1.19.0.5",
+      "releaseTime": "2022-06-07",
+      "type": "beta",
+      "serverId": "265454713",
+      "version": "1.19.5.0",
+      "uuid": {
+        "arm": "841b487b-746d-44b8-a2da-84fdf2937d3c",
+        "x64": "03c5e6a4-8f9d-4de4-90b9-555ac836bbc8",
+        "x86": "c40398ef-2b6a-4b7a-845a-8f50fd2dc861"
+      }
+    },
+    {
+      "id": "1.18.31.4",
+      "releaseTime": "2022-04-27",
+      "type": "beta",
+      "serverId": "264870160",
+      "version": "1.18.3104.0",
+      "uuid": {
+        "arm": "b119304d-f285-4fc6-b1ce-0288c2d9032c",
+        "x64": "d0e668bc-230d-4bef-87d0-23e5092ab95a",
+        "x86": "88f3071e-e1e1-4d41-899b-49b307dc47e2"
+      }
+    },
+    {
+      "id": "1.19.0.34",
+      "releaseTime": "2022-05-19",
+      "type": "beta",
+      "serverId": "264922045",
+      "version": "1.19.34.0",
+      "uuid": {
+        "x64": "de29f390-f1eb-4367-aa40-406fdb268f23",
+        "x86": "02300160-91f1-43ea-b00d-831c887c3bc7"
+      }
+    },
+    {
+      "id": "1.19.0.32",
+      "releaseTime": "2022-05-12",
+      "type": "beta",
+      "serverId": "264772273",
+      "version": "1.19.32.0",
+      "uuid": {
+        "x64": "a4eb3f6d-cb10-4a4c-979c-25b5be67f8fe",
+        "x86": "0b2225b9-fced-421e-a720-be99c3ad1e1a"
+      }
+    },
+    {
+      "id": "1.19.0.30",
+      "releaseTime": "2022-05-04",
+      "type": "beta",
+      "serverId": "264433469",
+      "version": "1.19.30.0",
+      "uuid": {
+        "x64": "4f4dfe89-ba49-4b9e-bb74-3d1ca7b98a1d",
+        "x86": "276ba921-5195-45b6-b5fb-8746efe3f3bd"
+      }
+    },
+    {
+      "id": "1.19.0.28",
+      "releaseTime": "2022-04-28",
+      "type": "beta",
+      "serverId": "264214958",
+      "version": "1.19.28.0",
+      "uuid": {
+        "x64": "6ce0365d-6e5c-41cc-b981-a5bdec8d77e9",
+        "x86": "e46f7b2f-97ad-44f3-b9b2-ccd56cd522b5"
+      }
+    },
+    {
+      "id": "1.18.30.4",
+      "releaseTime": "2022-04-19",
+      "type": "beta",
+      "serverId": "263983790",
+      "version": "1.18.3004.0",
+      "uuid": {
+        "arm": "0d7920ca-a91e-43d9-a9c2-f57733eee571",
+        "x64": "02c02fa9-3f7e-45ac-a4ed-6bf1618eab09",
+        "x86": "2d2f52e4-2927-4e94-a2a9-2d46f2e3a095"
+      }
+    },
+    {
+      "id": "1.19.0.26",
+      "releaseTime": "2022-04-20",
+      "type": "beta",
+      "serverId": "263845505",
+      "version": "1.19.26.0",
+      "uuid": {
+        "x64": "67bc1dca-837b-4c46-a51d-8a80932d3a95",
+        "x86": "8a65e21e-f1e4-45c9-9dde-bc2afdba76ce"
+      }
+    },
+    {
+      "id": "1.19.0.24",
+      "releaseTime": "2022-04-14",
+      "type": "beta",
+      "serverId": "263618153",
+      "version": "1.19.24.0",
+      "uuid": {
+        "x64": "fd5f0e9e-f23b-46ee-abb0-13a8aba121ca",
+        "x86": "659359d2-558d-4836-b238-54397e31d845"
+      }
+    },
+    {
+      "id": "1.19.0.20",
+      "releaseTime": "2022-04-06",
+      "type": "beta",
+      "serverId": "263158110",
+      "version": "1.19.20.0",
+      "uuid": {
+        "x64": "428ca20c-b3b5-4cac-a302-85ad59370160",
+        "x86": "59f5eccc-868c-4976-8894-284d88cc0934"
+      }
+    },
+    {
+      "id": "1.18.30.30",
+      "releaseTime": "2022-03-26",
+      "type": "beta",
+      "serverId": "262633428",
+      "version": "1.18.3030.0",
+      "uuid": {
+        "x64": "ae1f9b4f-b485-480c-8b3e-329945cde881",
+        "x86": "7f12f9f5-7aa0-4912-a2f7-da4923becee4"
+      }
+    },
+    {
+      "id": "1.18.30.28",
+      "releaseTime": "2022-03-24",
+      "type": "beta",
+      "serverId": "262432343",
+      "version": "1.18.3028.0",
+      "uuid": {
+        "x64": "39706d35-1de8-4b71-83f1-f0ff6715328c",
+        "x86": "13262ac2-798b-41f3-aa53-94b81257f279"
+      }
+    },
+    {
+      "id": "1.18.30.26",
+      "releaseTime": "2022-03-17",
+      "type": "beta",
+      "serverId": "262065900",
+      "version": "1.18.3026.0",
+      "uuid": {
+        "x64": "364e2fbd-f75d-4af6-a93f-80c8040af133",
+        "x86": "d0829fac-27cc-4955-a69f-18d6592b9506"
+      }
+    },
+    {
+      "id": "1.18.30.22",
+      "releaseTime": "2022-03-10",
+      "type": "beta",
+      "serverId": "261563145",
+      "version": "1.18.3022.0",
+      "uuid": {
+        "x64": "e0458217-f2ca-4ddb-b971-ff22d7a5d12e",
+        "x86": "1f112a64-0ec2-4ece-b0d9-d47a59bcb2ca"
+      }
+    },
+    {
+      "id": "1.18.30.20",
+      "releaseTime": "2022-03-04",
+      "type": "beta",
+      "serverId": "261239135",
+      "version": "1.18.3020.0",
+      "uuid": {
+        "x64": "f3636a2e-155b-4e8e-b52e-bd8ee8046f4b",
+        "x86": "60db42ed-d865-4054-a6a9-b7efad5b15fd"
+      }
+    },
+    {
+      "id": "1.18.20.29",
+      "releaseTime": "2022-02-25",
+      "type": "beta",
+      "serverId": "260788711",
+      "version": "1.18.2029.0",
+      "uuid": {
+        "x64": "43d4107d-b86b-48ca-a190-fae8b52c0a4a",
+        "x86": "dca92067-cbf1-46c3-820b-59616852668f"
+      }
+    },
+    {
+      "id": "1.18.20.27",
+      "releaseTime": "2022-02-18",
+      "type": "beta",
+      "serverId": "260381604",
+      "version": "1.18.2027.0",
+      "uuid": {
+        "x64": "db0224df-c0b7-4e2d-8613-2ae242876e08",
+        "x86": "ccb5b6c7-6d26-43e8-8f2c-ec7ad93142a9"
+      }
+    },
+    {
+      "id": "1.18.20.25",
+      "releaseTime": "2022-02-10",
+      "type": "beta",
+      "serverId": "260016087",
+      "version": "1.18.2025.0",
+      "uuid": {
+        "x64": "54c05f83-3dea-48e2-b6f0-5b53a0dcd715",
+        "x86": "07f20973-1577-4d55-9425-440ca982512d"
+      }
+    },
+    {
+      "id": "1.18.20.23",
+      "releaseTime": "2022-02-03",
+      "type": "beta",
+      "serverId": "259461937",
+      "version": "1.18.2023.0",
+      "uuid": {
+        "x64": "6206f706-eba6-47a4-869b-edbff913f782",
+        "x86": "a612664f-a398-44e1-8822-3a3dbba484c1"
+      }
+    },
+    {
+      "id": "1.18.20.21",
+      "releaseTime": "2022-01-28",
+      "type": "beta",
+      "serverId": "259198956",
+      "version": "1.18.2021.0",
+      "uuid": {
+        "x64": "2a4bad3c-94f1-4335-84c3-4c0585bd5805",
+        "x86": "1785040c-daca-4b64-9412-1a64e8095971"
+      }
+    },
+    {
+      "id": "1.18.10.28",
+      "releaseTime": "2022-01-21",
+      "type": "beta",
+      "serverId": "258808040",
+      "version": "1.18.1028.0",
+      "uuid": {
+        "x64": "f5ccf4f3-b02d-4fe1-9ead-26d574179b7a",
+        "x86": "8a5223dd-370b-4bfb-a8b4-4bf1f0118420"
+      }
+    },
+    {
+      "id": "1.18.10.27",
+      "releaseTime": "2022-01-12",
+      "type": "beta",
+      "serverId": "258246788",
+      "version": "1.18.1027.0",
+      "uuid": {
+        "x64": "e3b487e0-7ade-48eb-9862-22a27c0e6e05",
+        "x86": "acc8dea3-56f4-4529-bc92-04feb10592ca"
+      }
+    },
+    {
+      "id": "1.18.10.26",
+      "releaseTime": "2022-01-06",
+      "type": "beta",
+      "serverId": "257991273",
+      "version": "1.18.1026.0",
+      "uuid": {
+        "x64": "edd8d95b-f435-41db-8a37-6ae8119e1864",
+        "x86": "76dc3c2e-ea24-4480-beea-87e45fbf397f"
+      }
+    },
+    {
+      "id": "1.18.10.21",
+      "releaseTime": "2021-12-02",
+      "type": "beta",
+      "serverId": "256618397",
+      "version": "1.18.1021.0",
+      "uuid": {
+        "x64": "a43581cc-f4cd-4ef1-a6b4-849a616043f7",
+        "x86": "7446c689-396b-47c3-bfc4-0dec72fe8ad7"
+      }
+    },
+    {
+      "id": "1.18.10.20",
+      "releaseTime": "2021-11-19",
+      "type": "beta",
+      "serverId": "256146105",
+      "version": "1.18.1020.0",
+      "uuid": {
+        "x64": "9b4f4e4e-ac4f-4273-94dd-27c3cfc0781a",
+        "x86": "1a4fcba0-ce91-442f-aa5d-48c60c2d9090"
+      }
+    },
+    {
+      "id": "1.18.0.27",
+      "releaseTime": "2021-11-12",
+      "type": "beta",
+      "serverId": "255815133",
+      "version": "1.18.27.0",
+      "uuid": {
+        "x64": "424f8555-acea-4aa7-a399-eef3088d003e",
+        "x86": "90ac67f7-3b1d-4f42-98fc-d56d804eadea"
+      }
+    },
+    {
+      "id": "1.18.0.25",
+      "releaseTime": "2021-11-05",
+      "type": "beta",
+      "serverId": "255498199",
+      "version": "1.18.25.0",
+      "uuid": {
+        "arm": "b6917ead-d54a-4e25-b9a0-cc689a29068f",
+        "x86": "0e4df1e3-286b-49fb-a5f1-235e20399482",
+        "x64": "b1dd304a-e9ef-4d21-b34a-479de420ca12"
+      }
+    },
+    {
+      "id": "1.18.0.24",
+      "releaseTime": "2021-10-27",
+      "type": "beta",
+      "serverId": "255168504",
+      "version": "1.18.24.0",
+      "uuid": {
+        "x64": "0c554227-7ee4-4ef2-9fa0-553b90eda2f7",
+        "x86": "3188c9b2-8cb8-42c3-b94c-105a0bbd3187"
+      }
+    },
+    {
+      "id": "1.17.40.6",
+      "releaseTime": "2021-10-19",
+      "type": "beta",
+      "serverId": "254918680",
+      "version": "1.17.4006.0",
+      "uuid": {
+        "arm": "b60ddcb2-ecc0-4eeb-8452-e27e12c01e2f",
+        "x64": "d83b5c5c-fcb2-42d3-8c88-62de915b1d9f",
+        "x86": "4e8ec769-186b-442a-9e86-2eeba2379666"
+      }
+    },
+    {
+      "id": "1.18.0.22",
+      "releaseTime": "2021-10-21",
+      "type": "beta",
+      "serverId": "255030542",
+      "version": "1.18.22.0",
+      "uuid": {
+        "x64": "089e779a-27ae-4236-9dc7-904258697e44",
+        "x86": "f77fe338-d8ed-46ea-abe2-47d989ff8253"
+      }
+    },
+    {
+      "id": "1.18.0.21",
+      "releaseTime": "2021-10-14",
+      "type": "beta",
+      "serverId": "254918705",
+      "version": "1.18.21.0",
+      "uuid": {
+        "x64": "53efe25f-21b1-489d-94ab-93469a574843",
+        "x86": "5301e64b-2f52-4034-a2ee-bab3dfbab8c0"
+      }
+    },
+    {
+      "id": "1.18.0.20",
+      "releaseTime": "2021-10-06",
+      "type": "beta",
+      "serverId": "254445877",
+      "version": "1.18.20.0",
+      "uuid": {
+        "x64": "4b98b552-63a7-45ff-b91b-76b07125520e",
+        "x86": "092bc138-bfeb-4a74-b842-2c04a357edcc"
+      }
+    },
+    {
+      "id": "1.17.40.23",
+      "releaseTime": "2021-09-30",
+      "type": "beta",
+      "serverId": "254266245",
+      "version": "1.17.4023.0",
+      "uuid": {
+        "x64": "5cf57790-be86-45a4-9635-a73682056842",
+        "x86": "a23320bd-a6c4-4c64-8ac6-351ad0638cf5"
+      }
+    },
+    {
+      "id": "1.17.40.21",
+      "releaseTime": "2021-09-22",
+      "type": "beta",
+      "serverId": "253978150",
+      "version": "1.17.4021.0",
+      "uuid": {
+        "x64": "f2debeb2-d9ee-4f91-b0c3-f2afb06e3722",
+        "x86": "5768d36f-6383-4f76-8d7c-a7017fcf47df"
+      }
+    },
+    {
+      "id": "1.17.40.20",
+      "releaseTime": "2021-09-15",
+      "type": "beta",
+      "serverId": "253654340",
+      "version": "1.17.4020.0",
+      "uuid": {
+        "x64": "5fc22ec6-ce9d-4a07-b11d-f3e1fd227991",
+        "x86": "13632718-cb26-4646-9a2f-7c06e064d5c1"
+      }
+    },
+    {
+      "id": "1.17.30.25",
+      "releaseTime": "2021-09-09",
+      "type": "beta",
+      "serverId": "253409072",
+      "version": "1.17.3025.0",
+      "uuid": {
+        "x64": "e307e111-ed2f-4856-a388-a856978aad04",
+        "x86": "6083ebee-73f2-4ffb-b14a-764d6bb5cdc3"
+      }
+    },
+    {
+      "id": "1.17.30.24",
+      "releaseTime": "2021-09-02",
+      "type": "beta",
+      "serverId": "253162611",
+      "version": "1.17.3024.0",
+      "uuid": {
+        "x64": "d388898d-8d75-4565-9a25-c5728d56b3fc",
+        "x86": "31dcb5bb-9953-4bd2-ae5c-7ba0894cc05f"
+      }
+    },
+    {
+      "id": "1.17.30.23",
+      "releaseTime": "2021-08-25",
+      "type": "beta",
+      "serverId": "252955347",
+      "version": "1.17.3023.0",
+      "uuid": {
+        "x64": "343ebff4-04e3-45fa-ac48-d37d014f815c",
+        "x86": "604dcdbc-aaf5-431d-81f6-ed61a22db624"
+      }
+    },
+    {
+      "id": "1.17.30.22",
+      "releaseTime": "2021-08-18",
+      "type": "beta",
+      "serverId": "252782172",
+      "version": "1.17.3022.0",
+      "uuid": {
+        "x64": "6b142d33-567c-4238-8a29-19251989ae6e",
+        "x86": "dd37a4e2-39c1-4ece-bcd6-58545fce623d"
+      }
+    },
+    {
+      "id": "1.17.30.21",
+      "releaseTime": "2021-08-12",
+      "type": "beta",
+      "serverId": "252624193",
+      "version": "1.17.3021.0",
+      "uuid": {
+        "x64": "b6f63f59-16d4-40bc-b457-2e5d8af11560",
+        "x86": "b85ffb60-b938-4dfe-b8f5-5728a1871378"
+      }
+    },
+    {
+      "id": "1.17.30.20",
+      "releaseTime": "2021-08-04",
+      "type": "beta",
+      "serverId": "252322491",
+      "version": "1.17.3020.0",
+      "uuid": {
+        "x64": "ef538781-9593-4b49-982c-d4fa5661fd55",
+        "x86": "8782b88b-2541-45db-a644-da0043f210fa"
+      }
+    },
+    {
+      "id": "1.17.20.23",
+      "releaseTime": "2021-07-22",
+      "type": "beta",
+      "serverId": "251934193",
+      "version": "1.17.2023.0",
+      "uuid": {
+        "x64": "a7b0b99d-54c2-4f97-8d61-fca30a0e4680",
+        "x86": "d394a048-4bc7-4213-a6da-f017a8b4ec1f"
+      }
+    },
+    {
+      "id": "1.17.20.22",
+      "releaseTime": "2021-07-14",
+      "type": "beta",
+      "serverId": "251664116",
+      "version": "1.17.2022.0",
+      "uuid": {
+        "x64": "ac6bf97e-24e7-48c6-85d4-35f3317d4a27",
+        "x86": "d563f6b3-a07b-462e-a745-858f78dd5818"
+      }
+    },
+    {
+      "id": "1.17.20.21",
+      "releaseTime": "2021-06-30",
+      "type": "beta",
+      "serverId": "251272357",
+      "version": "1.17.2021.0",
+      "uuid": {
+        "x64": "0b13efae-432a-4ed9-9a4d-acf0c0ed95d5",
+        "x86": "d03d618f-29cf-4146-82ee-56f9cb73015e"
+      }
+    },
+    {
+      "id": "1.17.20.20",
+      "releaseTime": "2021-06-23",
+      "type": "beta",
+      "serverId": "251083909",
+      "version": "1.17.2020.0",
+      "uuid": {
+        "x64": "b45c54b2-f43b-4653-ae76-aee172876a55",
+        "x86": "4412505a-1249-4532-b710-7c5f99572643"
+      }
+    },
+    {
+      "id": "1.17.10.23",
+      "releaseTime": "2021-06-16",
+      "type": "beta",
+      "serverId": "250942483",
+      "version": "1.17.1023.0",
+      "uuid": {
+        "x64": "6a9c73c1-f78a-4bee-a4ee-f4fb9e982bc6",
+        "x86": "616cad89-c72b-49b5-914d-fc4cf399f327"
+      }
+    },
+    {
+      "id": "1.17.10.22",
+      "releaseTime": "2021-06-09",
+      "type": "beta",
+      "serverId": "250783211",
+      "version": "1.17.1022.0",
+      "uuid": {
+        "x64": "28300cbd-f3cf-421b-8f1a-6bd3e0178ca1",
+        "x86": "eedb862b-9256-41c7-bd41-48573411af9f"
+      }
+    },
+    {
+      "id": "1.17.10.21",
+      "releaseTime": "2021-06-03",
+      "type": "beta",
+      "serverId": "250616101",
+      "version": "1.17.1021.0",
+      "uuid": {
+        "x64": "62c42c4d-5d74-4cc9-a5af-1da31b1440cb",
+        "x86": "d0fecf54-58d8-474d-aa85-08a3a69b7569"
+      }
+    },
+    {
+      "id": "1.17.10.20",
+      "releaseTime": "2021-05-26",
+      "type": "beta",
+      "serverId": "250368088",
+      "version": "1.17.1020.0",
+      "uuid": {
+        "x64": "5f796852-34b7-4aff-a9c9-b34fe9af7091",
+        "x86": "45425828-5de1-4bb6-a8d9-6fe93c5a99db"
+      }
+    },
+    {
+      "id": "1.17.0.56",
+      "releaseTime": "2021-05-13",
+      "type": "beta",
+      "serverId": "249837913",
+      "version": "1.17.56.0",
+      "uuid": {
+        "x64": "18d598ef-d35e-49ec-8c16-a94bb5cd2cb9",
+        "x86": "100691f6-d7e1-454e-968d-7542e0ad4f2e"
+      }
+    },
+    {
+      "id": "1.17.0.54",
+      "releaseTime": "2021-05-06",
+      "type": "beta",
+      "serverId": "249365435",
+      "version": "1.17.54.0",
+      "uuid": {
+        "x64": "704b4a5d-2e29-4266-bc08-49ab1a561c53",
+        "x86": "0357441b-0d32-4f2e-b9d1-c40f0e5f202a"
+      }
+    },
+    {
+      "id": "1.17.0.52",
+      "releaseTime": "2021-04-28",
+      "type": "beta",
+      "serverId": "248798726",
+      "version": "1.17.52.0",
+      "uuid": {
+        "x64": "8ff0e787-096a-42d4-9b48-ec87fd4350a9",
+        "x86": "ca7c36c9-6528-4d16-8288-b50e0b41b586"
+      }
+    },
+    {
+      "id": "1.17.0.50",
+      "releaseTime": "2021-04-21",
+      "type": "beta",
+      "serverId": "248529087",
+      "version": "1.17.50.0",
+      "uuid": {
+        "x64": "e85fa2ab-3224-40a5-95d1-1627251d458c",
+        "x86": "ea7805e7-7fc6-4962-8204-3d3e50b90a2b"
+      }
+    },
+    {
+      "id": "1.16.23.56",
+      "releaseTime": "",
+      "type": "beta",
+      "serverId": "248138703",
+      "version": "1.16.23056.0",
+      "uuid": {
+        "x64": "3b70b207-dbdd-4628-9206-72c61744fa84",
+        "x86": "4571b795-9e46-4751-aa6f-0f057caa7cc9"
+      }
+    },
+    {
+      "id": "1.16.22.2",
+      "releaseTime": "",
+      "type": "beta",
+      "serverId": "247596831",
+      "version": "1.16.22002.0",
+      "uuid": {
+        "arm": "5809d177-7acf-4b7b-a815-46be91c1c6df",
+        "x64": "5c5e966a-bb1a-4ba0-8290-233eb7ba112f",
+        "x86": "063de2b8-30e3-4253-b2dd-c42dbf91deb6"
+      }
+    },
+    {
+      "id": "1.16.23.54",
+      "releaseTime": "",
+      "type": "beta",
+      "serverId": "247708200",
+      "version": "1.16.23054.0",
+      "uuid": {
+        "x64": "3117feea-54ba-41c4-bc26-9e6818bcc6a4",
+        "x86": "72006dd1-5810-4fef-86c3-3b0be05ba430"
+      }
+    },
+    {
+      "id": "1.16.23.52",
+      "releaseTime": "",
+      "type": "beta",
+      "serverId": "247372054",
+      "version": "1.16.23052.0",
+      "uuid": {
+        "x64": "f1ed03cf-4b78-4a77-89a8-9efa4dda7b5a",
+        "x86": "a2136b65-5e14-418c-819e-e601e94f7570"
+      }
+    },
+    {
+      "id": "1.16.23.50",
+      "releaseTime": "",
+      "type": "beta",
+      "serverId": "247085031",
+      "version": "1.16.23050.0",
+      "uuid": {
+        "x64": "c10120bb-16ad-4e70-901a-ef40b2ef1814",
+        "x86": "6490dd41-9eef-4ad8-a119-a193ce1609f8"
+      }
+    },
+    {
+      "id": "1.16.21.5",
+      "releaseTime": "2020-08-20",
+      "type": "beta",
+      "serverId": "246609642",
+      "version": "1.16.21005.0",
+      "uuid": {
+        "arm": "64ff2f3e-395d-416d-9e6a-e7c9b36e0bd9",
+        "x64": "c90851ba-1721-4b7e-a31d-28f6ac193e0d",
+        "x86": "e7f1b859-6e96-4fc6-bfb3-5cdb5d02b9ce"
+      }
+    },
+    {
+      "id": "1.16.22.52",
+      "releaseTime": "",
+      "type": "beta",
+      "serverId": "246699261",
+      "version": "1.16.22052.0",
+      "uuid": {
+        "x64": "9e53d0f5-0550-417c-bd67-28a6eeb1a6ec",
+        "x86": "e01e5059-5dc3-48c4-9d67-5f803ef6cf61"
+      }
+    },
+    {
+      "id": "1.16.22.51",
+      "releaseTime": "",
+      "type": "beta",
+      "serverId": "246387557",
+      "version": "1.16.22051.0",
+      "uuid": {
+        "x64": "ee63e184-eb03-4380-a97c-506d081ad3af",
+        "x86": "2d4f3657-12fb-45d8-9532-d73a8fbe74c5"
+      }
+    },
+    {
+      "id": "1.16.22.50",
+      "releaseTime": "",
+      "type": "beta",
+      "serverId": "245999699",
+      "version": "1.16.22050.0",
+      "uuid": {
+        "x64": "a0fdcf12-091e-44a3-ad69-26792f9be28d",
+        "x86": "6bb8deac-c2a6-46d4-aab0-fd972370368f"
+      }
+    },
+    {
+      "id": "1.16.21.60",
+      "releaseTime": "2020-08-20",
+      "type": "beta",
+      "serverId": "245215068",
+      "version": "1.16.21060.0",
+      "uuid": {
+        "x64": "5c7b3220-69ce-40ff-88f0-1098097330c0",
+        "x86": "713d96a9-0ed2-4254-921e-802296bc9d53"
+      }
+    },
+    {
+      "id": "1.16.21.59",
+      "releaseTime": "2020-08-20",
+      "type": "beta",
+      "serverId": "244711291",
+      "version": "1.16.21059.0",
+      "uuid": {
+        "x64": "41c8a5ac-284b-41bc-a2e6-483b1d3e678f",
+        "x86": "adb6098f-799c-4e06-a582-ef4a5b00415c"
+      }
+    },
+    {
+      "id": "1.16.21.58",
+      "releaseTime": "2020-08-20",
+      "type": "beta",
+      "serverId": "244125357",
+      "version": "1.16.21058.0",
+      "uuid": {
+        "x64": "2166d3db-c585-4fa7-8ef9-6544139724d0",
+        "x86": "e44c95ec-6dcf-4426-9176-090f038bbdb5"
+      }
+    },
+    {
+      "id": "1.16.21.57",
+      "releaseTime": "2020-08-20",
+      "type": "beta",
+      "serverId": "243727657",
+      "version": "1.16.21057.0",
+      "uuid": {
+        "x64": "822d0325-c93e-4e4a-8f1c-38ab8b493770",
+        "x86": "5db24a25-13f9-4cdb-8e20-36ce7a96009b"
+      }
+    },
+    {
+      "id": "1.16.21.56",
+      "releaseTime": "2020-08-20",
+      "type": "beta",
+      "serverId": "243256425",
+      "version": "1.16.21056.0",
+      "uuid": {
+        "x64": "92276d01-e889-46be-8d96-e8b8c5fcf73c",
+        "x86": "216ae7bb-d946-400e-a719-3a62068ac960"
+      }
+    },
+    {
+      "id": "1.16.21.55",
+      "releaseTime": "2020-08-20",
+      "type": "beta",
+      "serverId": "242901292",
+      "version": "1.16.21055.0",
+      "uuid": {
+        "x64": "e2e00c04-ffa1-4141-9676-b20f996856d9",
+        "x86": "5c1109ec-47c5-4dde-9fa8-757f54d56775"
+      }
+    },
+    {
+      "id": "1.16.21.54",
+      "releaseTime": "2020-08-20",
+      "type": "beta",
+      "serverId": "242725606",
+      "version": "1.16.21054.0",
+      "uuid": {
+        "x64": "c6e07cc0-674a-4627-9bbf-76a4a3da0ff5",
+        "x86": "59d825e8-d5d8-408d-bcab-8f488a9ff43e"
+      }
+    },
+    {
+      "id": "1.16.21.53",
+      "releaseTime": "2020-08-20",
+      "type": "beta",
+      "serverId": "242426680",
+      "version": "1.16.21053.0",
+      "uuid": {
+        "x64": "06ebf326-d260-4228-b7b4-4e41ac8446a3",
+        "x86": "d6deb200-edde-4196-a2e1-32934c7ca783"
+      }
+    },
+    {
+      "id": "1.16.21.50",
+      "releaseTime": "2020-08-20",
+      "type": "beta",
+      "serverId": "241675959",
+      "version": "1.16.21050.0",
+      "uuid": {
+        "x64": "09029ebe-fbc5-4366-8bf6-ddf075389e5f",
+        "x86": "3eae1b34-00dc-422e-abc8-f75254a86321"
+      }
+    },
+    {
+      "id": "1.16.20.57",
+      "releaseTime": "2020-08-11",
+      "type": "beta",
+      "serverId": "241468665",
+      "version": "1.16.20057.0",
+      "uuid": {
+        "x64": "3e82a641-6af8-4835-b9ff-c17779ed4517",
+        "x86": "211cb197-9583-4b90-ad57-4436dcdf1433"
+      }
+    },
+    {
+      "id": "1.16.20.56",
+      "releaseTime": "2020-08-11",
+      "type": "beta",
+      "serverId": "241174226",
+      "version": "1.16.20056.0",
+      "uuid": {
+        "x64": "2727e96a-4708-49d0-a683-698f20a37bed",
+        "x86": "06dc0dff-1288-4c79-b74f-080ac75d3567"
+      }
+    },
+    {
+      "id": "1.16.20.55",
+      "releaseTime": "2020-08-11",
+      "type": "beta",
+      "serverId": "241122324",
+      "version": "1.16.20055.0",
+      "uuid": {
+        "x64": "c3e945c7-f092-4fe6-a0a8-853fb488e9f9",
+        "x86": "e640b259-9d87-4537-883f-9202a6584eb6"
+      }
+    },
+    {
+      "id": "1.16.20.51",
+      "releaseTime": "",
+      "type": "beta",
+      "serverId": "240086353",
+      "version": "1.16.20051.0",
+      "uuid": {
+        "x64": "c365f3ca-ae99-4d0b-bd74-09655bbb1a1d"
+      }
+    },
+    {
+      "id": "1.16.10.60",
+      "releaseTime": "2020-07-21",
+      "type": "beta",
+      "serverId": "239579978",
+      "version": "1.16.10060.0",
+      "uuid": {
+        "x64": "2656aad6-2442-4790-82c0-b2ac955e57bf",
+        "x86": "0335196e-efe0-4530-9d13-33eb1aeb3a2a"
+      }
+    },
+    {
+      "id": "1.16.10.59",
+      "releaseTime": "2020-07-21",
+      "type": "beta",
+      "serverId": "239228655",
+      "version": "1.16.10059.0",
+      "uuid": {
+        "x64": "fbc0b5df-b622-49f1-9cd5-9021ebf2292a",
+        "x86": "8f105461-d7f6-4219-9727-693409c65d80"
+      }
+    },
+    {
+      "id": "1.16.10.57",
+      "releaseTime": "2020-07-21",
+      "type": "beta",
+      "serverId": "238378942",
+      "version": "1.16.10057.0",
+      "uuid": {
+        "x64": "f4704a81-77a3-4ba1-9ad3-1d38d035f7b4",
+        "x86": "5516a0f4-2bba-4b68-947d-cff2ca06b9a1"
+      }
+    },
+    {
+      "id": "1.16.40.2",
+      "releaseTime": "",
+      "type": "beta",
+      "serverId": "238277228",
+      "version": "1.16.4002.0",
+      "uuid": {
+        "arm": "76e6d6d3-aaa9-477c-949c-f1bca852541f",
+        "x64": "b4a8d443-20df-49d6-8777-8293c55a58ad",
+        "x86": "25e32837-41e4-4cdb-957b-d80e0b8684c5"
+      }
+    },
+    {
+      "id": "1.16.10.56",
+      "releaseTime": "2020-07-21",
+      "type": "beta",
+      "serverId": "238029582",
+      "version": "1.16.10056.0",
+      "uuid": {
+        "x64": "bb306c13-1079-420f-a0bf-626392a888ab",
+        "x86": "4103a191-063b-447d-8008-fdfa4e9f8be9"
+      }
+    },
+    {
+      "id": "1.16.10.55",
+      "releaseTime": "2020-07-21",
+      "type": "beta",
+      "serverId": "237531921",
+      "version": "1.16.10055.0",
+      "uuid": {
+        "x64": "24643ee3-2060-4594-a74f-d79339f4a5d8",
+        "x86": "c469bd76-c5e2-4c32-a004-682e2643e56b"
+      }
+    },
+    {
+      "id": "1.16.10.54",
+      "releaseTime": "2020-07-21",
+      "type": "beta",
+      "serverId": "237315183",
+      "version": "1.16.10054.0",
+      "uuid": {
+        "x64": "2f75fcbc-5f4a-4561-b7d3-ba1fd77e130b",
+        "x86": "5653198f-6248-4fe2-91ee-759080ee57fa"
+      }
+    },
+    {
+      "id": "1.16.10.53",
+      "releaseTime": "2020-07-21",
+      "type": "beta",
+      "serverId": "236952558",
+      "version": "1.16.10053.0",
+      "uuid": {
+        "x64": "3f787d1c-b68f-4962-834d-74e7f400495c",
+        "x86": "551ec540-a8a7-463a-a7bc-504eb491e0fb"
+      }
+    },
+    {
+      "id": "1.16.10.52",
+      "releaseTime": "2020-07-21",
+      "type": "beta",
+      "serverId": "236769106",
+      "version": "1.16.10052.0",
+      "uuid": {
+        "x64": "662075db-d8a5-4dc8-ad3c-1540f5144d15",
+        "x86": "d79b3b6d-65d4-4b7a-a7d6-07155b831a08"
+      }
+    },
+    {
+      "id": "1.16.10.51",
+      "releaseTime": "2020-07-21",
+      "type": "beta",
+      "serverId": "236359989",
+      "version": "1.16.10051.0",
+      "uuid": {
+        "x64": "e3ee1a98-95d2-4566-93ce-d7f0ea97b14b",
+        "x86": "cb3410e7-6473-4aea-b9f5-d6b529bf6971"
+      }
+    },
+    {
+      "id": "1.16.10.2",
+      "releaseTime": "2020-07-21",
+      "type": "beta",
+      "serverId": "235728115",
+      "version": "1.16.1002.0",
+      "uuid": {
+        "arm": "6afdb3bb-f44d-47e8-8338-2dfbc91c7f0f",
+        "x64": "137c4976-c197-4748-9802-83999f22bcc1",
+        "x86": "4217bb94-1b91-4fbc-bbe6-339e625b3a3d"
+      }
+    },
+    {
+      "id": "1.16.10.50",
+      "releaseTime": "2020-07-21",
+      "type": "beta",
+      "serverId": "236049101",
+      "version": "1.16.10050.0",
+      "uuid": {
+        "x64": "8a508ea2-2c2d-4274-9413-3ff8ac9cc1a0",
+        "x86": "a986d58a-2c66-4545-b982-bb43464f71b1"
+      }
+    },
+    {
+      "id": "1.16.20.54",
+      "releaseTime": "2020-07-22",
+      "type": "beta",
+      "serverId": "235743827",
+      "version": "1.16.2054.0",
+      "uuid": {
+        "x64": "23151a50-03bc-4b89-93c4-3453e64f24f7",
+        "x86": "660a0684-b81b-4ca3-9530-bf9947a02501"
+      }
+    },
+    {
+      "id": "1.16.1.2",
+      "releaseTime": "2020-06-29",
+      "type": "beta",
+      "serverId": "235418003",
+      "version": "1.16.102.0",
+      "uuid": {
+        "arm": "05324f68-c6bb-4453-aad5-a64650665289",
+        "x64": "e433a035-b40f-4780-8f45-09d4d8ea560d",
+        "x86": "fe51f5b7-bdc0-48f1-a6bd-86615942b8ca"
+      }
+    },
+    {
+      "id": "1.16.20.53",
+      "releaseTime": "2020-07-16",
+      "type": "beta",
+      "serverId": "235520581",
+      "version": "1.16.2053.0",
+      "uuid": {
+        "x64": "94822be8-7395-45fb-ae1d-ad3ceea82bc4",
+        "x86": "826b1409-8cbc-4f92-843f-52019b8f8b69"
+      }
+    },
+    {
+      "id": "1.16.20.52",
+      "releaseTime": "2020-07-13",
+      "type": "beta",
+      "serverId": "235394914",
+      "version": "1.16.2052.0",
+      "uuid": {
+        "x64": "a36b51a2-9569-4ff3-a2af-cf5d65a749dc",
+        "x86": "70b7d684-f990-4710-b96f-ae4c40a13323"
+      }
+    },
+    {
+      "id": "1.16.20.50",
+      "releaseTime": "2020-06-25",
+      "type": "beta",
+      "serverId": "234770237",
+      "version": "1.16.2050.0",
+      "uuid": {
+        "x64": "1e7fb0c6-c09b-46c0-a074-0495d9cd1dfa",
+        "x86": "081f201c-60aa-400f-b368-97f452710314"
+      }
+    },
+    {
+      "id": "1.16.0.68",
+      "releaseTime": "2020-06-17",
+      "type": "beta",
+      "serverId": "234710342",
+      "version": "1.16.68.0",
+      "uuid": {
+        "x64": "b5c1da6c-c6fb-4fe8-9378-7fe89c94fbc7",
+        "x86": "8aaa65b0-8f80-49cc-a47a-3cc5799166a4"
+      }
+    },
+    {
+      "id": "1.16.0.60",
+      "releaseTime": "2020-05-07",
+      "type": "beta",
+      "serverId": "232989132",
+      "version": "1.16.60.0",
+      "uuid": {
+        "x64": "190f10a1-dc64-4cc0-bd8d-40f6c91d9351",
+        "x86": "ec3d3f1e-6d29-4c3b-944e-c38fd44b4de0"
+      }
+    },
+    {
+      "id": "1.16.0.59",
+      "releaseTime": "2020-04-30",
+      "type": "beta",
+      "serverId": "232566160",
+      "version": "1.16.59.0",
+      "uuid": {
+        "x64": "04ca0e80-2e59-4990-94c1-8bc2079316b1",
+        "x86": "1eb8f4ce-4c18-4969-bf26-5f79532d974c"
+      }
+    },
+    {
+      "id": "1.14.60.5",
+      "releaseTime": "2020-04-15",
+      "type": "beta",
+      "serverId": "231747881",
+      "version": "1.14.6005.0",
+      "uuid": {
+        "arm": "168ede7d-2a92-4db5-a83a-31d8d0afecc5",
+        "x64": "a23be843-2afc-43fd-b288-b4fb17c8623d",
+        "x86": "72eeda65-cdab-434a-bab4-85d9793d81de"
+      }
+    },
+    {
+      "id": "1.16.0.58",
+      "releaseTime": "2020-04-22",
+      "type": "beta",
+      "serverId": "231887191",
+      "version": "1.16.58.0",
+      "uuid": {
+        "x64": "c1718396-50f3-46cf-b0cf-3e5dfe23f5f8",
+        "x86": "8974bf7a-ec1a-4716-b3b2-6cf48af1b6a5"
+      }
+    },
+    {
+      "id": "1.16.0.57",
+      "releaseTime": "2020-04-15",
+      "type": "beta",
+      "serverId": "231476156",
+      "version": "1.16.57.0",
+      "uuid": {
+        "x64": "408aac38-07a6-43f8-9385-74e969d4ea75",
+        "x86": "38bcd954-b323-4ef3-8cf4-0b1de9c953e0"
+      }
+    },
+    {
+      "id": "1.16.0.55",
+      "releaseTime": "2020-04-02",
+      "type": "beta",
+      "serverId": "230763452",
+      "version": "1.16.55.0",
+      "uuid": {
+        "x64": "850a33e5-d585-4192-8f6d-cd118db614e9",
+        "x86": "3ecb6610-975c-46ff-b708-e8bc19a261ef"
+      }
+    },
+    {
+      "id": "1.16.0.53",
+      "releaseTime": "2020-03-27",
+      "type": "beta",
+      "serverId": "230500073",
+      "version": "1.16.53.0",
+      "uuid": {
+        "x64": "ec428f13-7d52-487b-8009-cccbfba47582",
+        "x86": "18dd05d7-931d-4c7e-8dec-31bb112c3472"
+      }
+    },
+    {
+      "id": "1.16.0.51",
+      "releaseTime": "2020-03-17",
+      "type": "beta",
+      "serverId": "229729728",
+      "version": "1.16.51.0",
+      "uuid": {
+        "x64": "b91d4257-26ac-442c-bebc-3702add589b2",
+        "x86": "34a79da9-3153-4209-9eb4-a6b5db6c9bd4"
+      }
+    },
+    {
+      "id": "1.15.0.54",
+      "releaseTime": "2020-02-28",
+      "type": "beta",
+      "serverId": "228710253",
+      "version": "1.15.54.0",
+      "uuid": {
+        "x64": "476cbcef-421f-43a4-940e-4caa1ad963bb",
+        "x86": "fb55d273-8911-4d2c-829b-5bcf7ad4abd8"
+      }
+    },
+    {
+      "id": "1.15.0.53",
+      "releaseTime": "2020-02-21",
+      "type": "beta",
+      "serverId": "227971098",
+      "version": "1.15.53.0",
+      "uuid": {
+        "x64": "082ccbd9-d2bd-4565-ab3b-02ac73ffe9bc",
+        "x86": "637acc4d-ee0d-483e-8694-674b50e8c007"
+      }
+    },
+    {
+      "id": "1.15.0.51",
+      "releaseTime": "2020-02-13",
+      "type": "beta",
+      "serverId": "227141812",
+      "version": "1.15.51.0",
+      "uuid": {
+        "x64": "7a0faaa3-c3be-43d0-9361-aa9b1728076b",
+        "x86": "8f129f5e-0e1c-4109-81cf-033f7727ea69"
+      }
+    },
+    {
+      "id": "1.14.30.51",
+      "releaseTime": "2020-01-30",
+      "type": "beta",
+      "serverId": "226825511",
+      "version": "1.14.3051.0",
+      "uuid": {
+        "x64": "bd47bade-3ead-4354-b48f-31ba797b916e",
+        "x86": "cfd2a25a-db9c-4228-8115-0f66ffb74c5d"
+      }
+    },
+    {
+      "id": "1.14.25.1",
+      "releaseTime": "2020-01-24",
+      "type": "beta",
+      "serverId": "226676606",
+      "version": "1.14.2501.0",
+      "uuid": {
+        "x64": "c0d0f0b3-6746-49a8-a4a1-9a6bfcbd5c89",
+        "x86": "6a538325-4281-482f-b037-48193c940504"
+      }
+    },
+    {
+      "id": "1.14.2.51",
+      "releaseTime": "2020-01-09",
+      "type": "beta",
+      "serverId": "225756105",
+      "version": "1.14.251.0",
+      "uuid": {
+        "x64": "6e2c8354-5e89-4992-ae57-c178128359ad",
+        "x86": "7d9c53ac-22ab-4b7b-870c-b66894f48399"
+      }
+    },
+    {
+      "id": "1.14.2.50",
+      "releaseTime": "2019-12-19",
+      "type": "beta",
+      "serverId": "224941203",
+      "version": "1.14.250.0",
+      "uuid": {
+        "x64": "5b7d672e-f6a5-4cb8-9194-268d3c3974aa",
+        "x86": "e66a4698-2394-460f-b8b9-db7bf82d3670"
+      }
+    },
+    {
+      "id": "1.14.1.3",
+      "releaseTime": "2019-12-12",
+      "type": "beta",
+      "serverId": "224484000",
+      "version": "1.14.103.0",
+      "uuid": {
+        "x64": "bc568d5b-685d-4042-ac3f-21bdabbe4cc2",
+        "x86": "5c0dd368-51aa-48dc-9568-3bf29e2b8170"
+      }
+    },
+    {
+      "id": "1.14.0.52",
+      "releaseTime": "2019-11-27",
+      "type": "beta",
+      "serverId": "223942246",
+      "version": "1.14.52.0",
+      "uuid": {
+        "x64": "0544f6f6-dbd4-4e7b-b89b-55f7ec15853a",
+        "x86": "afd7ff33-9480-4373-8790-55c0149c15d0"
+      }
+    },
+    {
+      "id": "1.14.0.51",
+      "releaseTime": "2019-11-21",
+      "type": "beta",
+      "serverId": "223359637",
+      "version": "1.14.51.0",
+      "uuid": {
+        "x64": "6283ab79-0c7f-4f1a-9c0e-42c6344a4146",
+        "x86": "15b3fa38-423a-4833-82ba-706115f375e0"
+      }
+    },
+    {
+      "id": "1.14.0.4",
+      "releaseTime": "2019-10-31",
+      "type": "beta",
+      "serverId": "222380190",
+      "version": "1.14.4.0",
+      "uuid": {
+        "x64": "66511b3f-e882-434b-bcee-770a177402bd",
+        "x86": "9e3f6931-4e46-46fe-8b5e-914f00888034"
+      }
+    },
+    {
+      "id": "1.14.0.3",
+      "releaseTime": "2019-10-23",
+      "type": "beta",
+      "serverId": "221746295",
+      "version": "1.14.3.0",
+      "uuid": {
+        "x64": "3a16cab9-23e6-43c5-8913-ddeb32b4ee03",
+        "x86": "49c91fe2-7dac-4e69-aed9-c88d6cb72d95"
+      }
+    },
+    {
+      "id": "1.14.0.2",
+      "releaseTime": "2019-10-15",
+      "type": "beta",
+      "serverId": "221612143",
+      "version": "1.14.2.0",
+      "uuid": {
+        "x64": "16fd5d26-a4cc-4a6c-92d5-5a2f4df517f5",
+        "x86": "87ce06ad-b6db-4b66-8f1c-e1a77ace6688"
+      }
+    },
+    {
+      "id": "1.14.0.1",
+      "releaseTime": "2019-10-09",
+      "type": "beta",
+      "serverId": "220819303",
+      "version": "1.14.1.0",
+      "uuid": {
+        "x64": "48dca24f-77a7-4f83-ab68-87b47849d956",
+        "x86": "13b5123b-d725-4e80-b3d6-f08efade4318"
+      }
+    },
+    {
+      "id": "1.13.0.15",
+      "releaseTime": "2019-09-19",
+      "type": "beta",
+      "serverId": "219186353",
+      "version": "1.13.15.0",
+      "uuid": {
+        "x64": "d19fb040-fc90-44c9-bc87-99e2ec1a2190",
+        "x86": "8efbe6f8-55a3-4201-ac76-425a47a528aa"
+      }
+    },
+    {
+      "id": "1.13.0.13",
+      "releaseTime": "2019-09-12",
+      "type": "beta",
+      "serverId": "218891317",
+      "version": "1.13.13.0",
+      "uuid": {
+        "x64": "bce91d3d-84f5-49c1-bd7f-c3d35b09b319",
+        "x86": "a1d9e598-8098-47f7-9236-011ba0b6b4af"
+      }
+    },
+    {
+      "id": "1.13.0.9",
+      "releaseTime": "2019-08-27",
+      "type": "beta",
+      "serverId": "218028654",
+      "version": "1.13.9.0",
+      "uuid": {
+        "x64": "54b302da-1bff-406c-86e2-244955d2bd74",
+        "x86": "e75aceea-c113-49b7-b6eb-de7b534c10eb"
+      }
+    },
+    {
+      "id": "1.12.0.28",
+      "releaseTime": "2019-07-09",
+      "type": "beta",
+      "serverId": "217037278",
+      "version": "1.12.28.0",
+      "uuid": {
+        "arm": "b0326e27-570e-40d8-857d-690321feb436",
+        "x64": "5a8f9eec-1753-4fa5-99f1-2cbbeb0a250e",
+        "x86": "2606e0d9-0079-428b-a02f-2222aa82994b"
+      }
+    },
+    {
+      "id": "1.13.0.6",
+      "releaseTime": "2019-08-14",
+      "type": "beta",
+      "serverId": "216945055",
+      "version": "1.13.6.0",
+      "uuid": {
+        "x64": "0c2c47db-b548-44d3-aee5-64fdbdc64748",
+        "x86": "5b8f3900-2f37-4506-af94-633549e4069d"
+      }
+    },
+    {
+      "id": "1.13.0.5",
+      "releaseTime": "2019-08-07",
+      "type": "beta",
+      "serverId": "217032550",
+      "version": "1.13.5.0",
+      "uuid": {
+        "x64": "e6440d06-b4fa-464a-a4fd-b0d3a07fd824",
+        "x86": "88681b19-c791-4cdb-a487-2d53b6103f2d"
+      }
+    },
+    {
+      "id": "1.13.0.4",
+      "releaseTime": "2019-07-26",
+      "type": "beta",
+      "serverId": "216521706",
+      "version": "1.13.4.0",
+      "uuid": {
+        "x64": "050ddde7-c62e-44cb-bb79-be59fe0091bf",
+        "x86": "912bab95-d0d5-441c-a3d6-f518bf16e5c2"
+      }
+    },
+    {
+      "id": "1.13.0.2",
+      "releaseTime": "2019-07-10",
+      "type": "beta",
+      "serverId": "215380383",
+      "version": "1.13.2.0",
+      "uuid": {
+        "x64": "b16488e6-cbc8-443c-8682-ec601f993025",
+        "x86": "8f1d80c8-121c-4f5a-9b55-25c3ee4b9e9b"
+      }
+    },
+    {
+      "id": "1.13.0.1",
+      "releaseTime": "2019-06-27",
+      "type": "beta",
+      "serverId": "214514637",
+      "version": "1.13.1.0",
+      "uuid": {
+        "x86": "f321123d-bb4d-4841-a6e0-dc7f5c661b10",
+        "x64": "084c86a6-667f-4d2c-bacd-455cf36af772"
+      }
+    },
+    {
+      "id": "1.12.0.14",
+      "releaseTime": "2019-06-24",
+      "type": "beta",
+      "serverId": "214445424",
+      "version": "1.12.14.0",
+      "uuid": {
+        "x64": "275bd633-ca21-465f-8196-dc56c7605cfa",
+        "x86": "f5d8f410-d553-4080-970d-0a50a258cc3e"
+      }
+    },
+    {
+      "id": "1.12.0.13",
+      "releaseTime": "2019-06-19",
+      "type": "beta",
+      "serverId": "213836690",
+      "version": "1.12.13.0",
+      "uuid": {
+        "x64": "8e9fec7c-1141-4326-832a-126799602e01",
+        "x86": "79cc3a4a-650f-4192-a09d-cc6ce5c5ba46"
+      }
+    },
+    {
+      "id": "1.12.0.12",
+      "releaseTime": "2019-06-17",
+      "type": "beta",
+      "serverId": "213818338",
+      "version": "1.12.12.0",
+      "uuid": {
+        "x64": "2b89198c-f707-4cfc-ab3a-3ac3db872097",
+        "x86": "0b2c9dd7-5884-4ad4-ba88-1354cef7543e"
+      }
+    },
+    {
+      "id": "1.12.0.11",
+      "releaseTime": "2019-06-11",
+      "type": "beta",
+      "serverId": "213471521",
+      "version": "1.12.11.0",
+      "uuid": {
+        "x64": "115113d5-c731-43d7-b50f-d1a6cb43e7b9",
+        "x86": "6b71d5e0-f475-48d5-ab7e-27dfe3e2fc8c"
+      }
+    },
+    {
+      "id": "1.12.0.10",
+      "releaseTime": "2019-06-06",
+      "type": "beta",
+      "serverId": "213317179",
+      "version": "1.12.10.0",
+      "uuid": {
+        "x64": "95220569-7fce-4d6f-b4f5-bedf795e41a0",
+        "x86": "2c39b557-02cc-4b43-b5b8-df218da9456b"
+      }
+    },
+    {
+      "id": "1.12.0.9",
+      "releaseTime": "2019-06-03",
+      "type": "beta",
+      "serverId": "213055226",
+      "version": "1.12.9.0",
+      "uuid": {
+        "x64": "c398afc7-4a69-4d3d-8eb0-dcc6c91777d4",
+        "x86": "0f669971-bc12-450e-892c-af24c4cb3df4"
+      }
+    },
+    {
+      "id": "1.11.4.2",
+      "releaseTime": "2019-05-23",
+      "type": "beta",
+      "serverId": "212117168",
+      "version": "1.11.402.0",
+      "uuid": {
+        "arm": "fb8ea114-fd9a-49fb-9997-d6fb4e383e35",
+        "x64": "9b04735d-031b-4f13-acc7-ce4c8f61193a",
+        "x86": "2b5c2cef-cb49-45c3-8e01-fcb4908fab3b"
+      }
+    },
+    {
+      "id": "1.12.0.6",
+      "releaseTime": "2019-05-22",
+      "type": "beta",
+      "serverId": "211885152",
+      "version": "1.12.6.0",
+      "uuid": {
+        "x64": "1787ca95-01c1-4c57-89ce-9e01c606d49d",
+        "x86": "c2225275-3331-46c3-99b8-1348b508be2f"
+      }
+    },
+    {
+      "id": "1.12.0.4",
+      "releaseTime": "2019-05-08",
+      "type": "beta",
+      "serverId": "210980202",
+      "version": "1.12.4.0",
+      "uuid": {
+        "x64": "762758f4-c0a5-4d4a-839c-cc7d1445dbc8",
+        "x86": "321c41b8-3be1-4eca-82aa-753499803e3d"
+      }
+    },
+    {
+      "id": "1.11.1.2",
+      "releaseTime": "2019-04-26",
+      "type": "beta",
+      "serverId": "210642497",
+      "version": "1.11.102.0",
+      "uuid": {
+        "arm": "e15726fc-2e1c-4a45-914c-05e4edad2e9b",
+        "x64": "0edd9c79-47a1-4ecc-9b3c-c3b4d79229ba",
+        "x86": "ab471a82-7abf-401e-8b0e-7acc334aa5c4"
+      }
+    },
+    {
+      "id": "1.12.0.3",
+      "releaseTime": "2019-04-31",
+      "type": "beta",
+      "serverId": "210615339",
+      "version": "1.12.3.0",
+      "uuid": {
+        "x64": "a10186be-2798-4e72-9f87-dfb79189bde9",
+        "x86": "509b63be-2b3b-4dd5-8db1-c94858be68ce"
+      }
+    },
+    {
+      "id": "1.12.0.2",
+      "releaseTime": "2019-04-17",
+      "type": "beta",
+      "serverId": "209522311",
+      "version": "1.12.2.0",
+      "uuid": {
+        "x64": "0b02434e-d0a7-46be-aefd-5a3ca472172a",
+        "x86": "b30feb71-8b9e-4b20-8223-a6a773924774"
+      }
+    },
+    {
+      "id": "1.11.0.10",
+      "releaseTime": "2019-04-11",
+      "type": "beta",
+      "serverId": "209416152",
+      "version": "1.11.10.0",
+      "uuid": {
+        "x64": "da16a130-4cde-443c-a019-8718854e2e10",
+        "x86": "47d2b6ce-a56b-4228-a376-fa30da666962"
+      }
+    },
+    {
+      "id": "1.11.0.9",
+      "releaseTime": "2019-04-03",
+      "type": "beta",
+      "serverId": "208814375",
+      "version": "1.11.9.0",
+      "uuid": {
+        "x64": "c3bc9e6e-caf3-421f-aa5f-5967133e386c",
+        "x86": "1803577c-cbbe-4fe8-a756-bb14bae1cc3b"
+      }
+    },
+    {
+      "id": "1.11.0.8",
+      "releaseTime": "2019-03-28",
+      "type": "beta",
+      "serverId": "208308681",
+      "version": "1.11.8.0",
+      "uuid": {
+        "x64": "e738e97a-ba4a-4f8b-ba1c-9ba5d174bdce",
+        "x86": "b6e4a8d8-6c3d-4c59-903b-8d7f4b7416e8"
+      }
+    },
+    {
+      "id": "1.11.0.7",
+      "releaseTime": "2019-03-21",
+      "type": "beta",
+      "serverId": "208109565",
+      "version": "1.11.7.0",
+      "uuid": {
+        "x86": "62b9a7dd-cd5c-45ae-836f-221154cd392c",
+        "x64": "a7a465c1-84ee-4d44-9276-d61135b8ca7b"
+      }
+    },
+    {
+      "id": "1.11.0.5",
+      "releaseTime": "2019-03-15",
+      "type": "beta",
+      "serverId": "207863359",
+      "version": "1.11.5.0",
+      "uuid": {
+        "x64": "72eccaf6-a301-44ab-a430-27e36aed7e34",
+        "x86": "d32aa532-237a-46ca-8ba5-7d5c3789c30e"
+      }
+    },
+    {
+      "id": "1.11.0.4",
+      "releaseTime": "2019-03-08",
+      "type": "beta",
+      "serverId": "207280678",
+      "version": "1.11.4.0",
+      "uuid": {
+        "x86": "e148950f-b7b1-44fb-a17f-fb79541b9bd2",
+        "x64": "21dd464e-d914-4cb7-89d3-32d40ebc2a43"
+      }
+    },
+    {
+      "id": "1.11.0.3",
+      "releaseTime": "2019-02-29",
+      "type": "beta",
+      "serverId": "207160478",
+      "version": "1.11.3.0",
+      "uuid": {
+        "x64": "0df53e3c-08aa-4a1d-91bf-48ea6afb2608",
+        "x86": "e29cd693-a7a0-441a-bff2-f4f3462c96fd"
+      }
+    },
+    {
+      "id": "1.11.0.1",
+      "releaseTime": "2019-02-22",
+      "type": "beta",
+      "version": "1.11.1.0",
+      "uuid": {
+        "x64": "DD18CAB9-05BA-4893-B4B1-0FF2AF66EFA2",
+        "x86": "A149DE8D-376C-4055-87ED-9F7E09FC7F7F"
+      }
+    },
+    {
+      "id": "1.10.0.4",
+      "releaseTime": "2019-02-07",
+      "type": "beta",
+      "version": "1.10.4.0",
+      "uuid": {
+        "x64": "1A3F80D1-3B65-400D-B213-1006CDC7E53B",
+        "x86": "2FE666E0-EE83-4C66-B588-4B6B7F71667E"
+      }
+    },
+    {
+      "id": "1.5.0.0",
+      "releaseTime": "2018-04-25",
+      "type": "beta",
+      "version": "1.5.0.0",
+      "uuid": {
+        "x64": "DBA891C0-90B4-4F49-98FF-DAC1CA2D571E",
+        "x86": "E0F96461-0EB7-4C5F-B69B-305F294793D7"
+      }
+    },
+    {
+      "id": "1.2.5.15",
+      "releaseTime": "2017-10-32",
+      "type": "beta",
+      "version": "1.2.515.0",
+      "uuid": {
+        "x86": "58764276-ED71-4BE0-9F0F-5726562589E0"
+      }
+    },
+    {
+      "id": "1.2.5.13",
+      "releaseTime": "",
+      "type": "beta",
+      "version": "1.2.513.0",
+      "uuid": {
+        "x64": "53F27416-ED1B-4372-B7DB-556E4472513C"
+      }
+    },
+    {
+      "id": "1.2.3.3",
+      "releaseTime": "2017-10-04",
+      "type": "beta",
+      "version": "1.2.303.0",
+      "uuid": {
+        "x64": "C7BEFDF8-4668-47E9-AF8C-565548980EF4",
+        "x86": "7E1C52EC-2CB6-47D8-9B0F-F3B03649FB8E"
+      }
+    },
+    {
+      "id": "1.2.2.3",
+      "releaseTime": "2017-10-04",
+      "type": "beta",
+      "version": "1.2.203.0",
+      "uuid": {
+        "arm": "60567EDE-380B-445D-B17B-7AD809C1F0F1"
+      }
+    },
+    {
+      "id": "1.19.31.1",
+      "releaseTime": "2022-10-04",
+      "type": "release",
+      "serverId": "271393050",
+      "version": "1.19.3101.0",
+      "uuid": {
+        "arm": "26205022-2f8f-434c-93e6-9bb5a0ce1c66",
+        "x64": "65ca226e-08b0-447b-bd59-eed353f4b699",
+        "x86": "e176bdf5-5258-423f-8311-2671ec8e0545"
+      }
+    },
+    {
+      "id": "1.19.30.4",
+      "releaseTime": "2022-09-20",
+      "type": "release",
+      "serverId": "270689908",
+      "version": "1.19.3004.0",
+      "uuid": {
+        "arm": "a25b10e8-0580-448f-919a-b407e126afbe",
+        "x64": "8b2d9707-2b2e-4f6f-bbc5-0035bf78157a",
+        "x86": "672a5f09-af9c-4285-a9c7-f305d249370f"
+      }
+    },
+    {
+      "id": "1.19.22.1",
+      "releaseTime": "2022-08-32",
+      "type": "release",
+      "serverId": "269762069",
+      "version": "1.19.2201.0",
+      "uuid": {
+        "arm": "5ee52617-6a34-4a9c-91f3-55e9ee8d0668",
+        "x64": "8d7b01b1-1999-4dc6-b350-5aa7fe7754fb",
+        "x86": "0b55260e-8fcd-4964-b683-0c54b0401233"
+      }
+    },
+    {
+      "id": "1.19.21.1",
+      "releaseTime": "2022-08-23",
+      "type": "release",
+      "serverId": "269213534",
+      "version": "1.19.2101.0",
+      "uuid": {
+        "arm": "cc30b47f-837f-442b-8fb1-21b8503ded02",
+        "x64": "90ad4ffd-eea2-4983-bc5d-071f546955a1",
+        "x86": "495bd9be-c16f-477f-918f-8f16e746a9ff"
+      }
+    },
+    {
+      "id": "1.19.20.2",
+      "releaseTime": "2022-08-09",
+      "type": "release",
+      "serverId": "268373234",
+      "version": "1.19.2002.0",
+      "uuid": {
+        "arm": "3cc7d089-d868-4579-b590-451a2054bdad",
+        "x64": "dc129834-049b-4de0-8063-044f356efa5f",
+        "x86": "1d720eea-ff21-4dab-8d1d-f1483491e518"
+      }
+    },
+    {
+      "id": "1.19.11.1",
+      "releaseTime": "2022-07-26",
+      "type": "release",
+      "serverId": "267688768",
+      "version": "1.19.1101.0",
+      "uuid": {
+        "arm": "30ea28fd-335b-4052-b395-c9901ce5b7a9",
+        "x64": "eaf5ca00-5db4-4fda-ba11-d94536d5b6e4",
+        "x86": "2410a038-ada3-44b8-b223-5b9fa288be69"
+      }
+    },
+    {
+      "id": "1.19.10.3",
+      "releaseTime": "2022-07-12",
+      "type": "release",
+      "serverId": "266849057",
+      "version": "1.19.1003.0",
+      "uuid": {
+        "arm": "c320a2b7-3354-4bfc-8876-fed8a2025ca0",
+        "x64": "ffe1a0a3-73d4-4bbf-8cf5-cb5514a1665a",
+        "x86": "09a0a456-f863-4322-934d-68b48127aa1e"
+      }
+    },
+    {
+      "id": "1.19.2.2",
+      "releaseTime": "2022-06-22",
+      "type": "release",
+      "serverId": "266010735",
+      "version": "1.19.202.0",
+      "uuid": {
+        "arm": "e41eaf79-6997-4d51-a8fc-ebae9863d7a7",
+        "x64": "63fac18d-e4f9-427b-832c-a3ea4965b077",
+        "x86": "9300d21c-eea6-47f1-8e1c-86bfef95e2f8"
+      }
+    },
+    {
+      "id": "1.19.0.5",
+      "releaseTime": "2022-06-07",
+      "type": "release",
+      "serverId": "265454713",
+      "version": "1.19.5.0",
+      "uuid": {
+        "arm": "841b487b-746d-44b8-a2da-84fdf2937d3c",
+        "x64": "03c5e6a4-8f9d-4de4-90b9-555ac836bbc8",
+        "x86": "c40398ef-2b6a-4b7a-845a-8f50fd2dc861"
+      }
+    },
+    {
+      "id": "1.18.31.4",
+      "releaseTime": "2022-04-27",
+      "type": "release",
+      "serverId": "264197000",
+      "version": "1.18.3104.0",
+      "uuid": {
+        "arm": "b119304d-f285-4fc6-b1ce-0288c2d9032c",
+        "x64": "d0e668bc-230d-4bef-87d0-23e5092ab95a",
+        "x86": "88f3071e-e1e1-4d41-899b-49b307dc47e2"
+      }
+    },
+    {
+      "id": "1.18.30.4",
+      "releaseTime": "2022-04-19",
+      "type": "release",
+      "serverId": "263750977",
+      "version": "1.18.3004.0",
+      "uuid": {
+        "arm": "936cf7e6-f453-41e0-abac-76cb39f489f8",
+        "x64": "29dc4f26-4059-4061-a5c4-8e5c5cf683f8",
+        "x86": "ecae5540-ee5f-477b-ad26-78ba5260b199"
+      }
+    },
+    {
+      "id": "1.18.12.1",
+      "releaseTime": "2022-02-17",
+      "type": "release",
+      "serverId": "260349241",
+      "version": "1.18.1201.0",
+      "uuid": {
+        "arm": "1009df2b-6c03-4a79-9508-7393173446a5",
+        "x64": "63665dbf-5e68-43d5-80f0-2682cbf98ae4",
+        "x86": "98ab65db-b6c9-4873-9dde-aac955a16a67"
+      }
+    },
+    {
+      "id": "1.18.10.4",
+      "releaseTime": "2022-02-09",
+      "type": "release",
+      "serverId": "259816374",
+      "version": "1.18.1004.0",
+      "uuid": {
+        "arm": "3c81e949-48bf-40bc-9759-991d73433999",
+        "x64": "10255cd4-9006-403e-adb9-bce50716dd52",
+        "x86": "0ab508aa-4993-4a76-9e1a-96438a8f4236"
+      }
+    },
+    {
+      "id": "1.18.2.3",
+      "releaseTime": "2021-12-10",
+      "type": "release",
+      "serverId": "256978828",
+      "version": "1.18.203.0",
+      "uuid": {
+        "arm": "1f4c1218-a9e1-4c7b-a1d6-5a796db98c0b",
+        "x64": "e1299862-c61d-476f-982f-e8178de43456",
+        "x86": "6880c410-7282-436d-9c21-0c1652e8d2af"
+      }
+    },
+    {
+      "id": "1.18.1.2",
+      "releaseTime": "2021-12-03",
+      "type": "release",
+      "serverId": "256828780",
+      "version": "1.18.102.0",
+      "uuid": {
+        "arm": "4b944e27-5f49-4c39-9f35-c71fda107dee",
+        "x64": "3aadfca4-c36a-4845-9237-f8b3449ddc23",
+        "x86": "d9574f3f-55b5-47b3-92be-46869e882a79"
+      }
+    },
+    {
+      "id": "1.18.0.2",
+      "releaseTime": "2021-11-31",
+      "type": "release",
+      "serverId": "256567435",
+      "version": "1.18.2.0",
+      "uuid": {
+        "arm": "02741386-ce39-4251-b3ba-702d050145a6",
+        "x64": "ee33df71-76fe-4b5b-bb43-e22bc0422655",
+        "x86": "5b671901-862c-4dd1-8f72-8399d469d8b7"
+      }
+    },
+    {
+      "id": "1.17.41.1",
+      "releaseTime": "2021-10-27",
+      "type": "release",
+      "serverId": "255172397",
+      "version": "1.17.4101.0",
+      "uuid": {
+        "arm": "94622868-cdb6-4436-926d-9fdb10b48d01",
+        "x64": "f294edbe-73db-4ba3-a4f9-9ddf33f45e5e",
+        "x86": "d6d64090-8db2-420e-8306-615204823b08"
+      }
+    },
+    {
+      "id": "1.17.40.6",
+      "releaseTime": "2021-10-19",
+      "type": "release",
+      "serverId": "254918680",
+      "version": "1.17.4006.0",
+      "uuid": {
+        "arm": "da5f7ed2-9d7b-4477-b1d8-094a2f03cd03",
+        "x64": "7355b72e-abc9-4b75-a46b-948e1b87802f",
+        "x86": "2976c9be-b7fd-4a66-83a7-502e828c7f67"
+      }
+    },
+    {
+      "id": "1.17.34.2",
+      "releaseTime": "2021-10-05",
+      "type": "release",
+      "serverId": "254406870",
+      "version": "1.17.3402.0",
+      "uuid": {
+        "arm": "1ccaebc0-b449-4089-8243-b6409e266610",
+        "x64": "4e2a1ced-2054-4018-a1eb-4fa2522f8993",
+        "x86": "afaa52db-11d6-4f74-888e-3221f94fa914"
+      }
+    },
+    {
+      "id": "1.17.32.2",
+      "releaseTime": "2021-09-30",
+      "type": "release",
+      "serverId": "254266229",
+      "version": "1.17.3202.0",
+      "uuid": {
+        "arm": "70a8ec91-e6bd-4903-a37f-d35888c36b01",
+        "x64": "2a4bac71-64e2-4ebc-a0ea-d7e345c9d36f",
+        "x86": "b3949e88-a5f2-4e3f-bfd3-238b93f77830"
+      }
+    },
+    {
+      "id": "1.17.30.4",
+      "releaseTime": "2021-09-21",
+      "type": "release",
+      "serverId": "253882008",
+      "version": "1.17.3004.0",
+      "uuid": {
+        "arm": "ecd70113-c5c5-4246-8c86-27855350a871",
+        "x64": "58366370-d8e8-4b6f-985e-f046bd144673",
+        "x86": "dc599dea-71d1-43f8-9d55-232a745b48a7"
+      }
+    },
+    {
+      "id": "1.17.11.1",
+      "releaseTime": "2021-08-09",
+      "type": "release",
+      "serverId": "252474247",
+      "version": "1.17.1101.0",
+      "uuid": {
+        "arm": "4a6cd570-85ba-40eb-919b-ce8e9e1c69dc",
+        "x64": "d34e0fd1-7abf-4f52-ab2d-ac18fd1c7b96",
+        "x86": "3ca3816e-5f5e-4da6-bb61-2e512e7aa8f7"
+      }
+    },
+    {
+      "id": "1.17.10.4",
+      "releaseTime": "2021-07-13",
+      "type": "release",
+      "serverId": "251613380",
+      "version": "1.17.1004.0",
+      "uuid": {
+        "arm": "9f56215b-22c7-4efc-8402-e89d8aa6f5dc",
+        "x64": "7e4854d6-1042-4362-a902-9ae5e6e99044",
+        "x86": "f246f8fc-31a4-44ab-a733-daf86eadbda8"
+      }
+    },
+    {
+      "id": "1.17.2.1",
+      "releaseTime": "2021-06-22",
+      "type": "release",
+      "serverId": "251096196",
+      "version": "1.17.201.0",
+      "uuid": {
+        "arm": "a95ffda8-30cf-452b-a07e-ba7f0c1071cb",
+        "x64": "c48e54d0-2d3d-4c26-85d3-60fade12f6e8",
+        "x86": "9cffef9d-7866-4132-8bac-9419d74fb7d3"
+      }
+    },
+    {
+      "id": "1.17.0.2",
+      "releaseTime": "",
+      "type": "release",
+      "serverId": "250727485",
+      "version": "1.17.2.0",
+      "uuid": {
+        "arm": "77453360-6d8b-4222-ba8c-e1ba07d03e6f",
+        "x64": "f5c26150-fa98-434f-8f37-a7d5a2ec3867",
+        "x86": "62a2b986-c366-4197-9809-6d986656b750"
+      }
+    },
+    {
+      "id": "1.16.22.1",
+      "releaseTime": "",
+      "type": "release",
+      "serverId": "248588406",
+      "version": "1.16.22101.0",
+      "uuid": {
+        "arm": "c7068e6e-5ab7-4def-a6be-227cde5f71aa",
+        "x64": "3888b981-0190-413a-b493-2e37fcab1c88",
+        "x86": "31c673bf-b913-49c6-bc3c-2ed24c3cdef8"
+      }
+    },
+    {
+      "id": "1.16.22.2",
+      "releaseTime": "",
+      "type": "release",
+      "serverId": "247596831",
+      "version": "1.16.22002.0",
+      "uuid": {
+        "arm": "5809d177-7acf-4b7b-a815-46be91c1c6df",
+        "x64": "5c5e966a-bb1a-4ba0-8290-233eb7ba112f",
+        "x86": "063de2b8-30e3-4253-b2dd-c42dbf91deb6"
+      }
+    },
+    {
+      "id": "1.16.21.5",
+      "releaseTime": "2020-08-20",
+      "type": "release",
+      "serverId": "246227585",
+      "version": "1.16.21005.0",
+      "uuid": {
+        "arm": "64ff2f3e-395d-416d-9e6a-e7c9b36e0bd9",
+        "x64": "c90851ba-1721-4b7e-a31d-28f6ac193e0d",
+        "x86": "e7f1b859-6e96-4fc6-bfb3-5cdb5d02b9ce"
+      }
+    },
+    {
+      "id": "1.16.20.2",
+      "releaseTime": "2020-08-11",
+      "type": "release",
+      "serverId": "242014590",
+      "version": "1.16.20002.0",
+      "uuid": {
+        "arm": "379f4755-9754-43da-93f6-eedfd2404455",
+        "x64": "4ff9b2aa-de8f-4ebc-ba59-cb26600b0a75",
+        "x86": "f2c0de84-3be3-4a12-b54f-4e82b74800f2"
+      }
+    },
+    {
+      "id": "1.16.10.4",
+      "releaseTime": "2020-07-21",
+      "type": "release",
+      "serverId": "241122334",
+      "version": "1.16.10004.0",
+      "uuid": {
+        "arm": "a5a9c3e8-0806-4305-bc1d-0c0b5625bd3c",
+        "x64": "450a9c45-90a8-4828-95db-55fc68dcd944",
+        "x86": "fd226fe5-ec43-48c9-a20d-cfa5f645d32a"
+      }
+    },
+    {
+      "id": "1.16.40.2",
+      "releaseTime": "",
+      "type": "release",
+      "serverId": "237299643",
+      "version": "1.16.4002.0",
+      "uuid": {
+        "arm": "4acb3039-0282-429e-97ef-c879425c5359",
+        "x64": "3832d4a5-a7d0-40c5-90ca-e539b3557991",
+        "x86": "d09fb860-a7b6-42a2-89bc-5c605d2e10a3"
+      }
+    },
+    {
+      "id": "1.16.20.3",
+      "releaseTime": "2020-08-11",
+      "type": "release",
+      "serverId": "236304811",
+      "version": "1.16.2003.0",
+      "uuid": {
+        "arm": "74e4eee7-2351-430c-97bd-34f013674f1a",
+        "x64": "420f66cd-7d75-42ad-b91c-692eb7f17fc5",
+        "x86": "801005cf-4036-49ec-9c91-aa09399b1151"
+      }
+    },
+    {
+      "id": "1.16.10.2",
+      "releaseTime": "2020-07-21",
+      "type": "release",
+      "serverId": "235728115",
+      "version": "1.16.1002.0",
+      "uuid": {
+        "arm": "6afdb3bb-f44d-47e8-8338-2dfbc91c7f0f",
+        "x64": "137c4976-c197-4748-9802-83999f22bcc1",
+        "x86": "4217bb94-1b91-4fbc-bbe6-339e625b3a3d"
+      }
+    },
+    {
+      "id": "1.16.1.2",
+      "releaseTime": "2020-06-29",
+      "type": "release",
+      "serverId": "234800947",
+      "version": "1.16.102.0",
+      "uuid": {
+        "arm": "05324f68-c6bb-4453-aad5-a64650665289",
+        "x64": "e433a035-b40f-4780-8f45-09d4d8ea560d",
+        "x86": "fe51f5b7-bdc0-48f1-a6bd-86615942b8ca"
+      }
+    },
+    {
+      "id": "1.16.0.2",
+      "releaseTime": "",
+      "type": "release",
+      "serverId": "234710321",
+      "version": "1.16.2.0",
+      "uuid": {
+        "arm": "86ac9bf1-c018-49a6-9f2d-264ba7b52a69",
+        "x64": "0824e5ea-2f58-4f1f-9229-5b3dc530cfa6",
+        "x86": "efaaf936-c409-4cd8-a1f5-edc8d4b6aca9"
+      }
+    },
+    {
+      "id": "1.14.60.5",
+      "releaseTime": "2020-04-15",
+      "type": "release",
+      "serverId": "231280609",
+      "version": "1.14.6005.0",
+      "uuid": {
+        "arm": "168ede7d-2a92-4db5-a83a-31d8d0afecc5",
+        "x64": "a23be843-2afc-43fd-b288-b4fb17c8623d",
+        "x86": "72eeda65-cdab-434a-bab4-85d9793d81de"
+      }
+    },
+    {
+      "id": "1.14.30.2",
+      "releaseTime": "2020-02-12",
+      "type": "release",
+      "serverId": "227072898",
+      "version": "1.14.3002.0",
+      "uuid": {
+        "arm": "b938668d-c662-4123-8f65-1fd75258291e",
+        "x64": "faf65474-8711-4e88-95cd-4492d3007da1",
+        "x86": "1e228e56-670e-41ca-ba1f-f65e69a3d1f8"
+      }
+    },
+    {
+      "id": "1.14.20.1",
+      "releaseTime": "2020-01-29",
+      "type": "release",
+      "serverId": "226676586",
+      "version": "1.14.2001.0",
+      "uuid": {
+        "arm": "2fc6cb1d-5326-4767-af3a-d524ffd5359c",
+        "x64": "cf229770-1165-4afd-81f0-95be37861b02",
+        "x86": "4a43717e-e49e-42a3-aa6a-c1c29d5d4346"
+      }
+    },
+    {
+      "id": "1.14.1.5",
+      "releaseTime": "2019-12-19",
+      "type": "release",
+      "serverId": "224941191",
+      "version": "1.14.105.0",
+      "uuid": {
+        "arm": "688f6ccd-877b-44dd-8b97-870c2abe6536",
+        "x64": "67e010de-1ee7-41e3-9809-f551d0f58c2c",
+        "x86": "bcb54261-d2c6-4eb9-b2d0-656a27a00cb2"
+      }
+    },
+    {
+      "id": "1.14.0.9",
+      "releaseTime": "2019-12-11",
+      "type": "release",
+      "serverId": "224450617",
+      "version": "1.14.9.0",
+      "uuid": {
+        "arm": "d5d70a3d-d4e8-4d3e-8441-21b2b7c251b6",
+        "x64": "e7999ac9-4650-4d1c-81a6-aa4ecbbf2dbf",
+        "x86": "bdbf70ba-1279-4548-b469-6df698fa8396"
+      }
+    },
+    {
+      "id": "1.13.1.5",
+      "releaseTime": "2019-11-13",
+      "type": "release",
+      "serverId": "223035820",
+      "version": "1.13.105.0",
+      "uuid": {
+        "arm": "ef810821-cf58-4d7d-8688-97fe836ca53d",
+        "x64": "95ea7559-0705-495d-a191-9a4a602f6f92",
+        "x86": "a0d99365-d28d-4f1c-865c-18f76fd911df"
+      }
+    },
+    {
+      "id": "1.13.0.34",
+      "releaseTime": "",
+      "type": "release",
+      "serverId": "222267192",
+      "version": "1.13.34.0",
+      "uuid": {
+        "arm": "556dfe95-893a-4916-8cc2-ae8236d03fbd",
+        "x64": "df2a81df-b9aa-479d-88e5-3b29a37e3390",
+        "x86": "292acb91-81d0-43ac-a965-df230f6848e0"
+      }
+    },
+    {
+      "id": "1.12.1.1",
+      "releaseTime": "",
+      "type": "release",
+      "serverId": "218188964",
+      "version": "1.12.101.0",
+      "uuid": {
+        "arm": "5df5ff20-70d2-472b-a76a-7bee79649448",
+        "x64": "ea00d869-f061-4444-92b2-5c5b26c8f0f4",
+        "x86": "3e9c5d16-6349-4108-8f71-058eebeee73a"
+      }
+    },
+    {
+      "id": "1.12.0.28",
+      "releaseTime": "2019-07-09",
+      "type": "release",
+      "serverId": "215040968",
+      "version": "1.12.28.0",
+      "uuid": {
+        "arm": "b0326e27-570e-40d8-857d-690321feb436",
+        "x64": "5a8f9eec-1753-4fa5-99f1-2cbbeb0a250e",
+        "x86": "2606e0d9-0079-428b-a02f-2222aa82994b"
+      }
+    },
+    {
+      "id": "1.11.4.2",
+      "releaseTime": "2019-05-23",
+      "type": "release",
+      "serverId": "212117168",
+      "version": "1.11.402.0",
+      "uuid": {
+        "arm": "b2b41f01-870e-490a-9bdf-f20841091765",
+        "x64": "a6cda410-0e11-4ff2-b807-5b1b183718f4",
+        "x86": "db5a1d74-cf2c-4c08-b2a4-2c0a23157269"
+      }
+    },
+    {
+      "id": "1.11.3.1",
+      "releaseTime": "2019-05-17",
+      "type": "release",
+      "serverId": "211624258",
+      "version": "1.11.301.0",
+      "uuid": {
+        "arm": "10d9fe45-854b-4cbb-8127-5f74dc1bf677",
+        "x64": "54e030f2-972b-4f79-bae2-79c5e7ab273c",
+        "x86": "f6337eaf-1e07-4afb-b465-0e3d2b3bebf2"
+      }
+    },
+    {
+      "id": "1.11.1.2",
+      "releaseTime": "2019-04-26",
+      "type": "release",
+      "serverId": "210432492",
+      "version": "1.11.102.0",
+      "uuid": {
+        "arm": "e15726fc-2e1c-4a45-914c-05e4edad2e9b",
+        "x64": "0edd9c79-47a1-4ecc-9b3c-c3b4d79229ba",
+        "x86": "ab471a82-7abf-401e-8b0e-7acc334aa5c4"
+      }
+    },
+    {
+      "id": "1.11.0.23",
+      "releaseTime": "2019-04-23",
+      "type": "release",
+      "serverId": "210135061",
+      "version": "1.11.23.0",
+      "uuid": {
+        "arm": "dc554edf-6770-4f01-9b2d-4bea3d68c7ec",
+        "x64": "903da582-8efb-461c-994c-f9396b6d5b48",
+        "x86": "b63bfa23-4299-4778-b856-eaac25f758b2"
+      }
+    },
+    {
+      "id": "1.10.1.1",
+      "releaseTime": "2019-03-28",
+      "type": "release",
+      "serverId": "208256901",
+      "version": "1.10.101.0",
+      "uuid": {
+        "arm": "0364e25f-8b3a-4df4-8fec-0dec8b2ee52a",
+        "x64": "0fd53f41-d1b4-465e-afd6-b9c88bf13ff3",
+        "x86": "32d239eb-4b7f-465a-be80-42a67e435ebf"
+      }
+    },
+    {
+      "id": "1.10.0.7",
+      "releaseTime": "",
+      "type": "release",
+      "serverId": "208114102",
+      "version": "1.10.7.0",
+      "uuid": {
+        "x64": "cf55c488-6839-4888-b892-562f92bb3dce",
+        "arm": "dabea833-4ef7-41f4-9418-c1b0b328b8af",
+        "x86": "9a915558-6d45-4b65-89f5-c0dce7b5f60c"
+      }
+    },
+    {
+      "id": "1.9.0.15",
+      "releaseTime": "2019-02-06",
+      "type": "release",
+      "version": "1.9.15.0",
+      "uuid": {
+        "arm": "8d37f127-358a-4b22-b2ad-2560b67047b0",
+        "x64": "8ce07a22-bdd1-4e39-801a-60a46000820d",
+        "x86": "47c24107-337f-4c89-a2a1-cda00a31ef5c"
+      }
+    },
+    {
+      "id": "1.8.1.2",
+      "releaseTime": "2018-12-18",
+      "type": "release",
+      "version": "1.8.102.0",
+      "uuid": {
+        "arm": "D464D5D7-ECE2-4836-B012-E1B4F6ACEAFA",
+        "x64": "F3FCF25D-1B38-4B21-AF39-7EFEE2751CB3",
+        "x86": "C03A17DE-BBB5-4FEA-9939-5F964A4CAA70"
+      }
+    },
+    {
+      "id": "1.8.0.24",
+      "releaseTime": "2018-12-12",
+      "type": "release",
+      "version": "1.8.24.0",
+      "uuid": {
+        "arm": "C928A04D-5803-4E51-9329-42DCCC89EE07",
+        "x64": "E22D9A02-A6E3-453A-B9AA-080CA0D306D9",
+        "x86": "A796D3D3-5ABC-456D-8AE5-E24DF5299BB1"
+      }
+    },
+    {
+      "id": "1.7.10.0",
+      "releaseTime": "",
+      "type": "release",
+      "version": "1.7.100.0",
+      "uuid": {
+        "arm": "B61DA139-534B-4EEE-8D57-AFE4890E970F",
+        "x64": "92EF3611-A5FF-4320-8AB8-A8ABC1C310FE",
+        "x86": "63BDCCF7-8705-4357-A254-C86136C93AE5"
+      }
+    },
+    {
+      "id": "1.7.0.13",
+      "releaseTime": "",
+      "type": "release",
+      "version": "1.7.13.0",
+      "uuid": {
+        "x64": "DBA9597D-5B76-4030-89D6-43D147F6D6C9",
+        "x86": "C3636273-073A-445A-B1BB-F003B0D8E2F5"
+      }
+    },
+    {
+      "id": "1.6.10.0",
+      "releaseTime": "",
+      "type": "release",
+      "version": "1.6.100.0",
+      "uuid": {
+        "arm": "AA2BFB69-18EB-43C6-8459-EAEC5627EB7C",
+        "x64": "17F86EA7-BCC4-4B72-AEF6-DB3BE0EA4FCC",
+        "x86": "0036915B-3019-48E5-A812-E8B20DBADE8C"
+      }
+    },
+    {
+      "id": "1.6.0.14",
+      "releaseTime": "2018-08-28",
+      "type": "release",
+      "version": "1.6.14.0",
+      "uuid": {
+        "arm": "1F2DCD94-DF56-45E5-844F-3BDB83721B94",
+        "x64": "573AF215-6FA6-42DA-8169-100CF7B497F7",
+        "x86": "5DAFE686-9429-4C5F-AFB1-201D03FFCF6E"
+      }
+    },
+    {
+      "id": "1.5.30.0",
+      "releaseTime": "",
+      "type": "release",
+      "version": "1.5.300.0",
+      "uuid": {
+        "arm": "836E2F06-4CCF-458C-AB9A-ED0458B8682A",
+        "x64": "8EEE3E56-47FD-4AF6-860B-D87C9CDDD9C4",
+        "x86": "56CB5DD1-2FE0-45E8-973C-0993D3078484"
+      }
+    },
+    {
+      "id": "1.5.2.1",
+      "releaseTime": "2018-07-24",
+      "type": "release",
+      "version": "1.5.201.0",
+      "uuid": {
+        "arm": "24EAAAE3-8571-4061-869A-0E36FE337E3E",
+        "x64": "F8DC2CE5-737F-4E23-8FBC-480A56534BA2",
+        "x86": "57068E15-0E77-499B-8145-C148F7A05A5B"
+      }
+    },
+    {
+      "id": "1.5.0.14",
+      "releaseTime": "2018-07-10",
+      "type": "release",
+      "version": "1.5.14.0",
+      "uuid": {
+        "arm": "F1848DA6-0377-4490-A8F6-6CC57B1C5B21",
+        "x64": "7636731D-1A3B-4CB1-A039-BB330B338DCF",
+        "x86": "61EF71BA-557C-4477-9CA4-3550AFCCACFB"
+      }
+    },
+    {
+      "id": "1.4.20.0",
+      "releaseTime": "",
+      "type": "release",
+      "version": "1.4.200.0",
+      "uuid": {
+        "arm": "D3B0952C-91C8-42B1-8102-DF750B6A3F54",
+        "x64": "DCBCCC5C-3592-49EF-961A-34A818B02657",
+        "x86": "5A5175E7-E014-4CA5-8A43-916055C26A6F"
+      }
+    },
+    {
+      "id": "1.2.10.2",
+      "releaseTime": "",
+      "type": "release",
+      "version": "1.2.1002.0",
+      "uuid": {
+        "arm": "68EB89DD-8BF8-4168-AF99-E6CA31026E99",
+        "x64": "1844255C-2266-4873-A6F5-9BDA14C4FED2",
+        "x86": "17951A4D-7682-4B98-A971-9E48E68EB55F"
+      }
+    },
+    {
+      "id": "1.2.80.0",
+      "releaseTime": "",
+      "type": "release",
+      "version": "1.2.800.0",
+      "uuid": {
+        "arm": "0E8A5B53-4DD5-4DD2-881E-358CF684BF97",
+        "x64": "DF01F252-B602-4A11-9562-4FE43A412C09",
+        "x86": "3489E689-339C-4AE8-B4DC-1B78A8B9D458"
+      }
+    },
+    {
+      "id": "1.2.3.6",
+      "releaseTime": "",
+      "type": "release",
+      "version": "1.2.306.0",
+      "uuid": {
+        "arm": "216BD75F-F0B1-401C-95C8-E50A7D8EF1F5",
+        "x64": "88D927C3-86FD-489D-BED1-C9882EC784DC",
+        "x86": "0232F835-36F5-49A1-BDF8-B5AB6083C11A"
+      }
+    },
+    {
+      "id": "1.2.2.3",
+      "releaseTime": "2017-10-04",
+      "type": "release",
+      "version": "1.2.203.0",
+      "uuid": {
+        "arm": "A7A02063-787A-4CB6-A661-9339F153394D",
+        "x64": "5897FEC9-DD1F-4286-AA6D-31E0CDD26EFA",
+        "x86": "7FD5415B-E183-486E-9BD5-DBF8BB70ED5F"
+      }
+    },
+    {
+      "id": "1.1.50.0",
+      "releaseTime": "",
+      "type": "release",
+      "version": "1.1.500.0",
+      "uuid": {
+        "x64": "F10631D2-507F-4B3C-9BF0-51E0DCEBE737",
+        "x86": "5C00A1B1-5964-473D-9516-D2AFCD627B44"
+      }
+    },
+    {
+      "id": "1.0.0.16",
+      "releaseTime": "",
+      "type": "release",
+      "version": "1.0.16.0",
+      "uuid": {
+        "x64": "8EE3C990-6751-4CC5-9389-C33A2BF313E5",
+        "x86": "4EB6BB23-5A29-48DF-8298-BFA0C1E52201"
+      }
+    },
+    {
+      "id": "0.16.01.10.0",
+      "releaseTime": "",
+      "type": "release",
+      "version": "0.1601.0.0",
+      "uuid": {
+        "x64": "786FA001-04F9-42DE-A556-E98AF3684525",
+        "x86": "0EB56B2B-8E28-49A5-A839-439B2F7EF23A"
+      }
+    },
+    {
+      "id": "0.16.0.5",
+      "releaseTime": "",
+      "type": "release",
+      "version": "0.1600.5.0",
+      "uuid": {
+        "x64": "88FCAC52-F717-442E-A667-2B1943F7DAD3",
+        "x86": "669240E4-1377-47F3-AAED-44D7696125D6"
+      }
+    },
+    {
+      "id": "0.15.1.10.0",
+      "releaseTime": "2016-06-26",
+      "type": "release",
+      "version": "0.1510.0.0",
+      "uuid": {
+        "x64": "C2FC6B6E-7548-4FDA-8936-C105C740B1E7",
+        "x86": "A55CA8B1-B7CF-4533-8ACB-3BBF4FDD1F32"
+      }
+    },
+    {
+      "id": "0.15.9.90.0",
+      "releaseTime": "2016-09-22",
+      "type": "release",
+      "version": "0.159.0.0",
+      "uuid": {
+        "x64": "7E035D83-C675-4248-BED1-2087F739356E",
+        "x86": "19733685-098B-4DC1-9143-91065772FE1D"
+      }
+    },
+    {
+      "id": "0.15.8.80.0",
+      "releaseTime": "2016-09-15",
+      "type": "release",
+      "version": "0.158.0.0",
+      "uuid": {
+        "x64": "367BE4B5-A71C-4D36-BC46-D11468777F7F",
+        "x86": "867A6D51-EEE9-4AC0-8B72-87E51CA30854"
+      }
+    },
+    {
+      "id": "0.15.7.70.1",
+      "releaseTime": "2016-08-31",
+      "type": "release",
+      "version": "0.157.1.0",
+      "uuid": {
+        "x64": "7EBC0F58-4AF1-4893-9465-FCBF57FDDE99",
+        "x86": "D855AF74-F506-49E9-B682-68115818842E"
+      }
+    },
+    {
+      "id": "0.15.6.60.0",
+      "releaseTime": "2016-08-10",
+      "type": "release",
+      "version": "0.156.0.0",
+      "uuid": {
+        "x64": "8FC80FC6-192C-4C50-8533-C5B49A5D3901",
+        "x86": "80BD247E-8D7C-4201-8A37-0E12B100B770"
+      }
+    },
+    {
+      "id": "0.15.4.40.1",
+      "releaseTime": "2016-07-28",
+      "type": "release",
+      "version": "0.154.1.0",
+      "uuid": {
+        "x64": "83762132-AE48-4404-84AE-186794563E44",
+        "x86": "D91A7C5E-F5F9-43C9-8746-5797F2BF4AB9"
+      }
+    },
+    {
+      "id": "0.15.0.0",
+      "releaseTime": "2016-06-10",
+      "type": "release",
+      "version": "0.150.0.0",
+      "uuid": {
+        "x64": "28354370-EB00-498C-B6CB-1B2DBBDD8042",
+        "x86": "635521EE-F0C3-4138-88AE-135ECE51CC03"
+      }
+    },
+    {
+      "id": "0.14.2.20.1",
+      "releaseTime": "2016-04-26",
+      "type": "release",
+      "version": "0.142.1.0",
+      "uuid": {
+        "x64": "A4A7A7D3-9739-43A1-8668-1556DDDB4CD4",
+        "x86": "CEDADC28-5047-4666-84D2-EDC205513CAC"
+      }
+    },
+    {
+      "id": "0.14.0.1",
+      "releaseTime": "2016-02-19",
+      "type": "release",
+      "version": "0.140.1.0",
+      "uuid": {
+        "x64": "B17C2923-587A-442B-9BC6-76A13C02978C",
+        "x86": "007886A5-AFD3-4956-BA71-E1E84ACE8E56"
+      }
+    },
+    {
+      "id": "0.13.2.20.0",
+      "releaseTime": "",
+      "type": "release",
+      "version": "0.132.0.0",
+      "uuid": {
+        "x64": "E21A9A69-841B-432C-A981-86603EF9D311",
+        "x86": "9B3CDEBE-C499-4F63-A4A4-6345311C7728"
+      }
+    },
+    {
+      "id": "0.13.1.10.0",
+      "releaseTime": "2015-12-15",
+      "type": "release",
+      "version": "0.131.0.0",
+      "uuid": {
+        "x64": "4B64779C-D1CD-4659-B1C5-03C858232579",
+        "x86": "1EE5AC16-D2EA-4CAB-A4B8-ACE4BAA305FD"
+      }
+    },
+    {
+      "id": "0.13.0.0",
+      "releaseTime": "2015-11-20",
+      "type": "release",
+      "version": "0.130.0.0",
+      "uuid": {
+        "x64": "985D1EE4-0E9D-49DE-9A99-E208ADC08D0C",
+        "x86": "4D92D8BE-3E26-4E55-B737-337D66EBDD27"
+      }
+    }
+  ]
+}
