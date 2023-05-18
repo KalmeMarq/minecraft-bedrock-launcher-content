@@ -1,7 +1,48 @@
 {
   "entries": [
     {
-      "id": "9c710a4bf9efed0b8dd3",
+      "id": "abbf716a610869564fb9",
+      "title": "Minecraft 1.20.0.25 Preview & Beta",
+      "type": "preview",
+      "version": "1.20.0.25",
+      "date": "2023-05-18",
+      "image": {
+        "url": "https://github.com/KalmeMarq/minecraft-bedrock-launcher-content/raw/master/images/patchnotes//mcbugrock_1.20.0.25.png",
+        "title": "Minecraft 1.20.0.25 Preview & Beta"
+      },
+      "body": "<p><span class=\"wysiwyg-color-black\"><strong><span class=\"wysiwyg-font-size-x-large\">Information on the Minecraft Preview and Beta:</span></strong></span></p><ul><li>These work-in-progress versions can be unstable and may not be representative of final version quality</li><li>Minecraft Preview is available on Xbox, Windows 10/11, and iOS devices. More information can be found at&nbsp;<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://aka.ms/PreviewFAQ\" target=\"_self\">aka.ms/PreviewFAQ</a></li><li>The beta is available on Android (Google Play). To join or leave the beta, see&nbsp;<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://aka.ms/JoinMCBeta\">aka.ms/JoinMCBeta</a>&nbsp;for detailed instructions.</li></ul><p><img src=\"/hc/article_attachments/15888568053389\" alt=\"A Minecraft screenshot featuring a village, villager, sniffer, with a cherry grove and pillager outpost on the side of a mountain in the background.\"></p><p>&nbsp;</p><p>A new Minecraft Preview and Beta update is here, with a few more tweaks and changes! We love to hear from you so please send us your <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://aka.ms/MC120Feedback\">feedback</a> and <a href=\"https://bugs.mojang.com/\">bug reports</a>!</p><h1><strong><span style=\"color: black;\">Features and Bug Fixes</span></strong></h1><h2><strong><span style=\"color: black;\">Gameplay</span></strong></h2><ul><li>Fixed issue with touchscreen world interaction when a non-default field of view in video settings is used (<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://bugs.mojang.com/browse/MCPE-169504\">MCPE-169504</a>)</li><li>Players are no longer forced to stop flying when forced into spaces with no room to stand (<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://bugs.mojang.com/browse/MCPE-170070\">MCPE-170070</a>)</li><li>Improved response to Mouse/Trackpad Input on Chromebooks (<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://bugs.mojang.com/browse/MCPE-168908\">MCPE-168908</a>)</li></ul>",
+      "platforms": [
+        "All"
+      ]
+    },
+    {
+      "id": "667b38dd6e0196fdff6e",
+      "title": "Minecraft: Bedrock Edition 1.19.83",
+      "type": "release",
+      "version": "1.19.83",
+      "date": "2023-05-17",
+      "body": "<p>A new update has been released to address some issues that were introduced with the 1.19.80 update.</p><p>Please continue to upvote and report any new bugs at <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://bugs.mojang.com\">bugs.mojang.com</a> and leave us your feedback at <a href=\"https://feedback.minecraft.net\">feedback.minecraft.net</a>!<br><br></p><p><span class=\"wysiwyg-font-size-x-large\"><strong>Fixes:</strong></span></p><ul><li>Fixed several crashes that could occur during gameplay</li><li>The inventory cursor no longer snaps to a random spot when flicking the left thumbstick (<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://bugs.mojang.com/browse/MCPE-169176\" target=\"_self\" rel=\"undefined\">MCPE-169176</a>)</li><li>Fixed custom textures that override 'minecraft' blocks with aux metadata as a list of textures</li><li>Several fixes to custom spawn eggs (<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://bugs.mojang.com/browse/MCPE-170184\" target=\"_self\">MCPE-170184</a>)<ul><li>Re-enabled use of aux value to refer to custom eggs in commands for game versions 1.19.80 and beyond, eg. \"/give @s spawn_egg 1 654\"</li><li>Re-enabled use of Molang queries for the item's data field in recipes for game versions 1.19.80 and beyond, eg. { \"item\": \"spawn_egg\", \"data\": \"query.get_actor_info_id('namespace:actor')\" }</li><li>Re-enabled use of \"set_actor_id\" in loot tables when refering to custom spawn eggs for game versions 1.19.80 and beyond</li></ul></li></ul>",
+      "platforms": [
+        "All"
+      ]
+    },
+    {
+      "id": "81ecdcac5b1ad0391004",
+      "title": "Minecraft 1.20.0.24 Preview & Beta",
+      "type": "preview",
+      "version": "1.20.0.24",
+      "date": "2023-05-11",
+      "image": {
+        "url": "https://github.com/KalmeMarq/minecraft-bedrock-launcher-content/raw/master/images/patchnotes//mcbugrock_1.20.0.24.png",
+        "title": "Minecraft 1.20.0.24 Preview & Beta"
+      },
+      "body": "<p><span class=\"wysiwyg-color-red\"><strong>NOTE:</strong></span> This week's Xbox version may be delayed. We apologize for the inconvenience and are working to resolve the issue.</p><p><span class=\"wysiwyg-color-black\"><strong><span class=\"wysiwyg-font-size-x-large\">Information on the Minecraft Preview and Beta:</span></strong></span></p><ul><li>These work-in-progress versions can be unstable and may not be representative of final version quality</li><li>Minecraft Preview is available on Xbox, Windows 10/11, and iOS devices. More information can be found at&nbsp;<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://aka.ms/PreviewFAQ\" target=\"_self\">aka.ms/PreviewFAQ</a></li><li>The beta is available on Android (Google Play). To join or leave the beta, see&nbsp;<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://aka.ms/JoinMCBeta\">aka.ms/JoinMCBeta</a>&nbsp;for detailed instructions.</li></ul><p><img src=\"/hc/article_attachments/15681136376333\" alt=\"A Minecraft screenshot featuring a villager, a sniffer, a camel, and an allay. These are standing at the edge of a cherry grove.\"></p><p>It's time for another Minecraft Preview, and this week we have some more changes and improvements to Trails &amp; Tales features! We love to hear from you so please send us your <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://aka.ms/MC120Feedback\">feedback</a> and <a href=\"https://bugs.mojang.com/\">bug reports</a>! Take a look at the full list of changes below!</p><h1><strong>Features and Bug Fixes</strong></h1><h2><strong>Gameplay</strong></h2><ul><li>Players no longer stop flying when teleporting into unloaded chunks (<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://bugs.mojang.com/browse/MCPE-170070\">MCPE-170070</a>)</li></ul><h2><strong>Seed Picker</strong></h2><ul><li>Updated the seed picker with a Cherry Grove biome option</li></ul><h2><strong>Achievements</strong></h2><ul><li>Adding “Smithing with Style” achievement</li></ul><h2><strong>Graphical</strong></h2><ul><li>Trimmed armor icons are now rendered correctly in higher resolution texture packs (<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://bugs.mojang.com/browse/MCPE-169748\">MCPE-169748</a>)</li><li>High resolution textures are now applied correctly to Sniffer Eggs and Pitcher Pods (<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://bugs.mojang.com/browse/MCPE-169604\">MCPE-169604</a>)</li></ul><h2><strong>Sniffer</strong></h2><ul><li>Sniffer Egg item now makes sound when spawned from breeding (<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://bugs.mojang.com/browse/MCPE-169733\">MCPE-169733</a>)</li></ul><h2><strong>Mobs</strong></h2><ul><li>Pigs can once again be found in most biomes, instead of only Meadows and Cherry Groves (<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://bugs.mojang.com/browse/MCPE-170275\">MCPE-170275</a>)</li></ul><h2><strong>Stability and Performance</strong></h2><ul><li>Game no longer crashes when an item starts/stops being used if the item is not available</li><li>Fishing Rod will no longer crash the game upon breaking (<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://bugs.mojang.com/browse/MCPE-170021\">MCPE-170021</a>)</li></ul><h2><strong>User Interface</strong></h2><ul><li>The main menu background in now tilted downwards on all platforms</li></ul><h2><strong>Add-Ons</strong></h2><ul><li>Fixed an issue that prevented custom entity spawn eggs from being supported in trade tables (<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://bugs.mojang.com/browse/MCPE-170184\">MCPE-170184</a>)</li></ul>",
+      "platforms": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c72fb409795fda2b8ca",
       "title": "Minecraft 1.20.0.23 Preview & Beta",
       "type": "preview",
       "version": "1.20.0.23",
@@ -16,7 +57,7 @@
       ]
     },
     {
-      "id": "e7dfea1d8bc0b2a82cb2",
+      "id": "85f9cbdcf2556ca3d983",
       "title": "Minecraft: Bedrock Edition 1.19.81",
       "type": "release",
       "version": "1.19.81",
@@ -27,7 +68,7 @@
       ]
     },
     {
-      "id": "4d9df296ffb4731e9bec",
+      "id": "8819e0c9390dc5a448d2",
       "title": "Minecraft: Bedrock Edition 1.19.80",
       "type": "release",
       "version": "1.19.80",
@@ -42,7 +83,7 @@
       ]
     },
     {
-      "id": "ff00e43ce4e1ea902dee",
+      "id": "d4053529c85e80c2fc49",
       "title": "Minecraft 1.20.0.22 Preview & Beta",
       "type": "preview",
       "version": "1.20.0.22",
@@ -57,7 +98,7 @@
       ]
     },
     {
-      "id": "b0ed5921881b34e1e4b9",
+      "id": "0a4a95dcc92066df64b8",
       "title": "Minecraft 1.20.0.21 Preview & Beta",
       "type": "preview",
       "version": "1.20.0.21",
@@ -72,7 +113,7 @@
       ]
     },
     {
-      "id": "8d4ed2608eac8840e75d",
+      "id": "e46b0822be8d5954e8b6",
       "title": "Minecraft 1.20.0.20 Preview & Beta",
       "type": "preview",
       "version": "1.20.0.20",
@@ -87,7 +128,7 @@
       ]
     },
     {
-      "id": "7d7dd542094e7c50f134",
+      "id": "f495a3c018677fef3e3e",
       "title": "Minecraft 1.19.80.24 Preview & Beta",
       "type": "preview",
       "version": "1.19.80.24",
@@ -102,7 +143,7 @@
       ]
     },
     {
-      "id": "33b2a137e9c4e92a6e69",
+      "id": "c1a9d80277fd9fbb30f0",
       "title": "Minecraft 1.19.80.23 Preview & Beta",
       "type": "preview",
       "version": "1.19.80.23",
@@ -117,7 +158,7 @@
       ]
     },
     {
-      "id": "e8b9d767f7a3d8cdfedb",
+      "id": "8f3524178065c21d6f27",
       "title": "Minecraft: Bedrock Edition 1.19.73",
       "type": "release",
       "version": "1.19.73",
@@ -128,7 +169,7 @@
       ]
     },
     {
-      "id": "4a6bb1eed9b7fc70ef22",
+      "id": "c99d7844c6e822458343",
       "title": "Minecraft 1.19.80.22 Preview & Beta",
       "type": "preview",
       "version": "1.19.80.22",
@@ -143,7 +184,7 @@
       ]
     },
     {
-      "id": "2f8663cdbb0b7792a515",
+      "id": "0e6ee2bb059089ba53d5",
       "title": "Minecraft: Bedrock Edition 1.19.72",
       "type": "release",
       "version": "1.19.72",
@@ -154,7 +195,7 @@
       ]
     },
     {
-      "id": "140eac8fb9c6a2b26a7c",
+      "id": "9b403cb44e720024cc54",
       "title": "Minecraft: Bedrock Edition 1.19.71",
       "type": "release",
       "version": "1.19.71",
@@ -165,7 +206,7 @@
       ]
     },
     {
-      "id": "8d031951a83a1405a3cb",
+      "id": "c4d68b3758dc292f3e0b",
       "title": "Minecraft 1.19.80.21 Preview & Beta",
       "type": "preview",
       "version": "1.19.80.21",
@@ -180,7 +221,7 @@
       ]
     },
     {
-      "id": "43bb74c18ca3feeaf151",
+      "id": "9d8a66c49bf713b1403e",
       "title": "Minecraft: Bedrock Edition 1.19.70",
       "type": "release",
       "version": "1.19.70",
@@ -195,7 +236,7 @@
       ]
     },
     {
-      "id": "ad6c105e4d8d938cabe0",
+      "id": "3187c44d30940a886bb9",
       "title": "Minecraft 1.19.80.20 Preview & Beta",
       "type": "preview",
       "version": "1.19.80.20",
@@ -210,7 +251,7 @@
       ]
     },
     {
-      "id": "2bdefcb9da324e07781a",
+      "id": "5840b4eb3c7ae2b3a7f4",
       "title": "Minecraft 1.19.70.26 Preview & Beta",
       "type": "preview",
       "version": "1.19.70.26",
@@ -221,7 +262,7 @@
       ]
     },
     {
-      "id": "b8f3ac143e245ce038e6",
+      "id": "75b7e831bfb4d3540c08",
       "title": "Minecraft 1.19.70.24/25 Preview & Beta",
       "type": "preview",
       "version": "1.19.70.24/25",
@@ -236,7 +277,7 @@
       ]
     },
     {
-      "id": "b3e113b6041b7a336379",
+      "id": "88a8e8cf1352a86c7022",
       "title": "Minecraft 1.19.70.23 Preview & Beta",
       "type": "preview",
       "version": "1.19.70.23",
@@ -251,7 +292,7 @@
       ]
     },
     {
-      "id": "eab424a36ea115a0287b",
+      "id": "3914ab89f086c8acdb5b",
       "title": "Minecraft 1.19.70.22 Preview & Beta",
       "type": "preview",
       "version": "1.19.70.22",
@@ -266,7 +307,7 @@
       ]
     },
     {
-      "id": "a33ec275e45a4e8031d3",
+      "id": "3bed30d2a14071123cd7",
       "title": "Minecraft 1.19.70.21 Preview & Beta",
       "type": "preview",
       "version": "1.19.70.21",
@@ -277,7 +318,7 @@
       ]
     },
     {
-      "id": "fc7dfd10bd2d9067d202",
+      "id": "1ea558415f18b8d0a7bc",
       "title": "Minecraft 1.19.70.20 Preview & Beta",
       "type": "preview",
       "version": "1.19.70.20",
@@ -288,7 +329,7 @@
       ]
     },
     {
-      "id": "f5197d33da80234299ed",
+      "id": "01211b2be60f005e5972",
       "title": "Minecraft 1.19.60.27 Preview & Beta",
       "type": "preview",
       "version": "1.19.60.27",
@@ -303,7 +344,7 @@
       ]
     },
     {
-      "id": "5f22b3162fa7afb7ff5c",
+      "id": "82396be7ae5ec9bc191a",
       "title": "Minecraft 1.19.60.26 Preview & Beta",
       "type": "preview",
       "version": "1.19.60.26",
@@ -318,7 +359,7 @@
       ]
     },
     {
-      "id": "6a250d096fd9d3f50221",
+      "id": "3508da4fd198229ddec3",
       "title": "Minecraft 1.19.60.25 Preview & Beta",
       "type": "preview",
       "version": "1.19.60.25",
@@ -333,7 +374,7 @@
       ]
     },
     {
-      "id": "8b592663079231aa25be",
+      "id": "40e508ea540404fc6868",
       "title": "Minecraft: Bedrock Edition 1.19.51",
       "type": "release",
       "version": "1.19.51",
@@ -344,7 +385,7 @@
       ]
     },
     {
-      "id": "f4549f248c3b97d2a3cf",
+      "id": "a7baed08fb862f563cd3",
       "title": "Minecraft 1.19.60.23 Preview & Beta",
       "type": "preview",
       "version": "1.19.60.23",
@@ -359,7 +400,7 @@
       ]
     },
     {
-      "id": "d2c43d92d1556692a171",
+      "id": "2d9ce10e9dd1d6f1b002",
       "title": "Minecraft 1.19.60.22 Preview & Beta",
       "type": "preview",
       "version": "1.19.60.22",
@@ -374,7 +415,7 @@
       ]
     },
     {
-      "id": "740136909622fade1f44",
+      "id": "5eacc904b64fa1e3e15a",
       "title": "Minecraft: Bedrock Edition 1.19.50",
       "type": "release",
       "version": "1.19.50",
@@ -389,7 +430,7 @@
       ]
     },
     {
-      "id": "963e2d8c8ef27f03a32c",
+      "id": "bb46cc55ebce77f1d61d",
       "title": "Minecraft 1.19.60.20 Preview & Beta",
       "type": "preview",
       "version": "1.19.60.20",
@@ -404,7 +445,7 @@
       ]
     },
     {
-      "id": "cbb8725b30ab8719b453",
+      "id": "a40f9adbb75bc9cebc1d",
       "title": "Minecraft 1.19.50.25 Preview & Beta",
       "type": "preview",
       "version": "1.19.50.25",
@@ -419,7 +460,7 @@
       ]
     },
     {
-      "id": "70e7bb152bc91fe2910c",
+      "id": "379b39c18bfb85a682bc",
       "title": "Minecraft 1.19.50.24 Preview & Beta",
       "type": "preview",
       "version": "1.19.50.24",
@@ -434,7 +475,7 @@
       ]
     },
     {
-      "id": "182be94cd3323028d61e",
+      "id": "2610ff5b9032b0b7718c",
       "title": "Minecraft: Bedrock Edition 1.19.41",
       "type": "release",
       "version": "1.19.41",
@@ -445,7 +486,7 @@
       ]
     },
     {
-      "id": "979b331c7d04c3c89ec0",
+      "id": "c8cb3f84e2d3745d8557",
       "title": "Minecraft 1.19.50.23 Preview & Beta",
       "type": "preview",
       "version": "1.19.50.23",
@@ -460,7 +501,7 @@
       ]
     },
     {
-      "id": "c38624b43acf562eb69b",
+      "id": "3acd86213ebd000029ab",
       "title": "Minecraft 1.19.50.22 Preview & Beta",
       "type": "preview",
       "version": "1.19.50.22",
@@ -475,7 +516,7 @@
       ]
     },
     {
-      "id": "ac50adfb5de68f3e806f",
+      "id": "712c17f990581c792505",
       "title": "Minecraft 1.19.50.21 Preview & Beta",
       "type": "preview",
       "version": "1.19.50.21",
@@ -490,7 +531,7 @@
       ]
     },
     {
-      "id": "9df4709249ad87f13d13",
+      "id": "ed3759ac0236f4f353a5",
       "title": "Minecraft 1.19.50.20 Preview & Beta",
       "type": "preview",
       "version": "1.19.50.20",
@@ -505,7 +546,7 @@
       ]
     },
     {
-      "id": "85a9900075d470ad3921",
+      "id": "ad835eecc04422c127e0",
       "title": "Minecraft 1.19.40.24 Preview & Beta",
       "type": "preview",
       "version": "1.19.40.24",
@@ -520,7 +561,7 @@
       ]
     },
     {
-      "id": "7a25f5c0933bba005d6d",
+      "id": "1f683ef8744cc1195181",
       "title": "Minecraft: Bedrock Edition 1.19.31",
       "type": "release",
       "version": "1.19.31",
@@ -531,7 +572,7 @@
       ]
     },
     {
-      "id": "0bfd9b0ce4b7c1bbdaa2",
+      "id": "7c79d599889203ebccb9",
       "title": "Minecraft 1.19.40.23 Preview & Beta",
       "type": "preview",
       "version": "1.19.40.23",
@@ -546,7 +587,7 @@
       ]
     },
     {
-      "id": "20aa785f7b096321055f",
+      "id": "8e685ae26ea171de480e",
       "title": "Minecraft 1.19.40.22 Preview & Beta",
       "type": "preview",
       "version": "1.19.40.22",
@@ -561,7 +602,7 @@
       ]
     },
     {
-      "id": "74329f7a05defbcea71e",
+      "id": "b0eab8845ac26068df6d",
       "title": "Minecraft 1.19.40.21 Preview & Beta",
       "type": "preview",
       "version": "1.19.40.21",
@@ -576,7 +617,7 @@
       ]
     },
     {
-      "id": "196c9f58fc9fc2671d60",
+      "id": "371dcfa3c3b04caf3cff",
       "title": "Minecraft 1.19.40.20 Preview & Beta",
       "type": "preview",
       "version": "1.19.40.20",
@@ -591,7 +632,7 @@
       ]
     },
     {
-      "id": "186b93b7ca5dae8e7eed",
+      "id": "01de3e52d7b5182bb304",
       "title": "Minecraft: Bedrock Edition 1.19.22",
       "type": "release",
       "version": "1.19.22",
@@ -602,7 +643,7 @@
       ]
     },
     {
-      "id": "0fb68868a65cc87f7a7c",
+      "id": "29366fc239f4618e50f7",
       "title": "Minecraft 1.19.30.25 Preview & Beta",
       "type": "preview",
       "version": "1.19.30.25",
@@ -617,7 +658,7 @@
       ]
     },
     {
-      "id": "e1750dab96f298a27be7",
+      "id": "b4d75c86fa95a80c64da",
       "title": "Minecraft 1.19.30.24 Preview & Beta",
       "type": "preview",
       "version": "1.19.30.24",
@@ -628,7 +669,7 @@
       ]
     },
     {
-      "id": "532b1f28278965372eb7",
+      "id": "43a26d87f7040be40d21",
       "title": "Minecraft 1.19.30.23 Preview & Beta",
       "type": "preview",
       "version": "1.19.30.23",
@@ -643,7 +684,7 @@
       ]
     },
     {
-      "id": "cf1dddcf17f0b2575206",
+      "id": "f51095b523edb4bf0c28",
       "title": "Minecraft: Bedrock Edition 1.19.21",
       "type": "release",
       "version": "1.19.21",
@@ -654,7 +695,7 @@
       ]
     },
     {
-      "id": "75977da300d485695eb5",
+      "id": "465b477351f8690d3e12",
       "title": "Minecraft 1.19.30.22 Preview & Beta",
       "type": "preview",
       "version": "1.19.30.22",
@@ -669,7 +710,7 @@
       ]
     },
     {
-      "id": "9ff443ba699c6d966a5e",
+      "id": "81c01b6e8c18dabc8c6d",
       "title": "Minecraft 1.19.30.21 Preview & Beta",
       "type": "preview",
       "version": "1.19.30.21",
@@ -684,7 +725,7 @@
       ]
     },
     {
-      "id": "eaaddd9d691b184e10bd",
+      "id": "be17e8c2d856c6a28592",
       "title": "Minecraft: Bedrock Edition 1.19.20",
       "type": "release",
       "version": "1.19.20",
@@ -699,7 +740,7 @@
       ]
     },
     {
-      "id": "251e134ec9df937aa4e6",
+      "id": "d1e07709701976e00e19",
       "title": "Minecraft 1.19.30.20 Preview & Beta",
       "type": "preview",
       "version": "1.19.30.20",
@@ -714,7 +755,7 @@
       ]
     },
     {
-      "id": "b2a2032bd005b3419568",
+      "id": "9d09b68ea4e4fd0ecb97",
       "title": "Minecraft 1.19.20.24 Preview & Beta",
       "type": "preview",
       "version": "1.19.20.24",
@@ -729,7 +770,7 @@
       ]
     },
     {
-      "id": "a18ea8f1f098a09e3e81",
+      "id": "1226db1e405a7ddee94c",
       "title": "Minecraft: Bedrock Edition 1.19.11",
       "type": "release",
       "version": "1.19.11",
@@ -740,7 +781,7 @@
       ]
     },
     {
-      "id": "4241c11f4eff5c03acfc",
+      "id": "88fcc419e41140a6c2fd",
       "title": "Minecraft 1.19.20.23 Preview & Beta",
       "type": "preview",
       "version": "1.19.20.23",
@@ -755,7 +796,7 @@
       ]
     },
     {
-      "id": "5aa158eb104eee6a7e4c",
+      "id": "e122cc6fe0713d2e52c6",
       "title": "Minecraft 1.19.20.22 Preview & Beta",
       "type": "preview",
       "version": "1.19.20.22",
@@ -770,7 +811,7 @@
       ]
     },
     {
-      "id": "71ba6907878f760c1590",
+      "id": "972ff2542e97c922fff3",
       "title": "Minecraft: Bedrock Edition 1.19.10",
       "type": "release",
       "version": "1.19.10",
@@ -785,7 +826,7 @@
       ]
     },
     {
-      "id": "1525cfdea0f27a372186",
+      "id": "d98504bdd2cbe27c4aab",
       "title": "Minecraft 1.19.20.20/21 Preview & Beta",
       "type": "preview",
       "version": "1.19.20.20/21",
@@ -800,7 +841,7 @@
       ]
     },
     {
-      "id": "c2b39125f7514b8c0a05",
+      "id": "ee3839396f3b6e5f00a7",
       "title": "Minecraft: Bedrock Edition 1.19.2",
       "type": "release",
       "version": "1.19.2",
@@ -811,7 +852,7 @@
       ]
     },
     {
-      "id": "dc307e31058097fee6bd",
+      "id": "390a90659ebd11e47278",
       "title": "Minecraft 1.19.10.23 Preview & Beta",
       "type": "preview",
       "version": "1.19.10.23",
@@ -826,7 +867,7 @@
       ]
     },
     {
-      "id": "5f619f9ac1f60aaddcc3",
+      "id": "676d28feb4901750b321",
       "title": "Minecraft 1.19.10.22 Preview & Beta",
       "type": "preview",
       "version": "1.19.10.22",
@@ -841,7 +882,7 @@
       ]
     },
     {
-      "id": "c25508352004e409b9b1",
+      "id": "7d3a5fcd0d0f3b45a1db",
       "title": "Minecraft: Bedrock Edition 1.19.0",
       "type": "release",
       "version": "1.19.0",
@@ -856,7 +897,7 @@
       ]
     },
     {
-      "id": "30e68ffe5cf57064271f",
+      "id": "bf56046b08e779d81859",
       "title": "Minecraft: Bedrock Edition 1.18.32",
       "type": "release",
       "version": "1.18.32",
@@ -868,7 +909,7 @@
       ]
     },
     {
-      "id": "efffa33d58aaa671084c",
+      "id": "2f3437ed8ed965f45c6e",
       "title": "Minecraft: Bedrock Edition 1.18.31",
       "type": "release",
       "version": "1.18.31",
@@ -879,7 +920,7 @@
       ]
     },
     {
-      "id": "bedcf7521a89e3173bd3",
+      "id": "90b53728ee67505f366a",
       "title": "Minecraft 1.19.0.26/27 Preview & Beta",
       "type": "preview",
       "version": "1.19.0.26/27",
@@ -894,7 +935,7 @@
       ]
     },
     {
-      "id": "6a15532425b5f3cf9f8a",
+      "id": "626cbc7766a285a42f51",
       "title": "Minecraft: Bedrock Edition 1.18.30",
       "type": "release",
       "version": "1.18.30",
@@ -909,7 +950,7 @@
       ]
     },
     {
-      "id": "d0c857990234d2c5c4d5",
+      "id": "92704d5bcbe5c9f2bde8",
       "title": "Minecraft 1.19.0.24/25 Preview & Beta",
       "type": "preview",
       "version": "1.19.0.24/25",
@@ -924,7 +965,7 @@
       ]
     },
     {
-      "id": "3d03bb0dccf62c6b14ab",
+      "id": "190d1ae96c00840d2041",
       "title": "Minecraft 1.19.0.20/21 Preview & Beta",
       "type": "preview",
       "version": "1.19.0.20/21",
@@ -939,7 +980,7 @@
       ]
     },
     {
-      "id": "6f0466f20787aa57ca8f",
+      "id": "cbc2607a58b9d7e4e421",
       "title": "Minecraft 1.18.30.32/33 Preview & Beta",
       "type": "preview",
       "version": "1.18.30.32/33",
@@ -954,7 +995,7 @@
       ]
     },
     {
-      "id": "6af7c5ca964a1612cd59",
+      "id": "4124d4553defdadacf7b",
       "title": "Minecraft 1.18.30.30/31 Preview & Beta",
       "type": "preview",
       "version": "1.18.30.30/31",
@@ -965,7 +1006,7 @@
       ]
     },
     {
-      "id": "316b32e05e60910ab474",
+      "id": "0ce3e8c3587463908a1c",
       "title": "Minecraft 1.18.30.28/29 Preview & Beta",
       "type": "preview",
       "version": "1.18.30.28/29",
@@ -980,7 +1021,7 @@
       ]
     },
     {
-      "id": "58212aa0b7fde284e590",
+      "id": "fdecb5668af63e4d4103",
       "title": "Minecraft 1.18.30.26/27 Preview & Beta",
       "type": "preview",
       "version": "1.18.30.26/27",
@@ -995,7 +1036,7 @@
       ]
     },
     {
-      "id": "72a15922ff647b8d9ea5",
+      "id": "ec4c00f3bcdc05a9ba43",
       "title": "Minecraft 1.18.30.22/23 Preview & Beta",
       "type": "preview",
       "version": "1.18.30.22/23",
@@ -1006,7 +1047,7 @@
       ]
     },
     {
-      "id": "44166793972e0ec43748",
+      "id": "0a9d610d3a58514c47b1",
       "title": "Minecraft 1.18.30.20/21 Preview & Beta",
       "type": "preview",
       "version": "1.18.30.20/21",
@@ -1021,7 +1062,7 @@
       ]
     },
     {
-      "id": "3599716cfb31e763fdc8",
+      "id": "650bbde00308312507a1",
       "title": "Minecraft 1.18.20.29/30 Preview & Beta",
       "type": "preview",
       "version": "1.18.20.29/30",
@@ -1036,7 +1077,7 @@
       ]
     },
     {
-      "id": "eb81a71860b35e131fbb",
+      "id": "c8ea44f114b5f57ae579",
       "title": "Minecraft: Bedrock Edition 1.18.20.27 Beta",
       "type": "beta",
       "version": "1.18.20.27",
@@ -1052,7 +1093,7 @@
       ]
     },
     {
-      "id": "bece0f335057f83491cc",
+      "id": "ea52dd0ae1ed0dbdc00b",
       "title": "Minecraft: Bedrock Edition 1.18.20.25 Beta",
       "type": "beta",
       "version": "1.18.20.25",
@@ -1068,7 +1109,7 @@
       ]
     },
     {
-      "id": "b501d4b78b85f7fcc7e7",
+      "id": "2563e25940ace0c286d3",
       "title": "Minecraft: Bedrock Edition 1.18.10",
       "type": "release",
       "version": "1.18.10",
@@ -1083,7 +1124,7 @@
       ]
     },
     {
-      "id": "d426913058251172f1e7",
+      "id": "859ae099a30c939aae61",
       "title": "Minecraft: Bedrock Edition 1.18.20.23 Beta",
       "type": "beta",
       "version": "1.18.20.23",
@@ -1099,7 +1140,7 @@
       ]
     },
     {
-      "id": "9abec9f57ffcb6804719",
+      "id": "981dd5398cea5c719d6a",
       "title": "Minecraft: Bedrock Edition 1.18.20.21 Beta",
       "type": "beta",
       "version": "1.18.20.21",
@@ -1115,7 +1156,7 @@
       ]
     },
     {
-      "id": "5e89988d2635651711b0",
+      "id": "0f317cae483db2f22892",
       "title": "Minecraft: Bedrock Edition 1.18.10.28 Beta",
       "type": "beta",
       "version": "1.18.10.28",
@@ -1131,7 +1172,7 @@
       ]
     },
     {
-      "id": "226cb48b1bf137b2ef36",
+      "id": "86dd34cfdfcdf51210f7",
       "title": "Minecraft: Bedrock Edition 1.18.10.27 Beta",
       "type": "beta",
       "version": "1.18.10.27",
@@ -1147,7 +1188,7 @@
       ]
     },
     {
-      "id": "f2172b64b7b74c2ee06b",
+      "id": "796adb035e2786eb4fce",
       "title": "Minecraft: Bedrock Edition 1.18.10.26 Beta",
       "type": "beta",
       "version": "1.18.10.26",
@@ -1163,7 +1204,7 @@
       ]
     },
     {
-      "id": "5ba8f875ca33fe3cbffc",
+      "id": "add4ac2cea939cd8bd30",
       "title": "Minecraft: Bedrock Edition 1.18.10.24 Beta",
       "type": "beta",
       "version": "1.18.10.24",
@@ -1179,7 +1220,7 @@
       ]
     },
     {
-      "id": "e17e5e2291464395b38e",
+      "id": "6bba8ab688132dbcbb3b",
       "title": "Minecraft: Bedrock Edition 1.18.2",
       "type": "release",
       "version": "1.18.2",
@@ -1190,7 +1231,7 @@
       ]
     },
     {
-      "id": "56e1b012e4578ebf3b83",
+      "id": "ed6ced55001f7a538bcd",
       "title": "Minecraft: Bedrock Edition 1.18.10.22 Beta",
       "type": "beta",
       "version": "1.18.10.22",
@@ -1205,7 +1246,7 @@
       ]
     },
     {
-      "id": "8d2fa9986fc12cb0ade0",
+      "id": "96d242e8e187967e6c29",
       "title": "Minecraft: Bedrock Edition 1.18.1",
       "type": "release",
       "version": "1.18.1",
@@ -1220,7 +1261,7 @@
       ]
     },
     {
-      "id": "7e26f5222da9064168fc",
+      "id": "7b9c3fa5a761c67e0b83",
       "title": "Minecraft: Bedrock Edition 1.18.10.21 Beta",
       "type": "beta",
       "version": "1.18.10.21",
@@ -1237,7 +1278,7 @@
       ]
     },
     {
-      "id": "c76d3398709611981e8a",
+      "id": "f0d95922fba58bb2d03c",
       "title": "Minecraft: Bedrock Edition 1.18.0",
       "type": "release",
       "version": "1.18.0",
@@ -1252,7 +1293,7 @@
       ]
     },
     {
-      "id": "93f4b44c5049ae9dcda7",
+      "id": "2a42cd255aae8a5362dc",
       "title": "Minecraft: Bedrock Edition 1.18.10.20 Beta",
       "type": "beta",
       "version": "1.18.10.20",
@@ -1269,7 +1310,7 @@
       ]
     },
     {
-      "id": "393c16dccf80c73dc891",
+      "id": "e505f53d69824a91b0c9",
       "title": "Minecraft: Bedrock Edition 1.18.0.27 Beta",
       "type": "beta",
       "version": "1.18.0.27",
@@ -1286,7 +1327,7 @@
       ]
     },
     {
-      "id": "dd08f78136eaeebc4be4",
+      "id": "5bac3ddc710b5df5bad6",
       "title": "Minecraft: Bedrock Edition 1.18.0.25 Beta",
       "type": "beta",
       "version": "1.18.0.25",
@@ -1303,7 +1344,7 @@
       ]
     },
     {
-      "id": "2ef14f28fa96387ba79e",
+      "id": "63313373348e3dc21012",
       "title": "Minecraft: Bedrock Edition 1.17.41",
       "type": "release",
       "version": "1.17.41",
@@ -1314,7 +1355,7 @@
       ]
     },
     {
-      "id": "6503538bc8f663ee542d",
+      "id": "7a078b7c3481652b503d",
       "title": "Minecraft: Bedrock Edition 1.18.0.24 Beta",
       "type": "beta",
       "version": "1.18.0.24",
@@ -1331,7 +1372,7 @@
       ]
     },
     {
-      "id": "205e48e348d9852a614c",
+      "id": "ae223772e4058079903c",
       "title": "Minecraft: Bedrock Edition 1.18.0.23 Beta",
       "type": "beta",
       "version": "1.18.0.23",
@@ -1342,7 +1383,7 @@
       ]
     },
     {
-      "id": "9e3a0b7f4fcbf684495e",
+      "id": "5856c343e305144575f2",
       "title": "Minecraft: Bedrock Edition 1.18.0.22 Beta",
       "type": "beta",
       "version": "1.18.0.22",
@@ -1359,7 +1400,7 @@
       ]
     },
     {
-      "id": "1977a8846687066677d2",
+      "id": "2089c5129e625adc2c38",
       "title": "Minecraft: Bedrock Edition 1.17.40",
       "type": "release",
       "version": "1.17.40",
@@ -1374,7 +1415,7 @@
       ]
     },
     {
-      "id": "3fdb94d606e6445cc247",
+      "id": "fda0ce79c789508be45d",
       "title": "Minecraft: Bedrock Edition 1.18.0.21 Beta",
       "type": "beta",
       "version": "1.18.0.21",
@@ -1391,7 +1432,7 @@
       ]
     },
     {
-      "id": "bcb26976c506befd37aa",
+      "id": "c47b0cc49c58621c651d",
       "title": "Minecraft: Bedrock Edition 1.18.0.20 Beta",
       "type": "beta",
       "version": "1.18.0.20",
@@ -1408,7 +1449,7 @@
       ]
     },
     {
-      "id": "18f12fa039153b4292e3",
+      "id": "d15929e97287f6444eeb",
       "title": "Minecraft: Bedrock Edition 1.17.34",
       "type": "release",
       "version": "1.17.34",
@@ -1419,7 +1460,7 @@
       ]
     },
     {
-      "id": "d0d12142160d1e2f0fed",
+      "id": "5ec86d1d26d9c9840c5f",
       "title": "Minecraft: Bedrock Edition 1.17.33",
       "type": "release",
       "version": "1.17.33",
@@ -1430,7 +1471,7 @@
       ]
     },
     {
-      "id": "1ffceac2efcdd7823c36",
+      "id": "931bb5038d6bf84afa36",
       "title": "Minecraft: Bedrock Edition 1.17.32",
       "type": "release",
       "version": "1.17.32",
@@ -1441,7 +1482,7 @@
       ]
     },
     {
-      "id": "64f8fbbad787be215d8d",
+      "id": "d85f3516f22cc0df943e",
       "title": "Minecraft: Bedrock Edition 1.17.40.23 Beta",
       "type": "beta",
       "version": "1.17.40.23",
@@ -1458,7 +1499,7 @@
       ]
     },
     {
-      "id": "69e13cd9e67adcbb1e59",
+      "id": "066d12ede00e31c97593",
       "title": "Minecraft: Bedrock Edition 1.17.40.21 Beta",
       "type": "beta",
       "version": "1.17.40.21",
@@ -1475,7 +1516,7 @@
       ]
     },
     {
-      "id": "6ec8057da19f0ef7652d",
+      "id": "397e8c76b6462b3aaf2e",
       "title": "Minecraft: Bedrock Edition 1.17.30",
       "type": "release",
       "version": "1.17.30",
@@ -1490,7 +1531,7 @@
       ]
     },
     {
-      "id": "1dbda54cf35aa35baacd",
+      "id": "28f8ef7276872e8ca854",
       "title": "Minecraft: Bedrock Edition 1.17.40.20 Beta",
       "type": "beta",
       "version": "1.17.40.20",
@@ -1507,7 +1548,7 @@
       ]
     },
     {
-      "id": "810af3e36d8755692fad",
+      "id": "6fa039cac23a162497b4",
       "title": "Minecraft: Bedrock Edition 1.17.30.25 Beta",
       "type": "beta",
       "version": "1.17.30.25",
@@ -1524,7 +1565,7 @@
       ]
     },
     {
-      "id": "31471e8e9824644a5929",
+      "id": "8261886e38f5a1f9e167",
       "title": "Minecraft: Bedrock Edition 1.17.30.24 Beta",
       "type": "beta",
       "version": "1.17.30.24",
@@ -1541,7 +1582,7 @@
       ]
     },
     {
-      "id": "88f8c0368ad3db1c52db",
+      "id": "704e8587d714027fd5f5",
       "title": "Minecraft: Bedrock Edition 1.17.30.23 Beta",
       "type": "beta",
       "version": "1.17.30.23",
@@ -1558,7 +1599,7 @@
       ]
     },
     {
-      "id": "20839f4f72578ff4b7ae",
+      "id": "80fdd9d9761d000246d8",
       "title": "Minecraft: Bedrock Edition 1.17.30.22 Beta",
       "type": "beta",
       "version": "1.17.30.22",
@@ -1575,7 +1616,7 @@
       ]
     },
     {
-      "id": "08b4eccd44c2b33d2a8c",
+      "id": "ec66bfbd6268a387c2ac",
       "title": "Minecraft: Bedrock Edition 1.17.30.21 Beta",
       "type": "beta",
       "version": "1.17.30.21",
@@ -1592,7 +1633,7 @@
       ]
     },
     {
-      "id": "cc35bb7140581dbf61cb",
+      "id": "9b1762c4143ce0777a9f",
       "title": "Minecraft: Bedrock Edition 1.17.11",
       "type": "release",
       "version": "1.17.11",
@@ -1607,7 +1648,7 @@
       ]
     },
     {
-      "id": "9c34808dc6b3b5064803",
+      "id": "aa2063e51b13aac21f6a",
       "title": "Minecraft: Bedrock Edition 1.17.30.20 Beta",
       "type": "beta",
       "version": "1.17.30.20",
@@ -1624,7 +1665,7 @@
       ]
     },
     {
-      "id": "4719f5560a1b22b5a0e3",
+      "id": "064022a8a0070d2ebe0e",
       "title": "Minecraft: Bedrock Edition 1.17.20.23 Beta",
       "type": "beta",
       "version": "1.17.20.23",
@@ -1641,7 +1682,7 @@
       ]
     },
     {
-      "id": "e662fe6b1a514f874646",
+      "id": "2bad38c28a34e34a2362",
       "title": "Minecraft: Bedrock Edition 1.17.20.22 Beta",
       "type": "beta",
       "version": "1.17.20.22",
@@ -1658,7 +1699,7 @@
       ]
     },
     {
-      "id": "6bc2bf42b4654af06b6a",
+      "id": "463710448ef43bebfbd0",
       "title": "Minecraft: Bedrock Edition 1.17.10",
       "type": "release",
       "version": "1.17.10",
@@ -1673,7 +1714,7 @@
       ]
     },
     {
-      "id": "d497370fc84de1b75b36",
+      "id": "917ec4e3c4ea73110844",
       "title": "Minecraft: Bedrock Edition 1.17.20.21 Beta",
       "type": "beta",
       "version": "1.17.20.21",
@@ -1690,7 +1731,7 @@
       ]
     },
     {
-      "id": "51f1886ba10210d91ad1",
+      "id": "5e2e3085caf5ac6ed3f6",
       "title": "Minecraft: Bedrock Edition 1.17.20.20 Beta",
       "type": "beta",
       "version": "1.17.20.20",
@@ -1707,7 +1748,7 @@
       ]
     },
     {
-      "id": "b09d3fa0cdbab66358e6",
+      "id": "04e848e03bdd25e91af2",
       "title": "Minecraft: Bedrock Edition 1.17.10.23 Beta",
       "type": "beta",
       "version": "1.17.10.23",
@@ -1724,7 +1765,7 @@
       ]
     },
     {
-      "id": "6165169ac851c295c503",
+      "id": "04afa5b9e7ac0d0486da",
       "title": "Minecraft: Bedrock Edition 1.17.10.22 Beta",
       "type": "beta",
       "version": "1.17.10.22",
@@ -1741,7 +1782,7 @@
       ]
     },
     {
-      "id": "282410bb303f3693df06",
+      "id": "3309391f8929550e65d4",
       "title": "Minecraft: Bedrock Edition 1.17.10.21 Beta",
       "type": "beta",
       "version": "1.17.10.21",
@@ -1757,7 +1798,7 @@
       ]
     },
     {
-      "id": "9215aa22500e4474f313",
+      "id": "df7a515d064e723b44d7",
       "title": "Minecraft: Bedrock Edition 1.17.10.20 Beta",
       "type": "beta",
       "version": "1.17.10.20",
@@ -1774,7 +1815,7 @@
       ]
     },
     {
-      "id": "39d43c88d556b5090e89",
+      "id": "d92f1b846e0d550d1092",
       "title": "Minecraft: Bedrock Edition 1.17.0.58 Beta",
       "type": "beta",
       "version": "1.17.0.58",
@@ -1791,7 +1832,7 @@
       ]
     },
     {
-      "id": "5fa3324a40f1eb3a2030",
+      "id": "e2650080913b7a98b936",
       "title": "Minecraft: Bedrock Edition 1.17.0.56 Beta",
       "type": "beta",
       "version": "1.17.0.56",
@@ -1808,7 +1849,7 @@
       ]
     },
     {
-      "id": "386b1a7d4ad6a634ac50",
+      "id": "a607ae4d0604b067dda7",
       "title": "Minecraft: Bedrock Edition 1.17.0.54 Beta",
       "type": "beta",
       "version": "1.17.0.54",
@@ -1825,7 +1866,7 @@
       ]
     },
     {
-      "id": "2fcad20cb76eec9456e2",
+      "id": "be8454dadbde69a7499d",
       "title": "Minecraft: Bedrock Edition 1.17.0.52 Beta",
       "type": "beta",
       "version": "1.17.0.52",
@@ -1838,7 +1879,7 @@
       ]
     },
     {
-      "id": "eaf31865b9c6a9742cb8",
+      "id": "413bb70447ece7d92fa1",
       "title": "Minecraft: Bedrock Edition 1.16.221",
       "type": "release",
       "version": "1.16.221",
@@ -1853,7 +1894,7 @@
       ]
     },
     {
-      "id": "2ec33fc3bf997ff36ac2",
+      "id": "b38b9ff510424abad9b3",
       "title": "Minecraft: Bedrock Edition 1.17.0.50 Beta",
       "type": "beta",
       "version": "1.17.0.50",
@@ -1870,7 +1911,7 @@
       ]
     },
     {
-      "id": "9435bde90c036fbe14bc",
+      "id": "cbe92db518f11097e56f",
       "title": "Minecraft: Bedrock Edition 1.16.230.56 Beta",
       "type": "beta",
       "version": "1.16.230.56",
@@ -1883,7 +1924,7 @@
       ]
     },
     {
-      "id": "bd0a6cbc0a459a77cc5d",
+      "id": "080b5dddacfe481b2680",
       "title": "Minecraft: Bedrock Edition 1.16.230.54 Beta",
       "type": "beta",
       "version": "1.16.230.54",
@@ -1896,7 +1937,7 @@
       ]
     },
     {
-      "id": "1b157571178d81a7989a",
+      "id": "fb853b43978ce8ac1ca5",
       "title": "Minecraft: Bedrock Edition 1.16.230.52 Beta",
       "type": "beta",
       "version": "1.16.230.52",
@@ -1913,7 +1954,7 @@
       ]
     },
     {
-      "id": "aba9b6d88cb726e51a34",
+      "id": "f299696bdabd2b968855",
       "title": "Minecraft: Bedrock Edition 1.16.230.50 Beta",
       "type": "beta",
       "version": "1.16.230.50",
@@ -1926,7 +1967,7 @@
       ]
     },
     {
-      "id": "b08f37f64550ffaa62a9",
+      "id": "ee4c1690e3268d386fd9",
       "title": "Minecraft: Bedrock Edition 1.16.220.52 Beta",
       "type": "beta",
       "version": "1.16.220.52",
@@ -1939,7 +1980,7 @@
       ]
     },
     {
-      "id": "afff78dd3d83cacf2015",
+      "id": "2b958ff86ae6734e269c",
       "title": "Minecraft: Bedrock Edition 1.16.220.51 Beta",
       "type": "beta",
       "version": "1.16.220.51",
@@ -1956,7 +1997,7 @@
       ]
     },
     {
-      "id": "74d4675fbba6f886ed14",
+      "id": "8d056bdc99e07729d9a8",
       "title": "Minecraft: Bedrock Edition 1.16.220.50 Beta",
       "type": "beta",
       "version": "1.16.220.50",
@@ -1973,7 +2014,7 @@
       ]
     },
     {
-      "id": "f69bfaf2dffcb155e720",
+      "id": "8736afd7503db375056a",
       "title": "Minecraft: Bedrock Edition 1.16.210.61 Beta",
       "type": "beta",
       "version": "1.16.210.61",
@@ -1986,7 +2027,7 @@
       ]
     },
     {
-      "id": "c7c9cb8a13fb8a1e6447",
+      "id": "aace24e9719d1081e743",
       "title": "Minecraft: Bedrock Edition 1.16.210.59 Beta",
       "type": "beta",
       "version": "1.16.210.59",
@@ -1999,7 +2040,7 @@
       ]
     },
     {
-      "id": "8a55a59b3eb20a23ce67",
+      "id": "63fb08c8ef3c8527cbdd",
       "title": "Minecraft: Bedrock Edition 1.16.210.58 Beta",
       "type": "beta",
       "version": "1.16.210.58",
@@ -2016,7 +2057,7 @@
       ]
     },
     {
-      "id": "5eb9dedadf4a81015f7e",
+      "id": "9f9cb12297b8f8c26d69",
       "title": "Minecraft: Bedrock Edition 1.16.210.57 Beta",
       "type": "beta",
       "version": "1.16.210.57",
@@ -2029,7 +2070,7 @@
       ]
     },
     {
-      "id": "6b9eefed41764342be17",
+      "id": "325a5f5b9166663afa86",
       "title": "Minecraft: Bedrock Edition 1.16.210.56 Beta",
       "type": "beta",
       "version": "1.16.210.56",
@@ -2042,7 +2083,7 @@
       ]
     },
     {
-      "id": "ca875000a2f0a2c7404b",
+      "id": "6fe07a29b7684ec9a07c",
       "title": "Minecraft: Bedrock Edition 1.16.210.55 Beta",
       "type": "beta",
       "version": "1.16.210.55",
@@ -2055,7 +2096,7 @@
       ]
     },
     {
-      "id": "f0406d26b943687236ee",
+      "id": "6343009edb2a51e6088c",
       "title": "Minecraft: Bedrock Edition 1.16.210.54 Beta",
       "type": "beta",
       "version": "1.16.210.54",
@@ -2068,7 +2109,7 @@
       ]
     },
     {
-      "id": "72e6dd775958078c2b34",
+      "id": "10f3ae704ea0b8ed3d25",
       "title": "Minecraft: Bedrock Edition 1.16.210.53 Beta",
       "type": "beta",
       "version": "1.16.210.53",
@@ -2081,7 +2122,7 @@
       ]
     },
     {
-      "id": "88bd244f27a754742ba6",
+      "id": "5deb855110844f9780fc",
       "title": "Minecraft: Bedrock Edition 1.16.201",
       "type": "release",
       "version": "1.16.201",
@@ -2092,7 +2133,7 @@
       ]
     },
     {
-      "id": "f3ec6f1ad99812069aeb",
+      "id": "71628c6ac096bc52428d",
       "title": "Minecraft: Bedrock Edition 1.16.210.51 Beta",
       "type": "beta",
       "version": "1.16.210.51",
@@ -2109,7 +2150,7 @@
       ]
     },
     {
-      "id": "51bdbf6c461bc15f9961",
+      "id": "0cfc17db6aacf707bfac",
       "title": "Minecraft: Bedrock Edition 1.16.200",
       "type": "release",
       "version": "1.16.200",
@@ -2124,7 +2165,7 @@
       ]
     },
     {
-      "id": "b188b7014c66f09a3867",
+      "id": "373423a7ab39d1b3ca73",
       "title": "Minecraft: Bedrock Edition 1.16.210.50 Beta",
       "type": "beta",
       "version": "1.16.210.50",
@@ -2137,7 +2178,7 @@
       ]
     },
     {
-      "id": "9be189c00b75715da21c",
+      "id": "8576e45de00b5a12e8e9",
       "title": "Minecraft: Bedrock Edition 1.16.200.57 Beta",
       "type": "beta",
       "version": "1.16.200.57",
@@ -2150,7 +2191,7 @@
       ]
     },
     {
-      "id": "902d81446f26d24df557",
+      "id": "990dd87b8629eaa280b4",
       "title": "Minecraft: Bedrock Edition 1.16.200.56 Beta",
       "type": "beta",
       "version": "1.16.200.56",
@@ -2163,7 +2204,7 @@
       ]
     },
     {
-      "id": "23e01a6061260beb4777",
+      "id": "3797b119aa67d6991a86",
       "title": "Minecraft: Bedrock Edition 1.16.200.55 Beta",
       "type": "beta",
       "version": "1.16.200.55",
@@ -2176,7 +2217,7 @@
       ]
     },
     {
-      "id": "390da1bb6ca0169046fb",
+      "id": "25f2b4df1d217f1deae1",
       "title": "Minecraft: Bedrock Edition 1.16.100.58 Beta",
       "type": "beta",
       "version": "1.16.100.58",
@@ -2189,7 +2230,7 @@
       ]
     },
     {
-      "id": "a8792b7c108c10118d2f",
+      "id": "8a0638420108d8fbd882",
       "title": "Minecraft: Bedrock Edition 1.16.61",
       "type": "release",
       "version": "1.16.61",
@@ -2200,7 +2241,7 @@
       ]
     },
     {
-      "id": "f2c752dcbd7864449923",
+      "id": "1a6d166d710e4d8c1e04",
       "title": "Minecraft: Bedrock Edition 1.16.100.57 Beta",
       "type": "beta",
       "version": "1.16.100.57",
@@ -2213,7 +2254,7 @@
       ]
     },
     {
-      "id": "b698ccd47c15d4081b10",
+      "id": "71b34d49c613ba1531fc",
       "title": "Minecraft: Bedrock Edition 1.16.60",
       "type": "release",
       "version": "1.16.60",
@@ -2224,7 +2265,7 @@
       ]
     },
     {
-      "id": "9f2835796b6b6799ea96",
+      "id": "9f53881cb88d91cde99e",
       "title": "Minecraft: Bedrock Edition 1.16.50",
       "type": "release",
       "version": "1.16.50",
@@ -2235,7 +2276,7 @@
       ]
     },
     {
-      "id": "9078d989f30e8072fc8f",
+      "id": "4c06a3ee68db211b134f",
       "title": "Minecraft: Bedrock Edition 1.16.42",
       "type": "release",
       "version": "1.16.42",
@@ -2246,7 +2287,7 @@
       ]
     },
     {
-      "id": "9bffec1471a0054ea0e7",
+      "id": "93e8a898d3d15abfcb10",
       "title": "Minecraft: Bedrock Edition 1.16.100.56 Beta",
       "type": "beta",
       "version": "1.16.100.56",
@@ -2259,7 +2300,7 @@
       ]
     },
     {
-      "id": "7af29db71543802b4da6",
+      "id": "5b277f79815c2dd34922",
       "title": "Minecraft: Bedrock Edition 1.16.30.53 Beta",
       "type": "beta",
       "version": "1.16.30.53",
@@ -2270,7 +2311,7 @@
       ]
     },
     {
-      "id": "c49e638147be8580ba45",
+      "id": "f6464ec0d6b15cb4a832",
       "title": "Minecraft: Bedrock Edition 1.16.100.55 Beta",
       "type": "beta",
       "version": "1.16.100.55",
@@ -2283,7 +2324,7 @@
       ]
     },
     {
-      "id": "bf4b3b2587488eb70bc0",
+      "id": "5367c0a061f24541e2f0",
       "title": "Minecraft: Bedrock Edition 1.16.40",
       "type": "release",
       "version": "1.16.40",
@@ -2294,7 +2335,7 @@
       ]
     },
     {
-      "id": "8af072ce44cd9f7ebba5",
+      "id": "b4c46f8d537610df2feb",
       "title": "Minecraft: Bedrock Edition 1.16.100.54 Beta",
       "type": "beta",
       "version": "1.16.100.54",
@@ -2307,7 +2348,7 @@
       ]
     },
     {
-      "id": "53feafb0dc9f8ff27544",
+      "id": "432861155d4db9588eb3",
       "title": "Minecraft: Bedrock Edition 1.16.30.52 Beta",
       "type": "beta",
       "version": "1.16.30.52",
@@ -2318,7 +2359,7 @@
       ]
     },
     {
-      "id": "402a0795bf728692b447",
+      "id": "c386099c672f89388368",
       "title": "Minecraft: Bedrock Edition 1.16.21",
       "type": "release",
       "version": "1.16.21",
@@ -2329,7 +2370,7 @@
       ]
     },
     {
-      "id": "1adb0e260d6685b20d75",
+      "id": "f1bc271440e822f56be9",
       "title": "Minecraft: Bedrock Edition 1.16.0",
       "type": "release",
       "version": "1.16.0",
@@ -2340,7 +2381,7 @@
       ]
     },
     {
-      "id": "820a10af11c726a2d06c",
+      "id": "ecfdd02f10392fa7727c",
       "title": "Minecraft: Bedrock Edition 1.13.0",
       "type": "release",
       "version": "1.13.0",
@@ -2351,7 +2392,7 @@
       ]
     },
     {
-      "id": "740f4eb57238193c1d3e",
+      "id": "e5571b7f71da2eab958b",
       "title": "Minecraft: Bedrock Edition 1.12.1",
       "type": "release",
       "version": "1.12.1",
@@ -2362,7 +2403,7 @@
       ]
     },
     {
-      "id": "55275205ffae4546e8eb",
+      "id": "46df35a3d369fbb662ac",
       "title": "Minecraft: Bedrock Edition 1.7.0",
       "type": "release",
       "version": "1.7.0",
@@ -2373,7 +2414,7 @@
       ]
     },
     {
-      "id": "0d0bda38c400dd607d9e",
+      "id": "7c89069f9934e8fe68b3",
       "title": "Minecraft: Bedrock Edition 1.4.0",
       "type": "release",
       "version": "1.4.0",
@@ -2384,7 +2425,7 @@
       ]
     },
     {
-      "id": "53ab81dbc73ba44a15bd",
+      "id": "a5d23c80e06f115b122b",
       "title": "Minecraft: Bedrock Edition 1.2.13.60",
       "type": "release",
       "version": "1.2.13.60",
@@ -2395,7 +2436,7 @@
       ]
     },
     {
-      "id": "39a9cf64265137702e6d",
+      "id": "c612ef747d6e2c33a3bd",
       "title": "Minecraft: Bedrock Edition 1.2.10",
       "type": "release",
       "version": "1.2.10",
@@ -2406,7 +2447,7 @@
       ]
     },
     {
-      "id": "4b97950e471657c461fa",
+      "id": "7101322e71c0fd3da9a5",
       "title": "Minecraft: Bedrock Edition 1.2.10 Beta",
       "type": "beta",
       "version": "1.2.10",
@@ -2419,7 +2460,7 @@
       ]
     },
     {
-      "id": "6c283c3efabab539decd",
+      "id": "209d7e275ac96023e6d7",
       "title": "Minecraft: Bedrock Edition 1.2.9",
       "type": "release",
       "version": "1.2.9",
@@ -2430,7 +2471,7 @@
       ]
     },
     {
-      "id": "a66331780af8c075029a",
+      "id": "162fe173207c749056dc",
       "title": "Minecraft: Bedrock Edition 1.2.7",
       "type": "release",
       "version": "1.2.7",
@@ -2441,7 +2482,7 @@
       ]
     },
     {
-      "id": "5d7d0338ac2c3884f8e6",
+      "id": "fde5947f2428cb65969e",
       "title": "Minecraft: Bedrock Edition 1.2.5",
       "type": "release",
       "version": "1.2.5",
@@ -2452,7 +2493,7 @@
       ]
     },
     {
-      "id": "d2664e74f0fd413ab640",
+      "id": "5cd90af312c2fa4a32d1",
       "title": "Minecraft: Bedrock Edition 1.2.5 Beta",
       "type": "beta",
       "version": "1.2.5",
@@ -2463,7 +2504,7 @@
       ]
     },
     {
-      "id": "2006128a83317c1adba5",
+      "id": "b38d2b4ac9e57eb16dd5",
       "title": "Minecraft: Bedrock Edition 1.2.5 Beta",
       "type": "beta",
       "version": "1.2.5",
@@ -2475,7 +2516,7 @@
       ]
     },
     {
-      "id": "8102474bc68e924efb06",
+      "id": "5c03c17fed5f450d20bf",
       "title": "Minecraft: Bedrock Edition 1.2.5 Beta",
       "type": "beta",
       "version": "1.2.5",
@@ -2487,7 +2528,7 @@
       ]
     },
     {
-      "id": "d80b10aed79635d7b315",
+      "id": "3d265b0d9b064ad63488",
       "title": "Minecraft: Bedrock Edition 1.2.3",
       "type": "release",
       "version": "1.2.3",
@@ -2498,7 +2539,7 @@
       ]
     },
     {
-      "id": "b450b6b0c8b7a1294953",
+      "id": "4e6174391efc984cbdf6",
       "title": "Minecraft: Bedrock Edition 1.2.3 Beta",
       "type": "beta",
       "version": "1.2.3",
@@ -2510,7 +2551,7 @@
       ]
     },
     {
-      "id": "e381a93ca1b2a73e8e81",
+      "id": "34e6e87c9c6a9f99a8f9",
       "title": "Minecraft: Bedrock Edition 1.2.1",
       "type": "release",
       "version": "1.2.1",
@@ -2521,7 +2562,7 @@
       ]
     },
     {
-      "id": "2f1fd8e3bcc6ef5d6c96",
+      "id": "f8b882b9543a949d9aec",
       "title": "Minecraft: Bedrock Edition 1.2",
       "type": "release",
       "version": "1.2",
@@ -2532,7 +2573,7 @@
       ]
     },
     {
-      "id": "72f187f321dfa93d86d0",
+      "id": "106c1956b647f0a5f044",
       "title": "Minecraft: Bedrock Edition 1.2 Beta",
       "type": "beta",
       "version": "1.2",
@@ -2543,7 +2584,7 @@
       ]
     },
     {
-      "id": "dd705386dfe6d37ed897",
+      "id": "dea1b3bb383c0e01b5ec",
       "title": "Minecraft: Bedrock Edition 1.2 Beta",
       "type": "beta",
       "version": "1.2",
@@ -2554,7 +2595,7 @@
       ]
     },
     {
-      "id": "0f3916a03761b53e0a9d",
+      "id": "6883ea80c0201d513e37",
       "title": "Minecraft: Bedrock Edition 1.2 Beta",
       "type": "beta",
       "version": "1.2",
@@ -2565,7 +2606,7 @@
       ]
     },
     {
-      "id": "fad880ea576189bd57c2",
+      "id": "ff3de5cd3c5e61f89604",
       "title": "Minecraft: Bedrock Edition 1.2 Beta",
       "type": "beta",
       "version": "1.2",
@@ -2576,7 +2617,7 @@
       ]
     },
     {
-      "id": "fa5ff8a75b9756d3f5ce",
+      "id": "5dfc28fa01b6e09ad1eb",
       "title": "Minecraft: Bedrock Edition 1.2 Beta",
       "type": "beta",
       "version": "1.2",
@@ -2587,7 +2628,7 @@
       ]
     },
     {
-      "id": "ca35eee5af0a1a0fbabd",
+      "id": "d8976be2534774dc0980",
       "title": "Minecraft: Bedrock Edition 1.2 Beta",
       "type": "beta",
       "version": "1.2",
@@ -2598,7 +2639,7 @@
       ]
     },
     {
-      "id": "8e48cc18d82912cd315d",
+      "id": "72b96b8ef3f6a9a8280e",
       "title": "Minecraft: Bedrock Edition 1.2 Beta",
       "type": "beta",
       "version": "1.2",
@@ -2609,7 +2650,7 @@
       ]
     },
     {
-      "id": "bfbed5555aecba66e17e",
+      "id": "bbc62d4d61d07b6ba5d2",
       "title": "Minecraft: Bedrock Edition 1.2 Beta",
       "type": "beta",
       "version": "1.2",
@@ -2621,7 +2662,7 @@
       ]
     },
     {
-      "id": "40223fbfc942c9487bff",
+      "id": "ad0feafab3d01bbb875d",
       "title": "Minecraft: Bedrock Edition 1.2 Beta",
       "type": "beta",
       "version": "1.2",
@@ -2633,7 +2674,7 @@
       ]
     },
     {
-      "id": "0986a791796b8419c02b",
+      "id": "8fb752b566c2795c1ab1",
       "title": "Minecraft: Bedrock Edition 1.0.3",
       "type": "release",
       "version": "1.0.3",
@@ -2646,7 +2687,7 @@
       ]
     },
     {
-      "id": "e1836a16615b7cd4347b",
+      "id": "3b4113c258e5295c375b",
       "title": "Minecraft: Bedrock Edition 1.0.3 Beta",
       "type": "beta",
       "version": "1.0.3",
@@ -2658,7 +2699,7 @@
       ]
     },
     {
-      "id": "3dab0dacb57fcb40c657",
+      "id": "45ae1f4590ba2933b816",
       "title": "Minecraft: Bedrock Edition 1.0.1",
       "type": "release",
       "version": "1.0.1",
@@ -2670,7 +2711,7 @@
       ]
     },
     {
-      "id": "d6e775c42e1069350af5",
+      "id": "1e3a7e387b485555ab1c",
       "title": "Minecraft: Bedrock Edition 1.0",
       "type": "release",
       "version": "1.0",
@@ -2683,7 +2724,7 @@
       ]
     },
     {
-      "id": "631133a1f69505483fdd",
+      "id": "39db7373690e5ef23390",
       "title": "Minecraft: Bedrock Edition 1.0 Beta",
       "type": "beta",
       "version": "1.0",
@@ -2695,7 +2736,7 @@
       ]
     },
     {
-      "id": "fa271fb1955d30fc7781",
+      "id": "4d84ecd2ab72384c84cc",
       "title": "Minecraft: Bedrock Edition 1.0 Beta",
       "type": "beta",
       "version": "1.0",
@@ -2707,7 +2748,7 @@
       ]
     },
     {
-      "id": "65f7157ea85d41b98e2d",
+      "id": "e0f82ba29186bc87d9d7",
       "title": "Minecraft: Bedrock Edition 1.0 Beta",
       "type": "beta",
       "version": "1.0",
@@ -2719,7 +2760,7 @@
       ]
     },
     {
-      "id": "87a81f528c7e5b1774cf",
+      "id": "eacec1d44fd2f9ead095",
       "title": "Minecraft: Bedrock Edition 1.0 Beta",
       "type": "beta",
       "version": "1.0",
@@ -2731,7 +2772,7 @@
       ]
     },
     {
-      "id": "07d0dbc6b13eed0747a2",
+      "id": "f9652cc36fcdfce2ff83",
       "title": "Minecraft: Bedrock Edition 1.0 Beta",
       "type": "beta",
       "version": "1.0",
@@ -2743,7 +2784,7 @@
       ]
     },
     {
-      "id": "1fec76685704855445c9",
+      "id": "070c5fcd6cbabe2c72e5",
       "title": "Minecraft: Bedrock Edition 1.0 Beta",
       "type": "beta",
       "version": "1.0",
@@ -2755,7 +2796,7 @@
       ]
     },
     {
-      "id": "ee8e48f0be9d86aa21a0",
+      "id": "522b3f7c50740ad30a05",
       "title": "Minecraft: Bedrock Edition 0.16 Beta",
       "type": "beta",
       "version": "0.16",
@@ -2767,7 +2808,7 @@
       ]
     },
     {
-      "id": "72f18be1dbbe0f392224",
+      "id": "601ec82180af0f1ac5a6",
       "title": "Minecraft: Bedrock Edition 0.16 Beta",
       "type": "beta",
       "version": "0.16",
@@ -2779,7 +2820,7 @@
       ]
     },
     {
-      "id": "c28fccdbdd69118cad90",
+      "id": "23fcb2d64a1f6db1abf4",
       "title": "Minecraft: Bedrock Edition 0.16 Beta",
       "type": "beta",
       "version": "0.16",
@@ -2792,7 +2833,7 @@
       ]
     },
     {
-      "id": "7bd7e3068eda5c249f61",
+      "id": "f38af664f535413460bd",
       "title": "Minecraft: Bedrock Edition 0.15.3 Beta",
       "type": "beta",
       "version": "0.15.3",
@@ -2804,7 +2845,7 @@
       ]
     },
     {
-      "id": "c416b9015de7e1a56c6a",
+      "id": "08e4521690e305c0758e",
       "title": "Minecraft: Bedrock Edition 0.15.5 Beta",
       "type": "beta",
       "version": "0.15.5",
@@ -2815,7 +2856,7 @@
       ]
     },
     {
-      "id": "7a8d8a2aa2d28045c678",
+      "id": "5a2e880740335c867d66",
       "title": "Minecraft: Bedrock Edition 0.15.2 Beta",
       "type": "beta",
       "version": "0.15.2",
@@ -2828,7 +2869,7 @@
       ]
     },
     {
-      "id": "2e640d159c1a76727451",
+      "id": "88de0baf407e32eb9a1f",
       "title": "Minecraft: Bedrock Edition 0.15 Beta",
       "type": "beta",
       "version": "0.15",
@@ -2840,7 +2881,7 @@
       ]
     },
     {
-      "id": "b80584c93b39870e05d3",
+      "id": "422c523d3497cc7ed60b",
       "title": "Minecraft: Bedrock Edition 1.19.63",
       "type": "release",
       "version": "1.19.63",
@@ -2851,7 +2892,7 @@
       ]
     },
     {
-      "id": "8d52b94efc5b205cf775",
+      "id": "065353eb6d148ce9160a",
       "title": "Minecraft: Bedrock Edition 1.19.62",
       "type": "release",
       "version": "1.19.62",
@@ -2862,7 +2903,7 @@
       ]
     },
     {
-      "id": "0da27186d87ccb600715",
+      "id": "bf6dc0c7a87d5a647c71",
       "title": "Minecraft: Bedrock Edition 1.19.60",
       "type": "release",
       "version": "1.19.60",
@@ -2873,7 +2914,7 @@
       ]
     },
     {
-      "id": "e04568c2aadf144625e7",
+      "id": "baa6c201bfb8e8ce1432",
       "title": "Minecraft: Bedrock Edition 1.19.40",
       "type": "release",
       "version": "1.19.40",
@@ -2888,7 +2929,7 @@
       ]
     },
     {
-      "id": "0e58dcb90d06ba16dda1",
+      "id": "7efa0b0eefd975d7f723",
       "title": "Minecraft: Bedrock Edition 1.19.30",
       "type": "release",
       "version": "1.19.30",
@@ -2899,7 +2940,7 @@
       ]
     },
     {
-      "id": "6436a29e882fc027bddd",
+      "id": "2c1a8d693e0f9cfbf355",
       "title": "Minecraft: Bedrock Edition 1.18.33",
       "type": "release",
       "version": "1.18.33",
@@ -2910,7 +2951,7 @@
       ]
     },
     {
-      "id": "7bf816d8832094581c27",
+      "id": "625247f833654b1803ca",
       "title": "Minecraft: Bedrock Edition 1.18.12",
       "type": "release",
       "version": "1.18.12",
@@ -2921,7 +2962,7 @@
       ]
     },
     {
-      "id": "66a07e6ac137536b3c9e",
+      "id": "d1be9f7420e2d0bad6c4",
       "title": "Minecraft: Bedrock Edition 1.18.11",
       "type": "release",
       "version": "1.18.11",
@@ -2932,7 +2973,7 @@
       ]
     },
     {
-      "id": "564b3a7806e3efca6d5a",
+      "id": "ec1d5622e4e71525b343",
       "title": "Minecraft: Bedrock Edition 1.17.2",
       "type": "release",
       "version": "1.17.2",
@@ -2943,7 +2984,7 @@
       ]
     },
     {
-      "id": "258b7761a05e706feae4",
+      "id": "69a288560e6d0be80a33",
       "title": "Minecraft: Bedrock Edition 1.17.1",
       "type": "release",
       "version": "1.17.1",
@@ -2954,7 +2995,7 @@
       ]
     },
     {
-      "id": "148ac13104548d344ec7",
+      "id": "bca8e0f0a40b77163b8a",
       "title": "Minecraft: Bedrock Edition 1.17.0",
       "type": "release",
       "version": "1.17.0",
@@ -2969,7 +3010,7 @@
       ]
     },
     {
-      "id": "a9a458fbe219afd7913c",
+      "id": "22e2a4fdaab96252cc24",
       "title": "Minecraft: Bedrock Edition 1.16.220",
       "type": "release",
       "version": "1.16.220",
@@ -2980,7 +3021,7 @@
       ]
     },
     {
-      "id": "ed86f1757991e0de48df",
+      "id": "affa4858611cbb09a7c0",
       "title": "Minecraft: Bedrock Edition 1.16.210",
       "type": "release",
       "version": "1.16.210",
@@ -2991,7 +3032,7 @@
       ]
     },
     {
-      "id": "3a90dbeb9d0ce08a5107",
+      "id": "19b1f6f25618643b053a",
       "title": "Minecraft: Bedrock Edition 1.16.101",
       "type": "release",
       "version": "1.16.101",
@@ -3002,7 +3043,7 @@
       ]
     },
     {
-      "id": "5da219757df7a5983366",
+      "id": "4f1b9c1c9d39c8bf04fa",
       "title": "Minecraft: Bedrock Edition 1.16.100",
       "type": "release",
       "version": "1.16.100",
@@ -3013,7 +3054,7 @@
       ]
     },
     {
-      "id": "758dc11aff4df7047d0c",
+      "id": "ccf8b88bd384c399a5ea",
       "title": "Minecraft: Bedrock Edition 1.16.20",
       "type": "release",
       "version": "1.16.20",
@@ -3024,7 +3065,7 @@
       ]
     },
     {
-      "id": "68eab2bddcb9d47b545e",
+      "id": "71af01f81e07a337bc9d",
       "title": "Minecraft: Bedrock Edition 1.16.10",
       "type": "release",
       "version": "1.16.10",
@@ -3035,7 +3076,7 @@
       ]
     },
     {
-      "id": "a03aa9b54a0d612a3bf4",
+      "id": "518d05416f0d81896eb5",
       "title": "Minecraft: Bedrock Edition 1.16.1",
       "type": "release",
       "version": "1.16.1",
@@ -3046,7 +3087,7 @@
       ]
     },
     {
-      "id": "0306aa3f217eb7fa8bab",
+      "id": "eea94f1ee3fa635b7e1b",
       "title": "Minecraft: Bedrock Edition 1.14.60",
       "type": "release",
       "version": "1.14.60",
@@ -3057,7 +3098,7 @@
       ]
     },
     {
-      "id": "831068be1bce235e4355",
+      "id": "eb27767d3259547261f5",
       "title": "Minecraft: Bedrock Edition 1.14.41",
       "type": "release",
       "version": "1.14.41",
@@ -3068,7 +3109,7 @@
       ]
     },
     {
-      "id": "8d7de845f98c41063209",
+      "id": "f6e0a56dc40b739b256c",
       "title": "Minecraft: Bedrock Edition 1.14.30",
       "type": "release",
       "version": "1.14.30",
@@ -3079,7 +3120,7 @@
       ]
     },
     {
-      "id": "ae0c53f403f3b344f7db",
+      "id": "ab1219945729d2a0666b",
       "title": "Minecraft: Bedrock Edition 1.14.20",
       "type": "release",
       "version": "1.14.20",
@@ -3090,7 +3131,7 @@
       ]
     },
     {
-      "id": "d5a34a4070c26bf805f5",
+      "id": "50855cee9a9cf673dfb3",
       "title": "Minecraft: Bedrock Edition 1.14.1",
       "type": "release",
       "version": "1.14.1",
@@ -3101,7 +3142,7 @@
       ]
     },
     {
-      "id": "3fdbb70c050cc8ccaa85",
+      "id": "6e92f037ae3d162cf575",
       "title": "Minecraft: Bedrock Edition 1.14.0.12",
       "type": "release",
       "version": "1.14.0.12",
@@ -3112,7 +3153,7 @@
       ]
     },
     {
-      "id": "7b45a9c3e69259484703",
+      "id": "212a12969ba004259f6e",
       "title": "Minecraft: Bedrock Edition 1.14.0",
       "type": "release",
       "version": "1.14.0",
@@ -3123,7 +3164,7 @@
       ]
     },
     {
-      "id": "7dfc91efa02baf0f6663",
+      "id": "2e067a5c8573126a4cb6",
       "title": "Minecraft: Bedrock Edition 1.13.3",
       "type": "release",
       "version": "1.13.3",
@@ -3134,7 +3175,7 @@
       ]
     },
     {
-      "id": "c63d3fb2c2cfcaacfb72",
+      "id": "9789ad08dd2b000de14b",
       "title": "Minecraft: Bedrock Edition 1.13.2",
       "type": "release",
       "version": "1.13.2",
@@ -3145,7 +3186,7 @@
       ]
     },
     {
-      "id": "9919cbfde9c7f8f15d43",
+      "id": "20a570129fdebb5e444f",
       "title": "Minecraft: Bedrock Edition 1.13.1",
       "type": "release",
       "version": "1.13.1",
@@ -3156,7 +3197,7 @@
       ]
     },
     {
-      "id": "e6fe2aad18cba3cef3aa",
+      "id": "c50eff0b7b5d758be5ab",
       "title": "Minecraft: Bedrock Edition 1.12.0",
       "type": "release",
       "version": "1.12.0",
@@ -3167,7 +3208,7 @@
       ]
     },
     {
-      "id": "8c86c4b5d44d52497624",
+      "id": "a7cd3d1eccb32c7ef77d",
       "title": "Minecraft: Bedrock Edition 1.11.4",
       "type": "release",
       "version": "1.11.4",
@@ -3178,7 +3219,7 @@
       ]
     },
     {
-      "id": "846ff16696ef820eebb9",
+      "id": "d15c5fca17330594b243",
       "title": "Minecraft: Bedrock Edition 1.11.3",
       "type": "release",
       "version": "1.11.3",
@@ -3189,7 +3230,7 @@
       ]
     },
     {
-      "id": "ecd53e3af39da6e23900",
+      "id": "ca3687b3ae860b3ac212",
       "title": "Minecraft: Bedrock Edition 1.11.1",
       "type": "release",
       "version": "1.11.1",
@@ -3200,7 +3241,7 @@
       ]
     },
     {
-      "id": "944655de6eb0adbb10dc",
+      "id": "c7ee77ef802bd02628bb",
       "title": "Minecraft: Bedrock Edition 1.11.0",
       "type": "release",
       "version": "1.11.0",
@@ -3211,7 +3252,7 @@
       ]
     },
     {
-      "id": "76473c906a19db738214",
+      "id": "e9612980304515cfa64e",
       "title": "Minecraft: Bedrock Edition 1.10.1",
       "type": "release",
       "version": "1.10.1",
@@ -3222,7 +3263,7 @@
       ]
     },
     {
-      "id": "550d1ab4e8ad48e1240c",
+      "id": "9742b8c86b1239313da2",
       "title": "Minecraft: Bedrock Edition 1.10.0",
       "type": "release",
       "version": "1.10.0",
@@ -3233,7 +3274,7 @@
       ]
     },
     {
-      "id": "158d74139fd2408d5a35",
+      "id": "0d98d4284cde21d0f85b",
       "title": "Minecraft: Bedrock Edition 1.9.0",
       "type": "release",
       "version": "1.9.0",
@@ -3244,7 +3285,7 @@
       ]
     },
     {
-      "id": "b009ae9bddef04f08253",
+      "id": "64c6c354c09e915772c6",
       "title": "Minecraft: Bedrock Edition 1.8.1",
       "type": "release",
       "version": "1.8.1",
@@ -3255,7 +3296,7 @@
       ]
     },
     {
-      "id": "90664ef50ca22fb9901b",
+      "id": "013cf73e33441ac4aec0",
       "title": "Minecraft: Bedrock Edition 1.8.0",
       "type": "release",
       "version": "1.8.0",
@@ -3266,7 +3307,7 @@
       ]
     },
     {
-      "id": "011db57594f233458c18",
+      "id": "500b1bb166fef84243a5",
       "title": "Minecraft: Bedrock Edition 1.7.1",
       "type": "release",
       "version": "1.7.1",
@@ -3277,7 +3318,7 @@
       ]
     },
     {
-      "id": "09bf54d041d836a7ceb6",
+      "id": "6ca1e8e1f68cb005cc9c",
       "title": "Minecraft: Bedrock Edition 1.6.2",
       "type": "release",
       "version": "1.6.2",
@@ -3288,7 +3329,7 @@
       ]
     },
     {
-      "id": "1ea9bc7e9f713a2b3a9a",
+      "id": "f30958f0c70685d14fd8",
       "title": "Minecraft: Bedrock Edition 1.6.1",
       "type": "release",
       "version": "1.6.1",
@@ -3299,7 +3340,7 @@
       ]
     },
     {
-      "id": "cf5252cab6adf1bf03cb",
+      "id": "5b8f34da60c74df4f56d",
       "title": "Minecraft: Bedrock Edition 1.6.0",
       "type": "release",
       "version": "1.6.0",
@@ -3310,7 +3351,7 @@
       ]
     },
     {
-      "id": "cf4b72c11a1aefe0d469",
+      "id": "9957147b9d89c4eb440d",
       "title": "Minecraft: Bedrock Edition 1.5.3",
       "type": "release",
       "version": "1.5.3",
@@ -3321,7 +3362,7 @@
       ]
     },
     {
-      "id": "1b2e9cc9ba8cfd83a998",
+      "id": "59755fe72bf7d1aee924",
       "title": "Minecraft: Bedrock Edition 1.5.2",
       "type": "release",
       "version": "1.5.2",
@@ -3332,7 +3373,7 @@
       ]
     },
     {
-      "id": "27d14ab79dac9ef54945",
+      "id": "fa9fa8dc95e5176acad4",
       "title": "Minecraft: Bedrock Edition 1.5.1",
       "type": "release",
       "version": "1.5.1",
@@ -3343,7 +3384,7 @@
       ]
     },
     {
-      "id": "4b693961cf3536098912",
+      "id": "fb28d33d1838501e3e3a",
       "title": "Minecraft: Bedrock Edition 1.5.0",
       "type": "release",
       "version": "1.5.0",
@@ -3354,7 +3395,7 @@
       ]
     },
     {
-      "id": "7a9ecd2a23e958e9aaa6",
+      "id": "a906d4e622e0ad125d17",
       "title": "Minecraft: Bedrock Edition 1.4.1",
       "type": "release",
       "version": "1.4.1",
@@ -3365,7 +3406,7 @@
       ]
     },
     {
-      "id": "3b2cc5327bf5a874649f",
+      "id": "4c8206c0cee5634242da",
       "title": "Minecraft: Bedrock Edition 1.4.4",
       "type": "release",
       "version": "1.4.4",
@@ -3376,7 +3417,7 @@
       ]
     },
     {
-      "id": "11d3ecb6fc9a6fc96716",
+      "id": "504bec674c731056bf71",
       "title": "Minecraft: Bedrock Edition 1.4.3",
       "type": "release",
       "version": "1.4.3",
@@ -3387,7 +3428,7 @@
       ]
     },
     {
-      "id": "25ba0eb0981df36b642f",
+      "id": "e59ded723ae14ce2f041",
       "title": "Minecraft: Bedrock Edition 1.4.2",
       "type": "release",
       "version": "1.4.2",
@@ -3398,7 +3439,7 @@
       ]
     },
     {
-      "id": "959d6c4a63b5dd23583a",
+      "id": "eaa4325c1837b1ea216e",
       "title": "Minecraft: Bedrock Edition 1.4.1",
       "type": "release",
       "version": "1.4.1",
@@ -3409,7 +3450,7 @@
       ]
     },
     {
-      "id": "e5ec6c86075e81148966",
+      "id": "923e12c5412d35ceb054",
       "title": "Minecraft: Bedrock Edition 1.2.15",
       "type": "release",
       "version": "1.2.15",
@@ -3420,7 +3461,7 @@
       ]
     },
     {
-      "id": "c87c691cb1172729d434",
+      "id": "79cd1824d1d29d25c6c9",
       "title": "Minecraft: Bedrock Edition 1.2.14",
       "type": "release",
       "version": "1.2.14",
@@ -3431,7 +3472,7 @@
       ]
     },
     {
-      "id": "e798935e018a90c319fe",
+      "id": "de580d222cafa580c4e9",
       "title": "Minecraft: Bedrock Edition 1.2.13",
       "type": "release",
       "version": "1.2.13",
@@ -3442,7 +3483,7 @@
       ]
     },
     {
-      "id": "b002c50bd21234a08fdf",
+      "id": "9f4e003e70c45b869997",
       "title": "Minecraft: Bedrock Edition 1.2.11",
       "type": "release",
       "version": "1.2.11",
@@ -3453,7 +3494,7 @@
       ]
     },
     {
-      "id": "8521b519dfee8ab114c0",
+      "id": "4ea0990cb4fde97c1d14",
       "title": "Minecraft: Bedrock Edition 1.2.8",
       "type": "release",
       "version": "1.2.8",
@@ -3464,7 +3505,7 @@
       ]
     },
     {
-      "id": "b1681914ed19df39a4a9",
+      "id": "ee5f183718d9d401513a",
       "title": "Minecraft: Bedrock Edition 1.2.6",
       "type": "release",
       "version": "1.2.6",
@@ -3475,7 +3516,7 @@
       ]
     },
     {
-      "id": "74f4eec0c3b206dce7a2",
+      "id": "da026795746475223158",
       "title": "Minecraft: Bedrock Edition 1.2.2",
       "type": "release",
       "version": "1.2.2",
@@ -3486,7 +3527,7 @@
       ]
     },
     {
-      "id": "5bb4137086f83615a821",
+      "id": "9f35b6661e98af99ced9",
       "title": "Minecraft: Bedrock Edition 1.1.5",
       "type": "release",
       "version": "1.1.5",
@@ -3498,7 +3539,7 @@
       ]
     },
     {
-      "id": "58c9c2da67c579f912a4",
+      "id": "95ef18a3df9f49d0c53f",
       "title": "Minecraft: Bedrock Edition 1.1.4",
       "type": "release",
       "version": "1.1.4",
@@ -3510,7 +3551,7 @@
       ]
     },
     {
-      "id": "44ec03ef7e0cc38eec1a",
+      "id": "30f19e2f2ac98735e1e1",
       "title": "Minecraft: Bedrock Edition 1.1.3",
       "type": "release",
       "version": "1.1.3",
@@ -3522,7 +3563,7 @@
       ]
     },
     {
-      "id": "84748d9b1fe236312285",
+      "id": "abd9fb0493ae5a1af096",
       "title": "Minecraft: Bedrock Edition 1.1.2",
       "type": "release",
       "version": "1.1.2",
@@ -3534,7 +3575,7 @@
       ]
     },
     {
-      "id": "53023a15eb04df5d181a",
+      "id": "d54c645543989ae6c343",
       "title": "Minecraft: Bedrock Edition 1.1.1",
       "type": "release",
       "version": "1.1.1",
@@ -3546,7 +3587,7 @@
       ]
     },
     {
-      "id": "86573354581a2db2acaf",
+      "id": "27195df7cefa71d12272",
       "title": "Minecraft: Bedrock Edition 1.1",
       "type": "release",
       "version": "1.1",
@@ -3558,7 +3599,7 @@
       ]
     },
     {
-      "id": "a161ec06ae95d93c9b6e",
+      "id": "a357707353c0991465da",
       "title": "Minecraft: Bedrock Edition 1.0.9",
       "type": "release",
       "version": "1.0.9",
@@ -3570,7 +3611,7 @@
       ]
     },
     {
-      "id": "b5c048cd21d61fb7fbc8",
+      "id": "030e8c215b0be5f36018",
       "title": "Minecraft: Bedrock Edition 1.0.8",
       "type": "release",
       "version": "1.0.8",
@@ -3583,7 +3624,7 @@
       ]
     },
     {
-      "id": "d35a9053561629901648",
+      "id": "f04fb4bfc7a86243989c",
       "title": "Minecraft: Bedrock Edition 1.0.7",
       "type": "release",
       "version": "1.0.7",
@@ -3596,7 +3637,7 @@
       ]
     },
     {
-      "id": "ca1303416c3d6324b3d3",
+      "id": "2dacb05e7d155e2d0002",
       "title": "Minecraft: Bedrock Edition 1.0.6",
       "type": "release",
       "version": "1.0.6",
@@ -3609,7 +3650,7 @@
       ]
     },
     {
-      "id": "9c4b6877bef052176ec0",
+      "id": "465fbfa9cb4cfd930c91",
       "title": "Minecraft: Bedrock Edition 1.0.5",
       "type": "release",
       "version": "1.0.5",
@@ -3622,7 +3663,7 @@
       ]
     },
     {
-      "id": "32aff0a74c1953bd47f1",
+      "id": "d6b37a36621eb0cebd30",
       "title": "Minecraft: Bedrock Edition 1.0.4",
       "type": "release",
       "version": "1.0.4",
@@ -3635,7 +3676,7 @@
       ]
     },
     {
-      "id": "d1213ffa4e104748c71b",
+      "id": "fb86dbe546a878602b07",
       "title": "Minecraft: Bedrock Edition 1.0.2",
       "type": "release",
       "version": "1.0.2",
@@ -3648,7 +3689,7 @@
       ]
     },
     {
-      "id": "482951359b1084e5c5c7",
+      "id": "3084787b266be1a2c91d",
       "title": "Minecraft 1.19.60.24 Preview & Beta",
       "type": "preview",
       "version": "1.19.60.24",
@@ -3663,7 +3704,7 @@
       ]
     },
     {
-      "id": "5cc83bf7e82b6866e869",
+      "id": "9b2c2d5647171eefd9b6",
       "title": "Minecraft 1.19.10.24 Preview & Beta",
       "type": "preview",
       "version": "1.19.10.24",
@@ -3678,7 +3719,7 @@
       ]
     },
     {
-      "id": "1add93ed23f99cb06715",
+      "id": "d0dd66069e769421ac4e",
       "title": "Minecraft 1.19.10.21 Preview & Beta",
       "type": "preview",
       "version": "1.19.10.21",
@@ -3693,7 +3734,7 @@
       ]
     },
     {
-      "id": "fa8b095e5aa6469547f1",
+      "id": "3d318bc68297c45fb4db",
       "title": "Minecraft 1.19.10.20 Preview & Beta",
       "type": "preview",
       "version": "1.19.10.20",
@@ -3708,7 +3749,7 @@
       ]
     },
     {
-      "id": "90f904507b1929255582",
+      "id": "de160fc1f3b99602e342",
       "title": "Minecraft 1.19.0.34/35 Preview & Beta",
       "type": "preview",
       "version": "1.19.0.34/35",
@@ -3723,7 +3764,7 @@
       ]
     },
     {
-      "id": "bf2858b27919cb0542e5",
+      "id": "fbaba6b9c5c7de4cd518",
       "title": "Minecraft 1.19.0.32/33 Preview & Beta",
       "type": "preview",
       "version": "1.19.0.32/33",
@@ -3738,7 +3779,7 @@
       ]
     },
     {
-      "id": "1777908f8e24609a5fa4",
+      "id": "449ab801e872b0d8090f",
       "title": "Minecraft 1.19.0.30/31 Preview & Beta",
       "type": "preview",
       "version": "1.19.0.30/31",
@@ -3753,7 +3794,7 @@
       ]
     },
     {
-      "id": "2c82ac91ca4e7754da71",
+      "id": "c066c580d6a4b0cbf946",
       "title": "Minecraft 1.19.0.28/29 Preview & Beta",
       "type": "preview",
       "version": "1.19.0.28/29",
@@ -3768,7 +3809,7 @@
       ]
     },
     {
-      "id": "de517e81a7778b690164",
+      "id": "8acde66d88153fc9ca3e",
       "title": "Minecraft: Bedrock Edition 1.16.210.60 Beta",
       "type": "beta",
       "version": "1.16.210.60",
@@ -3781,7 +3822,7 @@
       ]
     },
     {
-      "id": "c1d647a6259a2e9fc9b2",
+      "id": "0cf3add9f922fcc94d6a",
       "title": "Minecraft: Bedrock Edition 1.16.200.53 Beta",
       "type": "beta",
       "version": "1.16.200.53",
@@ -3798,7 +3839,7 @@
       ]
     },
     {
-      "id": "3f8fbc4f4d5b9a1b1fba",
+      "id": "31b3f620d256c802adaf",
       "title": "Minecraft: Bedrock Edition 1.16.200.52 Beta",
       "type": "beta",
       "version": "1.16.200.52",
@@ -3815,7 +3856,7 @@
       ]
     },
     {
-      "id": "a91d0c060edbdd34022d",
+      "id": "1b26b025429e08a0a87f",
       "title": "Minecraft: Bedrock Edition 1.16.200.51 Beta",
       "type": "beta",
       "version": "1.16.200.51",
@@ -3828,7 +3869,7 @@
       ]
     },
     {
-      "id": "f431426e18f80a2fd3c9",
+      "id": "d3f483a7310710608256",
       "title": "Minecraft: Bedrock Edition 1.16.30.57 Beta",
       "type": "beta",
       "version": "1.16.30.57",
@@ -3839,7 +3880,7 @@
       ]
     },
     {
-      "id": "65775542f757be10c345",
+      "id": "6ecefa32bad026a88e37",
       "title": "Minecraft: Bedrock Edition 1.16.100.60 Beta",
       "type": "beta",
       "version": "1.16.100.60",
@@ -3852,7 +3893,7 @@
       ]
     },
     {
-      "id": "d523c43f6e8c429af4ab",
+      "id": "48cbfb3218a118ea7919",
       "title": "Minecraft: Bedrock Edition 1.16.100.59 Beta",
       "type": "beta",
       "version": "1.16.100.59",
@@ -3865,7 +3906,7 @@
       ]
     },
     {
-      "id": "05387d8c39c3802b1284",
+      "id": "94ef9ed48b1c8e1a97df",
       "title": "Minecraft: Bedrock Edition 1.16.100.53 Beta",
       "type": "beta",
       "version": "1.16.100.53",
@@ -3878,7 +3919,7 @@
       ]
     },
     {
-      "id": "2b26533cbe541e7d817e",
+      "id": "cb27f2f75d4cdf9f420f",
       "title": "Minecraft: Bedrock Edition 1.16.100.52 Beta",
       "type": "beta",
       "version": "1.16.100.52",
@@ -3891,7 +3932,7 @@
       ]
     },
     {
-      "id": "184dca805c975c11ed7d",
+      "id": "8881a0306c0d86313018",
       "title": "Minecraft: Bedrock Edition 1.16.100.51 Beta",
       "type": "beta",
       "version": "1.16.100.51",
@@ -3904,7 +3945,7 @@
       ]
     },
     {
-      "id": "cbb0dd006cb2625ac822",
+      "id": "0d7d64aad084fcb6ddfb",
       "title": "Minecraft: Bedrock Edition 1.16.100.50 Beta",
       "type": "beta",
       "version": "1.16.100.50",
@@ -3917,7 +3958,7 @@
       ]
     },
     {
-      "id": "54c8ee4199d2f7ee9d22",
+      "id": "d6e7725fab108a91ffb4",
       "title": "Minecraft: Bedrock Edition 1.16.20.54 Beta",
       "type": "beta",
       "version": "1.16.20.54",
@@ -3930,7 +3971,7 @@
       ]
     },
     {
-      "id": "ec07377bd4a3e19ccefa",
+      "id": "10cfebc48d2335d2c766",
       "title": "Minecraft: Bedrock Edition 1.16.20.53 Beta",
       "type": "beta",
       "version": "1.16.20.53",
@@ -3943,7 +3984,7 @@
       ]
     },
     {
-      "id": "db1bb2649b6266258c47",
+      "id": "5499f187e02cde629702",
       "title": "Minecraft: Bedrock Edition 1.16.20.52 Beta",
       "type": "beta",
       "version": "1.16.20.52",
@@ -3956,7 +3997,7 @@
       ]
     },
     {
-      "id": "9561fce5685def7cfc6f",
+      "id": "76fb591ff50b45db184e",
       "title": "Minecraft: Bedrock Edition 1.16.20.50 Beta",
       "type": "beta",
       "version": "1.16.20.50",
@@ -3969,7 +4010,7 @@
       ]
     },
     {
-      "id": "31be3b2fe90b7051e5f6",
+      "id": "f4ee61e148848a283114",
       "title": "Minecraft: Bedrock Edition 1.16.0.68 Beta",
       "type": "beta",
       "version": "1.16.0.68",
@@ -3982,7 +4023,7 @@
       ]
     },
     {
-      "id": "6c87e568cda4429dfdf3",
+      "id": "7781b99b65cacd2ef84a",
       "title": "Minecraft: Bedrock Edition 1.16.0.66 Beta",
       "type": "beta",
       "version": "1.16.0.66",
@@ -3995,7 +4036,7 @@
       ]
     },
     {
-      "id": "aabd34541737884e738f",
+      "id": "23bd76fec651f9096681",
       "title": "Minecraft: Bedrock Edition 1.16.0.64 Beta",
       "type": "beta",
       "version": "1.16.0.64",
@@ -4008,7 +4049,7 @@
       ]
     },
     {
-      "id": "71c91b31a670123cfd5b",
+      "id": "a600bb2fca8ddf413813",
       "title": "Minecraft: Bedrock Edition 1.16.0.63 Beta",
       "type": "beta",
       "version": "1.16.0.63",
@@ -4021,7 +4062,7 @@
       ]
     },
     {
-      "id": "63e1fb9312d80f4edb3f",
+      "id": "271de177d4334d9fa4f1",
       "title": "Minecraft: Bedrock Edition 1.16.0.61 Beta",
       "type": "beta",
       "version": "1.16.0.61",
@@ -4034,7 +4075,7 @@
       ]
     },
     {
-      "id": "925d627daf8eab3c509a",
+      "id": "cbd211cdc92fbc186e6b",
       "title": "Minecraft: Bedrock Edition 1.16.0.60 Beta",
       "type": "beta",
       "version": "1.16.0.60",
@@ -4047,7 +4088,7 @@
       ]
     },
     {
-      "id": "7872f0b8e1233bc0be6a",
+      "id": "a7bb8b8f5847b81f8e8d",
       "title": "Minecraft: Bedrock Edition 1.16.0.59 Beta",
       "type": "beta",
       "version": "1.16.0.59",
@@ -4060,7 +4101,7 @@
       ]
     },
     {
-      "id": "9dcb006863de60c192dd",
+      "id": "02418814fc9d807277c7",
       "title": "Minecraft: Bedrock Edition 1.15.0.9 Beta",
       "type": "beta",
       "version": "1.15.0.9",
@@ -4071,7 +4112,7 @@
       ]
     },
     {
-      "id": "524d6e50681f37fe481d",
+      "id": "d63032c0df5c58831e8a",
       "title": "Minecraft: Bedrock Edition 1.16.0.58 Beta",
       "type": "beta",
       "version": "1.16.0.58",
@@ -4084,7 +4125,7 @@
       ]
     },
     {
-      "id": "cfdc98b103a99250668d",
+      "id": "81561d257aa04fe843a0",
       "title": "Minecraft: Bedrock Edition 1.16.0.57 Beta",
       "type": "beta",
       "version": "1.16.0.57",
@@ -4097,7 +4138,7 @@
       ]
     },
     {
-      "id": "57c8ffbf8c43ddb1c3f6",
+      "id": "580652cb7ec5903711c8",
       "title": "Minecraft: Bedrock Edition 1.16.0.55 Beta",
       "type": "beta",
       "version": "1.16.0.55",
@@ -4110,7 +4151,7 @@
       ]
     },
     {
-      "id": "9fb074af3fbe48831602",
+      "id": "fb1ed4c443ae8ad4ad36",
       "title": "Minecraft: Bedrock Edition 1.16.0.53 Beta",
       "type": "beta",
       "version": "1.16.0.53",
@@ -4123,7 +4164,7 @@
       ]
     },
     {
-      "id": "c746b78a3309e3229957",
+      "id": "b84d1f6503a1c0e7e6be",
       "title": "Minecraft: Bedrock Edition 1.16.0.51 Beta",
       "type": "beta",
       "version": "1.16.0.51",
@@ -4136,7 +4177,7 @@
       ]
     },
     {
-      "id": "3aa7df9d9a46c342f241",
+      "id": "2a19d2d9da2c4674df60",
       "title": "Minecraft: Bedrock Edition 1.15.0.56 Beta",
       "type": "beta",
       "version": "1.15.0.56",
@@ -4149,7 +4190,7 @@
       ]
     },
     {
-      "id": "9c9872a3e72a682dfb8f",
+      "id": "1f3c3a48d9c4e579f512",
       "title": "Minecraft: Bedrock Edition 1.15.0.55 Beta",
       "type": "beta",
       "version": "1.15.0.55",
@@ -4162,7 +4203,7 @@
       ]
     },
     {
-      "id": "827ea722eacc84826e51",
+      "id": "c2e4c7d9f3e5cd8498b6",
       "title": "Minecraft: Bedrock Edition 1.15.0.54 Beta",
       "type": "beta",
       "version": "1.15.0.54",
@@ -4175,7 +4216,7 @@
       ]
     },
     {
-      "id": "a8b00ff225392881baf6",
+      "id": "ac7fa5b87b3aad5de506",
       "title": "Minecraft: Bedrock Edition 1.15.0.53 Beta",
       "type": "beta",
       "version": "1.15.0.53",
@@ -4188,7 +4229,7 @@
       ]
     },
     {
-      "id": "2d37f25472c20efc5558",
+      "id": "9cb37d5b54207596b45d",
       "title": "Minecraft: Bedrock Edition 1.15.0.51 Beta",
       "type": "beta",
       "version": "1.15.0.51",
@@ -4201,7 +4242,7 @@
       ]
     },
     {
-      "id": "a6faff64e4ef039f7545",
+      "id": "d14ffaf3e4aa5af3dd70",
       "title": "Minecraft: Bedrock Edition 1.14.30.51 Beta",
       "type": "beta",
       "version": "1.14.30.51",
@@ -4214,7 +4255,7 @@
       ]
     },
     {
-      "id": "14ecd836977e71780538",
+      "id": "818cec36f584f3f90bb8",
       "title": "Minecraft: Bedrock Edition 1.14.25.1 Beta",
       "type": "beta",
       "version": "1.14.25.1",
@@ -4227,7 +4268,7 @@
       ]
     },
     {
-      "id": "c846e17d402a64cf6578",
+      "id": "a0df4eedb6343c436c6d",
       "title": "Minecraft: Bedrock Edition 1.14.2.51 Beta",
       "type": "beta",
       "version": "1.14.2.51",
@@ -4240,7 +4281,7 @@
       ]
     },
     {
-      "id": "51027fcea8bd3b035333",
+      "id": "f5be72817c6b5766a0d2",
       "title": "Minecraft: Bedrock Edition 1.14.2.50 Beta",
       "type": "beta",
       "version": "1.14.2.50",
@@ -4253,7 +4294,7 @@
       ]
     },
     {
-      "id": "e20981da1ddf2a542af4",
+      "id": "9b905a2ac0b5bc61e8d8",
       "title": "Minecraft: Bedrock Edition 1.14.1.3 Beta",
       "type": "beta",
       "version": "1.14.1.3",
@@ -4266,7 +4307,7 @@
       ]
     },
     {
-      "id": "706d3630fffd88c5ef1c",
+      "id": "d027be1253fbb4334501",
       "title": "Minecraft: Bedrock Edition 1.14.1.2 Beta",
       "type": "beta",
       "version": "1.14.1.2",
@@ -4279,7 +4320,7 @@
       ]
     },
     {
-      "id": "b2fc03e73320ae3aef64",
+      "id": "15008a92cf94a42eea01",
       "title": "Minecraft: Bedrock Edition 1.14.0.52 Beta",
       "type": "beta",
       "version": "1.14.0.52",
@@ -4292,7 +4333,7 @@
       ]
     },
     {
-      "id": "42ce442e15b83b74b824",
+      "id": "d64d66d74caf8f5df69a",
       "title": "Minecraft: Bedrock Edition 1.14.0.51 Beta",
       "type": "beta",
       "version": "1.14.0.51",
@@ -4305,7 +4346,7 @@
       ]
     },
     {
-      "id": "764f02d6682aeceaef82",
+      "id": "50d63beddd444465eb25",
       "title": "Minecraft: Bedrock Edition 1.14.0.50 Beta",
       "type": "beta",
       "version": "1.14.0.50",
@@ -4318,7 +4359,7 @@
       ]
     },
     {
-      "id": "1fa5af77108aded60585",
+      "id": "56bc7d912859e63703e7",
       "title": "Minecraft: Bedrock Edition 1.14.0.6 Beta",
       "type": "beta",
       "version": "1.14.0.6",
@@ -4331,7 +4372,7 @@
       ]
     },
     {
-      "id": "570ca0e34c9aed4bc89e",
+      "id": "20240bc8fe4959d4f218",
       "title": "Minecraft: Bedrock Edition 1.14.0.4 Beta",
       "type": "beta",
       "version": "1.14.0.4",
@@ -4344,7 +4385,7 @@
       ]
     },
     {
-      "id": "2c5ecc8f093d5ab97526",
+      "id": "d54bc2af32ebe0dec8fd",
       "title": "Minecraft: Bedrock Edition 1.14.0.3 Beta",
       "type": "beta",
       "version": "1.14.0.3",
@@ -4357,7 +4398,7 @@
       ]
     },
     {
-      "id": "a734d2938e075749515c",
+      "id": "e5d6fe7e3b7da854bdfd",
       "title": "Minecraft: Bedrock Edition 1.14.0.2 Beta",
       "type": "beta",
       "version": "1.14.0.2",
@@ -4370,7 +4411,7 @@
       ]
     },
     {
-      "id": "21b3a36a8b22facbf8d0",
+      "id": "5909bcf2bcee71d74318",
       "title": "Minecraft: Bedrock Edition 1.14.0.1 Beta",
       "type": "beta",
       "version": "1.14.0.1",
@@ -4383,7 +4424,7 @@
       ]
     },
     {
-      "id": "55606a207ef57d21d44c",
+      "id": "ab9dc5fef4b78e73cc74",
       "title": "Minecraft: Bedrock Edition 1.13.0.18 Beta",
       "type": "beta",
       "version": "1.13.0.18",
@@ -4396,7 +4437,7 @@
       ]
     },
     {
-      "id": "403164e6c616c0e2e00b",
+      "id": "bae23f50d6b9645a20b6",
       "title": "Minecraft: Bedrock Edition 1.13.0.17 Beta",
       "type": "beta",
       "version": "1.13.0.17",
@@ -4409,7 +4450,7 @@
       ]
     },
     {
-      "id": "3753efa55c623dd070a6",
+      "id": "3b7f254c9489fe496e5b",
       "title": "Minecraft: Bedrock Edition 1.13.0.15 Beta",
       "type": "beta",
       "version": "1.13.0.15",
@@ -4422,7 +4463,7 @@
       ]
     },
     {
-      "id": "78c11259fed47a19e054",
+      "id": "195e639581ec989dcb8e",
       "title": "Minecraft: Bedrock Edition 1.13.0.13 Beta",
       "type": "beta",
       "version": "1.13.0.13",
@@ -4435,7 +4476,7 @@
       ]
     },
     {
-      "id": "4e2ba6199290f8391d13",
+      "id": "65b4a445ebca773288f2",
       "title": "Minecraft: Bedrock Edition 1.13.0.9 Beta",
       "type": "beta",
       "version": "1.13.0.9",
@@ -4448,7 +4489,7 @@
       ]
     },
     {
-      "id": "1167a13167e1ee22ddce",
+      "id": "1e31ae870b36077d301a",
       "title": "Minecraft: Bedrock Edition 1.13.0.6 Beta",
       "type": "beta",
       "version": "1.13.0.6",
@@ -4461,7 +4502,7 @@
       ]
     },
     {
-      "id": "a1f0414c271c737079cd",
+      "id": "2fa1fa9e5312af055578",
       "title": "Minecraft: Bedrock Edition 1.13.0.5 Beta",
       "type": "beta",
       "version": "1.13.0.5",
@@ -4474,7 +4515,7 @@
       ]
     },
     {
-      "id": "d40decc4c8b166358e47",
+      "id": "157aebc025297bc0b0db",
       "title": "Minecraft: Bedrock Edition 1.13.0.4 Beta",
       "type": "beta",
       "version": "1.13.0.4",
@@ -4487,7 +4528,7 @@
       ]
     },
     {
-      "id": "923039fb4019e16eb080",
+      "id": "95254596a8a140d181f4",
       "title": "Minecraft: Bedrock Edition 1.13.0.2 Beta",
       "type": "beta",
       "version": "1.13.0.2",
@@ -4500,7 +4541,7 @@
       ]
     },
     {
-      "id": "af2a661f508dbdd62edc",
+      "id": "b462453949e4969e041b",
       "title": "Minecraft: Bedrock Edition 1.13.0.1 Beta",
       "type": "beta",
       "version": "1.13.0.1",
@@ -4513,7 +4554,7 @@
       ]
     },
     {
-      "id": "167e2c5eff69db12d553",
+      "id": "cbe7cee5a5325878ad97",
       "title": "Minecraft: Bedrock Edition 1.12.0.14 Beta",
       "type": "beta",
       "version": "1.12.0.14",
@@ -4526,7 +4567,7 @@
       ]
     },
     {
-      "id": "eeb3f3a360a02c94b623",
+      "id": "30c48faf02b9dbcfba20",
       "title": "Minecraft: Bedrock Edition 1.12.0.13 Beta",
       "type": "beta",
       "version": "1.12.0.13",
@@ -4539,7 +4580,7 @@
       ]
     },
     {
-      "id": "2a99748e36df14314f65",
+      "id": "d975c0e2113059558d08",
       "title": "Minecraft: Bedrock Edition 1.12.0.12 Beta",
       "type": "beta",
       "version": "1.12.0.12",
@@ -4552,7 +4593,7 @@
       ]
     },
     {
-      "id": "760ab740d0161be1525b",
+      "id": "77ee99df356155550ff7",
       "title": "Minecraft: Bedrock Edition 1.12.0.11 Beta",
       "type": "beta",
       "version": "1.12.0.11",
@@ -4565,7 +4606,7 @@
       ]
     },
     {
-      "id": "e402423b8e4fd38976db",
+      "id": "59db3a7cdbe64638d39d",
       "title": "Minecraft: Bedrock Edition 1.12.0.10 Beta",
       "type": "beta",
       "version": "1.12.0.10",
@@ -4578,7 +4619,7 @@
       ]
     },
     {
-      "id": "fd5d38074768e3bee06b",
+      "id": "1d9acb3fabad640e9ece",
       "title": "Minecraft: Bedrock Edition 1.12.0.9 Beta",
       "type": "beta",
       "version": "1.12.0.9",
@@ -4591,7 +4632,7 @@
       ]
     },
     {
-      "id": "bf8b789cf22185f54ff7",
+      "id": "b5a0a304c2932b8d063a",
       "title": "Minecraft: Bedrock Edition 1.12.0.6 Beta",
       "type": "beta",
       "version": "1.12.0.6",
@@ -4604,7 +4645,7 @@
       ]
     },
     {
-      "id": "45d2bf6f440e2ae5a0e2",
+      "id": "d2e64f782b090cc4c1ce",
       "title": "Minecraft: Bedrock Edition 1.12.0.4 Beta",
       "type": "beta",
       "version": "1.12.0.4",
@@ -4617,7 +4658,7 @@
       ]
     },
     {
-      "id": "c00c81d1fa3a38be52a9",
+      "id": "9fd5dce09a56c4146f27",
       "title": "Minecraft: Bedrock Edition 1.12.0.3 Beta",
       "type": "beta",
       "version": "1.12.0.3",
@@ -4630,7 +4671,7 @@
       ]
     },
     {
-      "id": "b7e985cf1135bbd28bf8",
+      "id": "c03a6bb8ca0975dfa071",
       "title": "Minecraft: Bedrock Edition 1.12.0.2 Beta",
       "type": "beta",
       "version": "1.12.0.2",
@@ -4643,7 +4684,7 @@
       ]
     },
     {
-      "id": "f6d1079355eab4e090b1",
+      "id": "b69b1256a9c7212898c9",
       "title": "Minecraft: Bedrock Edition 1.11.0.10 Beta",
       "type": "beta",
       "version": "1.11.0.10",
@@ -4656,7 +4697,7 @@
       ]
     },
     {
-      "id": "0fe4699b13c9ac6e4f4a",
+      "id": "7ebee1d738ecce77093a",
       "title": "Minecraft: Bedrock Edition 1.11.0.9 Beta",
       "type": "beta",
       "version": "1.11.0.9",
@@ -4669,7 +4710,7 @@
       ]
     },
     {
-      "id": "a05c7046290f0178a820",
+      "id": "74f68a91d9c2daf569a1",
       "title": "Minecraft: Bedrock Edition 1.11.0.8 Beta",
       "type": "beta",
       "version": "1.11.0.8",
@@ -4682,7 +4723,7 @@
       ]
     },
     {
-      "id": "24fd7aebe910ab107c2e",
+      "id": "1b97c72e352598d927f2",
       "title": "Minecraft: Bedrock Edition 1.11.0.7 Beta",
       "type": "beta",
       "version": "1.11.0.7",
@@ -4695,7 +4736,7 @@
       ]
     },
     {
-      "id": "a1fef335e6f5da2e3ad8",
+      "id": "e3d3400db38e8a3381d9",
       "title": "Minecraft: Bedrock Edition 1.11.0.5 Beta",
       "type": "beta",
       "version": "1.11.0.5",
@@ -4708,7 +4749,7 @@
       ]
     },
     {
-      "id": "a857ea8dcad6a3132a0b",
+      "id": "d36c32e153218204347e",
       "title": "Minecraft: Bedrock Edition 1.11.0.4 Beta",
       "type": "beta",
       "version": "1.11.0.4",
@@ -4721,7 +4762,7 @@
       ]
     },
     {
-      "id": "6f75bafb965ee998a46f",
+      "id": "a3ea76c6eb6bd4361bda",
       "title": "Minecraft: Bedrock Edition 1.11.0.3 Beta",
       "type": "beta",
       "version": "1.11.0.3",
@@ -4734,7 +4775,7 @@
       ]
     },
     {
-      "id": "fdcbf9637e6d465e564a",
+      "id": "abb07c9f9627f0b106d8",
       "title": "Minecraft: Bedrock Edition 1.11.0.1 Beta",
       "type": "beta",
       "version": "1.11.0.1",
@@ -4747,7 +4788,7 @@
       ]
     },
     {
-      "id": "3157b89d5e48c753e0ea",
+      "id": "99127b788410714db670",
       "title": "Minecraft: Bedrock Edition 1.10.0.4 Beta",
       "type": "beta",
       "version": "1.10.0.4",
@@ -4760,7 +4801,7 @@
       ]
     },
     {
-      "id": "55df38d9f527b0b8b40f",
+      "id": "ad04e8d4b6d28d3b9a2b",
       "title": "Minecraft: Bedrock Edition 1.10.0.3 Beta",
       "type": "beta",
       "version": "1.10.0.3",
@@ -4773,7 +4814,7 @@
       ]
     },
     {
-      "id": "f9a7f6c4ac7774aff6ff",
+      "id": "409cf742e2694285e50c",
       "title": "Minecraft: Bedrock Edition 1.9.0.5 Beta",
       "type": "beta",
       "version": "1.9.0.5",
@@ -4786,7 +4827,7 @@
       ]
     },
     {
-      "id": "cbf8657979ac163e204b",
+      "id": "af237d3d8c87b45446e6",
       "title": "Minecraft: Bedrock Edition 1.9.0.3 Beta",
       "type": "beta",
       "version": "1.9.0.3",
@@ -4799,7 +4840,7 @@
       ]
     },
     {
-      "id": "25a3bd7df5eaf1f78dec",
+      "id": "0a005fbe770dd417f2a9",
       "title": "Minecraft: Bedrock Edition 1.9.0.2 Beta",
       "type": "beta",
       "version": "1.9.0.2",
@@ -4812,7 +4853,7 @@
       ]
     },
     {
-      "id": "c72bb26442dfea0be335",
+      "id": "4c2c98ef84baa05f9184",
       "title": "Minecraft: Bedrock Edition 1.9.0.0 Beta",
       "type": "beta",
       "version": "1.9.0.0",
@@ -4825,7 +4866,7 @@
       ]
     },
     {
-      "id": "bb19b533746f865c6997",
+      "id": "c62c2e818d89624cef71",
       "title": "Minecraft: Bedrock Edition 1.8.0.14 Beta",
       "type": "beta",
       "version": "1.8.0.14",
@@ -4838,7 +4879,7 @@
       ]
     },
     {
-      "id": "a68a3d89e3f612081a41",
+      "id": "ef4f936f7bc99f889b66",
       "title": "Minecraft: Bedrock Edition 1.8.0.13 Beta",
       "type": "beta",
       "version": "1.8.0.13",
@@ -4851,7 +4892,7 @@
       ]
     },
     {
-      "id": "7491cc488828299662db",
+      "id": "d9581adea7856858f974",
       "title": "Minecraft: Bedrock Edition 1.8.0.11 Beta",
       "type": "beta",
       "version": "1.8.0.11",
@@ -4864,7 +4905,7 @@
       ]
     },
     {
-      "id": "897511c8435c59c7a64e",
+      "id": "b7ba3ef57d51f38cf801",
       "title": "Minecraft: Bedrock Edition 1.8.0.10 Beta",
       "type": "beta",
       "version": "1.8.0.10",
@@ -4877,7 +4918,7 @@
       ]
     },
     {
-      "id": "b1c2f3a2d83a7bad654c",
+      "id": "86dd7403b71d7224994c",
       "title": "Minecraft: Bedrock Edition 1.8.0.8 Beta",
       "type": "beta",
       "version": "1.8.0.8",
@@ -4890,7 +4931,7 @@
       ]
     },
     {
-      "id": "c997e1ccf34305187ca6",
+      "id": "9534a3d7b04f22f84434",
       "title": "Minecraft: Bedrock Edition 1.7.0.9 Beta",
       "type": "beta",
       "version": "1.7.0.9",
@@ -4903,7 +4944,7 @@
       ]
     },
     {
-      "id": "68d7a96fa4b7b1f23774",
+      "id": "989d0d1cdf077f10bdda",
       "title": "Minecraft: Bedrock Edition 1.7.0.7 Beta",
       "type": "beta",
       "version": "1.7.0.7",
@@ -4916,7 +4957,7 @@
       ]
     },
     {
-      "id": "358c26020180da1b8809",
+      "id": "8b3d99ae591a46f03b10",
       "title": "Minecraft: Bedrock Edition 1.7.0.5 Beta",
       "type": "beta",
       "version": "1.7.0.5",
@@ -4929,7 +4970,7 @@
       ]
     },
     {
-      "id": "03997106091da8ef624e",
+      "id": "2cbf4e3dce480a03bde1",
       "title": "Minecraft: Bedrock Edition 1.7.0.3 Beta",
       "type": "beta",
       "version": "1.7.0.3",
@@ -4942,7 +4983,7 @@
       ]
     },
     {
-      "id": "ead3f877af1abb4d0460",
+      "id": "c6fe08dce20c283c4143",
       "title": "Minecraft: Bedrock Edition 1.7.0.2 Beta",
       "type": "beta",
       "version": "1.7.0.2",
@@ -4955,7 +4996,7 @@
       ]
     },
     {
-      "id": "12711b0367f7564a8b8a",
+      "id": "5c9b0d39a5736108d634",
       "title": "Minecraft: Bedrock Edition 1.6.0.30 Beta",
       "type": "beta",
       "version": "1.6.0.30",
@@ -4968,7 +5009,7 @@
       ]
     },
     {
-      "id": "c57f1486531938d89370",
+      "id": "46ae0cac5502695d9f7f",
       "title": "Minecraft: Bedrock Edition 1.6.0.8 Beta",
       "type": "beta",
       "version": "1.6.0.8",
@@ -4981,7 +5022,7 @@
       ]
     },
     {
-      "id": "57a0f80f9c334205cf7e",
+      "id": "7e28bb9b2115e3ffd0e9",
       "title": "Minecraft: Bedrock Edition 1.6.0.6 Beta",
       "type": "beta",
       "version": "1.6.0.6",
@@ -4994,7 +5035,7 @@
       ]
     },
     {
-      "id": "687f3c39ea8947a38042",
+      "id": "0f44a881df65ce4330e4",
       "title": "Minecraft: Bedrock Edition 1.6.0.5 Beta",
       "type": "beta",
       "version": "1.6.0.5",
@@ -5007,7 +5048,7 @@
       ]
     },
     {
-      "id": "7cc71a5a8cd3f89fa2a6",
+      "id": "4a8b2c11ff6d4487d408",
       "title": "Minecraft: Bedrock Edition 1.6.0.1 Beta",
       "type": "beta",
       "version": "1.6.0.1",
@@ -5020,7 +5061,7 @@
       ]
     },
     {
-      "id": "61f51bcd70f9731456ac",
+      "id": "f4ff86685c37ff5b20f0",
       "title": "Minecraft: Bedrock Edition 1.5.0.10 Beta",
       "type": "beta",
       "version": "1.5.0.10",
@@ -5033,7 +5074,7 @@
       ]
     },
     {
-      "id": "83eafa983fe61ce0a970",
+      "id": "199bc3d090c2b322bd80",
       "title": "Minecraft: Bedrock Edition 1.5.0.7 Beta",
       "type": "beta",
       "version": "1.5.0.7",
@@ -5046,7 +5087,7 @@
       ]
     },
     {
-      "id": "1bae6526fd84ada5a915",
+      "id": "f8b3b75d3152976073e7",
       "title": "Minecraft: Bedrock Edition 1.5.0.4 Beta",
       "type": "beta",
       "version": "1.5.0.4",
@@ -5059,7 +5100,7 @@
       ]
     },
     {
-      "id": "0bf6ddcba519a3388c99",
+      "id": "6117383f7f2ab63da697",
       "title": "Minecraft: Bedrock Edition 1.5.0.1 Beta",
       "type": "beta",
       "version": "1.5.0.1",
@@ -5072,7 +5113,7 @@
       ]
     },
     {
-      "id": "46637e0995a04223d0cf",
+      "id": "68aa79bf54d81c6dd8fd",
       "title": "Minecraft: Bedrock Edition 1.5.0.0 Beta",
       "type": "beta",
       "version": "1.5.0.0",
@@ -5085,7 +5126,7 @@
       ]
     },
     {
-      "id": "cb4fd3142d0b01e78fc6",
+      "id": "e0321c027d922d77fb67",
       "title": "Minecraft: Bedrock Edition 1.2.20.2 Beta",
       "type": "beta",
       "version": "1.2.20.2",
@@ -5098,7 +5139,7 @@
       ]
     },
     {
-      "id": "767cc22e45d0353dadcc",
+      "id": "3a4cb5eef826085190e9",
       "title": "Minecraft: Bedrock Edition 1.2.20.1 Beta",
       "type": "beta",
       "version": "1.2.20.1",
@@ -5111,7 +5152,7 @@
       ]
     },
     {
-      "id": "6baaee49c6ae04025a5d",
+      "id": "3d94495f37b47e875627",
       "title": "Minecraft: Bedrock Edition 0.15.4 Beta",
       "type": "beta",
       "version": "0.15.4",
@@ -5124,7 +5165,7 @@
       ]
     },
     {
-      "id": "8ca49c867a6612fe7df5",
+      "id": "4f37bb36113e25f258be",
       "title": "Minecraft: Bedrock Edition 0.15.6 Beta",
       "type": "beta",
       "version": "0.15.6",
@@ -5137,7 +5178,7 @@
       ]
     },
     {
-      "id": "e21b83ce2d0877f3cdc8",
+      "id": "03118581d464fef234da",
       "title": "Minecraft: Bedrock Edition 0.15.7 Beta",
       "type": "beta",
       "version": "0.15.7",
@@ -5150,7 +5191,7 @@
       ]
     },
     {
-      "id": "d5ba40ab9955ded8bf1c",
+      "id": "6862e00abae0334c1769",
       "title": "Minecraft: Bedrock Edition 0.16.2 Beta",
       "type": "beta",
       "version": "0.16.2",
@@ -5163,7 +5204,7 @@
       ]
     },
     {
-      "id": "18b9b6ca01562c40254b",
+      "id": "8d2712d2b2ba39899f19",
       "title": "Minecraft: Bedrock Edition 0.16.1 Beta",
       "type": "beta",
       "version": "0.16.1",
@@ -5176,7 +5217,7 @@
       ]
     },
     {
-      "id": "ab851e14c2a8ca57d2b6",
+      "id": "048caef77a94ee0a8320",
       "title": "Minecraft: Bedrock Edition 0.15.10 Beta",
       "type": "beta",
       "version": "0.15.10",
@@ -5189,7 +5230,7 @@
       ]
     },
     {
-      "id": "4cf33faab980f41dac9b",
+      "id": "127a11714c3d2f3b2dfc",
       "title": "Minecraft: Bedrock Edition 0.15.9 Beta",
       "type": "beta",
       "version": "0.15.9",
@@ -5202,7 +5243,7 @@
       ]
     },
     {
-      "id": "e5bf8a56d7604df0edf5",
+      "id": "99d652c43a5787933197",
       "title": "Minecraft: Bedrock Edition 0.15.8 Beta",
       "type": "beta",
       "version": "0.15.8",
@@ -5215,7 +5256,7 @@
       ]
     },
     {
-      "id": "dca9845d7730b45b4002",
+      "id": "ab2c492220fd7948e39d",
       "title": "Minecraft: Bedrock Edition 1.0.4 Beta",
       "type": "beta",
       "version": "1.0.4",
@@ -5227,7 +5268,7 @@
       ]
     },
     {
-      "id": "5745c3fe372558493aba",
+      "id": "fc912ab7c9c3f6861438",
       "title": "Minecraft: Bedrock Edition 1.0.4 Beta",
       "type": "beta",
       "version": "1.0.4",
@@ -5239,7 +5280,7 @@
       ]
     },
     {
-      "id": "e198e5c4d361be0474ba",
+      "id": "bb312ac8895cf1cd82eb",
       "title": "Minecraft: Bedrock Edition 1.0.5 Beta",
       "type": "beta",
       "version": "1.0.5",
@@ -5251,7 +5292,7 @@
       ]
     },
     {
-      "id": "e4c5d8141f63ade1f163",
+      "id": "425d8ef116ee8d2eea9b",
       "title": "Minecraft: Bedrock Edition 1.0.5 Beta",
       "type": "beta",
       "version": "1.0.5",
@@ -5263,7 +5304,7 @@
       ]
     },
     {
-      "id": "8074bfdcb2007fb7cb30",
+      "id": "5ba3a561f2e20a809419",
       "title": "Minecraft: Bedrock Edition 1.0.5 Beta",
       "type": "beta",
       "version": "1.0.5",
@@ -5275,7 +5316,7 @@
       ]
     },
     {
-      "id": "8871221daaf27d79b29a",
+      "id": "f3e0070eeb5e739b2d81",
       "title": "Minecraft: Bedrock Edition 1.0.6 Beta",
       "type": "beta",
       "version": "1.0.6",
@@ -5287,7 +5328,7 @@
       ]
     },
     {
-      "id": "8b6caf24d603f0194877",
+      "id": "acd795a04befe5eedb87",
       "title": "Minecraft: Bedrock Edition 1.1 Beta",
       "type": "beta",
       "version": "1.1",
@@ -5299,7 +5340,7 @@
       ]
     },
     {
-      "id": "06f5d91ad97664a70a3e",
+      "id": "22e402ea73e308a1e537",
       "title": "Minecraft: Bedrock Edition 1.1 Beta",
       "type": "beta",
       "version": "1.1",
@@ -5311,7 +5352,7 @@
       ]
     },
     {
-      "id": "e7fcd47d85a2aff6fdc1",
+      "id": "6315d09055ca3b0c5660",
       "title": "Minecraft: Bedrock Edition 1.1 Beta",
       "type": "beta",
       "version": "1.1",
@@ -5323,7 +5364,7 @@
       ]
     },
     {
-      "id": "1db1fc52befd53cd03f3",
+      "id": "7d89b3b4f31b5dc3a13b",
       "title": "Minecraft: Bedrock Edition 1.1 Beta",
       "type": "beta",
       "version": "1.1",
@@ -5335,7 +5376,7 @@
       ]
     },
     {
-      "id": "d32304659e5b03611ec2",
+      "id": "a8eb6fc32d3ebdb241cd",
       "title": "Minecraft: Bedrock Edition 1.1 Beta",
       "type": "beta",
       "version": "1.1",
@@ -5347,7 +5388,7 @@
       ]
     },
     {
-      "id": "724ebb8c680ba20960c7",
+      "id": "c7066b713530f30c8fd5",
       "title": "Minecraft: Bedrock Edition 1.1 Beta",
       "type": "beta",
       "version": "1.1",
@@ -5359,7 +5400,7 @@
       ]
     },
     {
-      "id": "9fe52b40a98f31ce6524",
+      "id": "7a052d746866cb778237",
       "title": "Minecraft: Bedrock Edition 1.1 Beta",
       "type": "beta",
       "version": "1.1",
@@ -5371,7 +5412,7 @@
       ]
     },
     {
-      "id": "d2330b26e94ee61a04dd",
+      "id": "8a0923a8be2e5bf5e424",
       "title": "Minecraft: Bedrock Edition 1.1.1 Beta",
       "type": "beta",
       "version": "1.1.1",
@@ -5383,7 +5424,7 @@
       ]
     },
     {
-      "id": "e6f5707e13dd00a48beb",
+      "id": "d00f5d54c16081183d83",
       "title": "Minecraft: Bedrock Edition 1.1.1 Beta",
       "type": "beta",
       "version": "1.1.1",
@@ -5395,7 +5436,7 @@
       ]
     },
     {
-      "id": "e9b8208d0e3a43526f31",
+      "id": "a683a87065be47bb9cf7",
       "title": "Minecraft: Bedrock Edition 1.1.3 Beta",
       "type": "beta",
       "version": "1.1.3",
@@ -5407,7 +5448,7 @@
       ]
     },
     {
-      "id": "581a5ee25273d08799e7",
+      "id": "ad3881f041418d5390d4",
       "title": "Minecraft: Bedrock Edition 1.1.3 Beta",
       "type": "beta",
       "version": "1.1.3",
@@ -5419,7 +5460,7 @@
       ]
     },
     {
-      "id": "c611f6660615e5ad29d2",
+      "id": "6e23685c14efe71c51e2",
       "title": "Minecraft: Bedrock Edition 1.2.6 Beta",
       "type": "beta",
       "version": "1.2.6",
@@ -5431,7 +5472,7 @@
       ]
     },
     {
-      "id": "0616089bd42029e9aa30",
+      "id": "1220ac1c3e941dbc65d1",
       "title": "Minecraft: Bedrock Edition 1.2.14.3 Beta",
       "type": "beta",
       "version": "1.2.14.3",
@@ -5444,7 +5485,7 @@
       ]
     },
     {
-      "id": "fcb2adeef541772bf600",
+      "id": "75d6d4700704c9e45cd4",
       "title": "Minecraft: Bedrock Edition 1.2.13.6 Beta",
       "type": "beta",
       "version": "1.2.13.6",
@@ -5457,7 +5498,7 @@
       ]
     },
     {
-      "id": "5cb162dee515e8860a63",
+      "id": "c97abbe686a02f1afbd8",
       "title": "Minecraft: Bedrock Edition 1.2.13.5 Beta",
       "type": "beta",
       "version": "1.2.13.5",
@@ -5470,7 +5511,7 @@
       ]
     },
     {
-      "id": "0e078be81e8a03dc2853",
+      "id": "eaca6502bd452f5724d3",
       "title": "Minecraft: Bedrock Edition 1.2.13.11 Beta",
       "type": "beta",
       "version": "1.2.13.11",
@@ -5483,7 +5524,7 @@
       ]
     },
     {
-      "id": "940ab0ae3944096ba51f",
+      "id": "8e4346d13d9f9223b685",
       "title": "Minecraft: Bedrock Edition 1.2.13.10 Beta",
       "type": "beta",
       "version": "1.2.13.10",
