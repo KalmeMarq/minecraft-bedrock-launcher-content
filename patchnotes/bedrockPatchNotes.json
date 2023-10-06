@@ -1,6 +1,17 @@
 {
   "entries": [
     {
+      "id": "f1c52ea859db3895378b",
+      "title": "Minecraft: Bedrock Edition 1.20.32",
+      "type": "release",
+      "version": "1.20.32",
+      "date": "2023-10-05",
+      "body": "<p>A new update has been released to address some issues that were introduced with the 1.20.30 update.</p><p>Please continue to upvote and report any new bugs at <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://bugs.mojang.com\">bugs.mojang.com</a> and leave us your feedback at <a href=\"https://feedback.minecraft.net\">feedback.minecraft.net</a>!<br><br></p><p id=\"h_01HBVXFE2PBX7SQXN5QQEPCWDF\"><span class=\"wysiwyg-font-size-x-large\"><strong>Fixes:</strong></span></p><ul><li>Fixed “§” text modifiers overwriting text when next to a line break on iOS (<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://bugs.mojang.com/browse/MCPE-174480\">MCPE-174480</a>)</li><li>Fixed an issue that caused the keyboard to become unresponsive when placing multiple Signs successively (<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://bugs.mojang.com/browse/MCPE-175072\">MCPE-175072</a>)</li><li>Buttons and some other non-full blocks once again prevent Spiders and other mobs from spawning on them and on adjacent blocks (<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://bugs.mojang.com/browse/MCPE-175119\">MCPE-175119</a>)</li><li>Fixed purchased content not transferring to a Microsoft account when logging in for the first time<br><br></li></ul><p id=\"h_01HBVXFE2PBEK65AD2G5214Y0A\"><span class=\"wysiwyg-font-size-x-large\"><strong>Known Issue:</strong></span></p><ul><li>You may experience a crash when a player dies while playing splitscreen multiplayer on PlayStation with the Immediate Respawn game rule enabled. This will be resolved in an upcoming update.</li></ul>",
+      "platforms": [
+        "All"
+      ]
+    },
+    {
       "id": "3869766817a391c5151c",
       "title": "Minecraft 1.20.40.23 Preview & Beta",
       "type": "preview",
@@ -16,7 +27,7 @@
       ]
     },
     {
-      "id": "15b9f2f1b0668a6a97fb",
+      "id": "cd728bbdb589eb20c703",
       "title": "Minecraft: Bedrock Edition 1.20.31",
       "type": "release",
       "version": "1.20.31",
@@ -42,7 +53,7 @@
       ]
     },
     {
-      "id": "0a3e21532c0df7ad6ea2",
+      "id": "c7f32b5593f8c979e7e9",
       "title": "Minecraft: Bedrock Edition 1.20.30",
       "type": "release",
       "version": "1.20.30",
